@@ -1,0 +1,104 @@
+mwe,frequency,idiomaticity_score,known_idiom
+pan comido.,0,0.950,True
+eso no es,12,0.700,False
+eso es lo,11,0.700,False
+no hay nada,10,0.700,False
+a estar bien.,5,0.700,False
+la puta boca,0,0.650,False
+metí la pata,0,0.650,False
+no hay,39,0.600,False
+esto es,37,0.600,False
+por favor.,35,0.600,False
+no puedo,33,0.600,False
+vamos a,32,0.600,False
+está bien.,32,0.600,False
+"sí, lo",28,0.600,False
+eso no,26,0.600,False
+que sí.,25,0.600,False
+no sé,25,0.600,False
+"por favor,",24,0.600,False
+de aquí.,23,0.600,False
+gracias por,23,0.600,False
+yo no,23,0.600,False
+ya lo,22,0.600,False
+lo sé.,22,0.600,False
+va a,22,0.600,False
+¿de qué,22,0.600,False
+que no.,21,0.600,False
+¿dónde está,20,0.600,False
+¿qué te,19,0.600,False
+"lo siento,",19,0.600,False
+tenemos que,17,0.600,False
+no quiero,17,0.600,False
+muy bien.,17,0.600,False
+"está bien,",17,0.600,False
+¿qué es,17,0.600,False
+¿qué demonios,16,0.600,False
+creo que,16,0.600,False
+¿quién es,16,0.600,False
+tienes que,15,0.600,False
+a casa.,15,0.600,False
+esto no,15,0.600,False
+lo siento.,15,0.600,False
+eres un,15,0.600,False
+¿qué diablos,14,0.600,False
+¿qué le,13,0.600,False
+¿de dónde,13,0.600,False
+¿cómo lo,13,0.600,False
+¿cuál es,13,0.600,False
+de acuerdo.,13,0.600,False
+es eso?,12,0.600,False
+"muy bien,",12,0.600,False
+¿qué estás,11,0.600,False
+lo he,11,0.600,False
+¿en qué,11,0.600,False
+no tiene,11,0.600,False
+en serio.,11,0.600,False
+nada que,11,0.600,False
+un buen,11,0.600,False
+lo es.,11,0.600,False
+es esto?,11,0.600,False
+estoy bien.,10,0.600,False
+de nuevo.,10,0.600,False
+de ti.,10,0.600,False
+a mí.,10,0.600,False
+por qué?,10,0.600,False
+¿no es,10,0.600,False
+con él.,10,0.600,False
+hay nada,10,0.600,False
+soy yo.,10,0.600,False
+¿y qué,10,0.600,False
+lo hice.,10,0.600,False
+está aquí.,10,0.600,False
+¿por qué lo,9,0.600,False
+¿sabes lo que,8,0.600,False
+no va a,8,0.600,False
+no voy a,7,0.600,False
+¿por qué no,7,0.600,False
+sé lo que,7,0.600,False
+yo no lo,6,0.600,False
+no sé de,6,0.600,False
+esto no es,6,0.600,False
+me voy a,6,0.600,False
+todo lo que,6,0.600,False
+hay nada que,6,0.600,False
+¿qué es lo,6,0.600,False
+no hay nada que,6,0.600,False
+lo que sea.,5,0.600,False
+salir de aquí.,5,0.600,False
+sé de qué,5,0.600,False
+es todo lo,5,0.600,False
+ese es el,5,0.600,False
+no sé qué,5,0.600,False
+¿dónde está mi,5,0.600,False
+¿por qué no?,5,0.600,False
+hablar con él.,5,0.600,False
+por supuesto que,5,0.600,False
+no sé de qué,5,0.600,False
+que hacer algo.,4,0.600,False
+tienes que hacer,3,0.600,False
+no puedes hacer,3,0.600,False
+no puedo hacer,3,0.600,False
+podría ser cualquiera,0,0.600,False
+no podría estar más de acuerdo,0,0.600,False
+no puede ser verdad,0,0.600,False

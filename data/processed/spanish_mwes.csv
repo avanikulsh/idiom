@@ -1,0 +1,2574 @@
+mwe,frequency,length,type
+no lo,122,2,ngram
+no es,91,2,ngram
+lo que,79,2,ngram
+¿por qué,62,2,ngram
+eso es,59,2,ngram
+no me,54,2,ngram
+"no, no",51,2,ngram
+no te,47,2,ngram
+voy a,40,2,ngram
+es una,40,2,ngram
+no hay,39,2,ngram
+es un,38,2,ngram
+esto es,37,2,ngram
+por favor.,35,2,ngram
+no puedo,33,2,ngram
+vamos a,32,2,ngram
+está bien.,32,2,ngram
+es lo,31,2,ngram
+"sí, lo",28,2,ngram
+es muy,27,2,ngram
+eso no,26,2,ngram
+es mi,26,2,ngram
+que sí.,25,2,ngram
+tengo que,25,2,ngram
+no sé,25,2,ngram
+es lo que,25,3,ngram
+"por favor,",24,2,ngram
+de aquí.,23,2,ngram
+gracias por,23,2,ngram
+yo no,23,2,ngram
+"no, no,",23,2,ngram
+"no, no lo",23,3,ngram
+ya lo,22,2,ngram
+lo sé.,22,2,ngram
+te lo,22,2,ngram
+va a,22,2,ngram
+¿de qué,22,2,ngram
+que no.,21,2,ngram
+es tu,21,2,ngram
+a la,20,2,ngram
+¿dónde está,20,2,ngram
+es el,20,2,ngram
+¿qué te,19,2,ngram
+"lo siento,",19,2,ngram
+es la,19,2,ngram
+no tengo,19,2,ngram
+no estoy,19,2,ngram
+no está,19,2,ngram
+no se,17,2,ngram
+tenemos que,17,2,ngram
+no quiero,17,2,ngram
+muy bien.,17,2,ngram
+"está bien,",17,2,ngram
+¿qué es,17,2,ngram
+¿qué demonios,16,2,ngram
+creo que,16,2,ngram
+¿quién es,16,2,ngram
+se lo,15,2,ngram
+tienes que,15,2,ngram
+que te,15,2,ngram
+a casa.,15,2,ngram
+esto no,15,2,ngram
+lo siento.,15,2,ngram
+eres un,15,2,ngram
+¿qué diablos,14,2,ngram
+¿qué le,13,2,ngram
+¿de dónde,13,2,ngram
+¿cómo lo,13,2,ngram
+¿cuál es,13,2,ngram
+de acuerdo.,13,2,ngram
+me lo,12,2,ngram
+es eso?,12,2,ngram
+"muy bien,",12,2,ngram
+eso no es,12,3,ngram
+¿qué estás,11,2,ngram
+lo he,11,2,ngram
+¿en qué,11,2,ngram
+no tiene,11,2,ngram
+en serio.,11,2,ngram
+nada que,11,2,ngram
+un buen,11,2,ngram
+lo es.,11,2,ngram
+es esto?,11,2,ngram
+eso es lo,11,3,ngram
+"no, no, no,",11,3,ngram
+estoy bien.,10,2,ngram
+de nuevo.,10,2,ngram
+de ti.,10,2,ngram
+a mí.,10,2,ngram
+por qué?,10,2,ngram
+¿no es,10,2,ngram
+con él.,10,2,ngram
+hay nada,10,2,ngram
+soy yo.,10,2,ngram
+"no, no.",10,2,ngram
+¿y qué,10,2,ngram
+lo hice.,10,2,ngram
+está aquí.,10,2,ngram
+no lo sé.,10,3,ngram
+no hay nada,10,3,ngram
+eso es lo que,10,4,ngram
+hacer eso.,9,2,ngram
+qué lo,9,2,ngram
+no fue,9,2,ngram
+¿qué pasa,9,2,ngram
+¿qué quieres,9,2,ngram
+¿qué está,9,2,ngram
+gracias a,9,2,ngram
+¿a dónde,9,2,ngram
+es tan,9,2,ngram
+¿qué hay,9,2,ngram
+no puedes,9,2,ngram
+no la,9,2,ngram
+¿a qué,9,2,ngram
+vas a,9,2,ngram
+a hacer?,9,2,ngram
+pero no,9,2,ngram
+"de acuerdo,",9,2,ngram
+es todo,9,2,ngram
+no puede,9,2,ngram
+claro que,9,2,ngram
+¿cómo se,9,2,ngram
+que hacer.,9,2,ngram
+ese es,9,2,ngram
+hacer esto.,9,2,ngram
+¿por qué lo,9,3,ngram
+es todo.,8,2,ngram
+no he,8,2,ngram
+no tienes,8,2,ngram
+un momento.,8,2,ngram
+es verdad.,8,2,ngram
+¿sabes lo,8,2,ngram
+mucho tiempo.,8,2,ngram
+qué estás,8,2,ngram
+lo hizo.,8,2,ngram
+haciendo aquí?,8,2,ngram
+lo creo.,8,2,ngram
+no va,8,2,ngram
+que estás,8,2,ngram
+estás haciendo?,8,2,ngram
+no tenemos,8,2,ngram
+lo sabe.,8,2,ngram
+no seas,8,2,ngram
+buena idea.,8,2,ngram
+¿por qué?,8,2,ngram
+me siento,8,2,ngram
+por aquí.,8,2,ngram
+hablar con,8,2,ngram
+qué te,8,2,ngram
+por eso.,8,2,ngram
+yo lo,8,2,ngram
+tú lo,8,2,ngram
+un minuto.,8,2,ngram
+no puedo.,8,2,ngram
+¿sabes lo que,8,3,ngram
+no va a,8,3,ngram
+lo sabes.,7,2,ngram
+"sí, es",7,2,ngram
+todo lo,7,2,ngram
+que hacerlo.,7,2,ngram
+en serio?,7,2,ngram
+en el,7,2,ngram
+que hacer,7,2,ngram
+es su,7,2,ngram
+nos vemos,7,2,ngram
+yo me,7,2,ngram
+todo está,7,2,ngram
+estoy muy,7,2,ngram
+¿no te,7,2,ngram
+esa es,7,2,ngram
+la verdad.,7,2,ngram
+eso fue,7,2,ngram
+no voy,7,2,ngram
+hay de,7,2,ngram
+de qué,7,2,ngram
+de eso.,7,2,ngram
+deja de,7,2,ngram
+te veré,7,2,ngram
+un poco.,7,2,ngram
+me voy,7,2,ngram
+lo haré.,7,2,ngram
+que lo,7,2,ngram
+por supuesto.,7,2,ngram
+¿cómo te,7,2,ngram
+es cierto.,7,2,ngram
+no soy,7,2,ngram
+lo has,7,2,ngram
+un problema.,7,2,ngram
+en casa.,7,2,ngram
+otra vez.,7,2,ngram
+estoy aquí.,7,2,ngram
+tiene que,7,2,ngram
+una buena,7,2,ngram
+qué no,7,2,ngram
+es para,7,2,ngram
+"buenas noches,",7,2,ngram
+¿qué ha,7,2,ngram
+sé lo,7,2,ngram
+mi culpa.,7,2,ngram
+dame un,7,2,ngram
+no le,7,2,ngram
+qué es?,7,2,ngram
+tengo una,7,2,ngram
+me gusta.,7,2,ngram
+¿sabes qué?,7,2,ngram
+más tarde.,7,2,ngram
+la cama.,7,2,ngram
+no voy a,7,3,ngram
+"no, no, no.",7,3,ngram
+¿por qué no,7,3,ngram
+sé lo que,7,3,ngram
+y lo,6,2,ngram
+por la,6,2,ngram
+"lo sé,",6,2,ngram
+es demasiado,6,2,ngram
+me voy.,6,2,ngram
+mi casa.,6,2,ngram
+me alegro,6,2,ngram
+a dormir.,6,2,ngram
+esta bien.,6,2,ngram
+ya me,6,2,ngram
+espero que,6,2,ngram
+lo entiendo.,6,2,ngram
+un segundo.,6,2,ngram
+a todos.,6,2,ngram
+que me,6,2,ngram
+supongo que,6,2,ngram
+sé de,6,2,ngram
+nada de,6,2,ngram
+¿qué tal,6,2,ngram
+lo hago.,6,2,ngram
+es mío.,6,2,ngram
+es bueno.,6,2,ngram
+en paz.,6,2,ngram
+crees que,6,2,ngram
+a morir.,6,2,ngram
+la policía.,6,2,ngram
+a mí,6,2,ngram
+estás haciendo,6,2,ngram
+a ti.,6,2,ngram
+qué es,6,2,ngram
+¿qué me,6,2,ngram
+puede ser.,6,2,ngram
+¿dónde están,6,2,ngram
+para ti.,6,2,ngram
+está en,6,2,ngram
+estoy de,6,2,ngram
+de aquí!,6,2,ngram
+lo tengo.,6,2,ngram
+no podemos,6,2,ngram
+todo el,6,2,ngram
+no importa.,6,2,ngram
+una mierda.,6,2,ngram
+sé que,6,2,ngram
+en camino.,6,2,ngram
+puedo hacer,6,2,ngram
+tiene razón.,6,2,ngram
+en la,6,2,ngram
+yo te,6,2,ngram
+ha pasado?,6,2,ngram
+¿qué quiere,6,2,ngram
+qué no?,6,2,ngram
+lo siento,6,2,ngram
+lo hiciste.,6,2,ngram
+¿quién te,6,2,ngram
+yo no lo,6,3,ngram
+no es tan,6,3,ngram
+no sé de,6,3,ngram
+esto no es,6,3,ngram
+me voy a,6,3,ngram
+todo lo que,6,3,ngram
+hay nada que,6,3,ngram
+¿qué es lo,6,3,ngram
+"no, no es",6,3,ngram
+a la cama.,6,3,ngram
+es una buena,6,3,ngram
+no hay nada que,6,4,ngram
+¿qué es lo que,6,4,ngram
+"no, no, no, no,",6,4,ngram
+"sí, estoy",5,2,ngram
+te pasa?,5,2,ngram
+que ir.,5,2,ngram
+lo dije.,5,2,ngram
+que sea.,5,2,ngram
+fue un,5,2,ngram
+un vistazo.,5,2,ngram
+encantado de,5,2,ngram
+de mí?,5,2,ngram
+un placer.,5,2,ngram
+salir de,5,2,ngram
+¿y tú?,5,2,ngram
+sólo un,5,2,ngram
+¿puedo hablar,5,2,ngram
+¿estás bien?,5,2,ngram
+hace mucho,5,2,ngram
+la puerta.,5,2,ngram
+¿qué están,5,2,ngram
+lo sabemos.,5,2,ngram
+un trato.,5,2,ngram
+hacer algo.,5,2,ngram
+"no, por",5,2,ngram
+¿no lo,5,2,ngram
+¿es eso,5,2,ngram
+¿y el,5,2,ngram
+eres mi,5,2,ngram
+tienes razón.,5,2,ngram
+que se,5,2,ngram
+que si.,5,2,ngram
+dios mío.,5,2,ngram
+puedes hacer,5,2,ngram
+a estar,5,2,ngram
+estar bien.,5,2,ngram
+es posible.,5,2,ngram
+es suficiente.,5,2,ngram
+por dios.,5,2,ngram
+es culpa,5,2,ngram
+estás hablando?,5,2,ngram
+quiero hablar,5,2,ngram
+tiene sentido.,5,2,ngram
+el tiempo.,5,2,ngram
+está pasando?,5,2,ngram
+está mal.,5,2,ngram
+"sí, ya",5,2,ngram
+ya se,5,2,ngram
+esta noche.,5,2,ngram
+muy bueno.,5,2,ngram
+ha pasado,5,2,ngram
+sé qué,5,2,ngram
+significa eso?,5,2,ngram
+una locura.,5,2,ngram
+he estado,5,2,ngram
+te amo.,5,2,ngram
+fue eso?,5,2,ngram
+has hecho?,5,2,ngram
+¿cómo me,5,2,ngram
+buen hombre.,5,2,ngram
+hablar contigo.,5,2,ngram
+a hacer,5,2,ngram
+tengo un,5,2,ngram
+lo eres.,5,2,ngram
+está mi,5,2,ngram
+"sí, sí.",5,2,ngram
+¿qué pasa?,5,2,ngram
+a salvo.,5,2,ngram
+estamos en,5,2,ngram
+me gusta,5,2,ngram
+lo veo.,5,2,ngram
+lo se.,5,2,ngram
+estoy en,5,2,ngram
+por supuesto,5,2,ngram
+supuesto que,5,2,ngram
+a ver.,5,2,ngram
+¿hay alguien,5,2,ngram
+no hagas,5,2,ngram
+te ves,5,2,ngram
+me alegra,5,2,ngram
+por el,5,2,ngram
+estoy tan,5,2,ngram
+qué puedo,5,2,ngram
+te veo,5,2,ngram
+tengas razón.,5,2,ngram
+"bien, gracias.",5,2,ngram
+es gracioso.,5,2,ngram
+¿qué has,5,2,ngram
+lo sabía.,5,2,ngram
+culpa mía.,5,2,ngram
+te vayas.,5,2,ngram
+qué se,5,2,ngram
+es ese,5,2,ngram
+está muy,5,2,ngram
+yo también,5,2,ngram
+lo que sea.,5,3,ngram
+no me lo,5,3,ngram
+salir de aquí.,5,3,ngram
+sé de qué,5,3,ngram
+a la policía.,5,3,ngram
+es todo lo,5,3,ngram
+a estar bien.,5,3,ngram
+ese es el,5,3,ngram
+no sé qué,5,3,ngram
+¿dónde está mi,5,3,ngram
+¿por qué no?,5,3,ngram
+hablar con él.,5,3,ngram
+no está bien.,5,3,ngram
+por supuesto que,5,3,ngram
+no sé de qué,5,4,ngram
+es todo lo que,5,4,ngram
+"no, no, no, no.",5,4,ngram
+lo estoy.,4,2,ngram
+no sé.,4,2,ngram
+seguro de,4,2,ngram
+¿cómo está,4,2,ngram
+es correcto.,4,2,ngram
+lo sabes?,4,2,ngram
+¿y tú,4,2,ngram
+demasiado tarde.,4,2,ngram
+lo hagas.,4,2,ngram
+¿cómo es,4,2,ngram
+alegro de,4,2,ngram
+he visto.,4,2,ngram
+no eres,4,2,ngram
+ni idea.,4,2,ngram
+vete a,4,2,ngram
+¿qué estamos,4,2,ngram
+es justo.,4,2,ngram
+¿quieres que,4,2,ngram
+¿quién está,4,2,ngram
+te preocupes.,4,2,ngram
+no digas,4,2,ngram
+a ir.,4,2,ngram
+tu ayuda.,4,2,ngram
+decirte algo.,4,2,ngram
+por ti.,4,2,ngram
+es real.,4,2,ngram
+lo digas.,4,2,ngram
+algo que,4,2,ngram
+lo está.,4,2,ngram
+¿eso es,4,2,ngram
+que quieres?,4,2,ngram
+es asunto,4,2,ngram
+en ello.,4,2,ngram
+ya te,4,2,ngram
+quieres que,4,2,ngram
+¿vas a,4,2,ngram
+con él?,4,2,ngram
+¿con quién,4,2,ngram
+por qué.,4,2,ngram
+lo conozco.,4,2,ngram
+¿para qué,4,2,ngram
+buen día.,4,2,ngram
+que hago.,4,2,ngram
+lo haría.,4,2,ngram
+ninguna parte.,4,2,ngram
+ya veo.,4,2,ngram
+"sí, sí,",4,2,ngram
+todo va,4,2,ngram
+¿tienes un,4,2,ngram
+qué me,4,2,ngram
+muy amable.,4,2,ngram
+es importante.,4,2,ngram
+está tu,4,2,ngram
+se está,4,2,ngram
+"sí, eso",4,2,ngram
+¿lo has,4,2,ngram
+vete al,4,2,ngram
+lo son.,4,2,ngram
+te quiero.,4,2,ngram
+la vida.,4,2,ngram
+es perfecto.,4,2,ngram
+¿qué coño,4,2,ngram
+una pregunta.,4,2,ngram
+no creo,4,2,ngram
+llegar tarde.,4,2,ngram
+por eso,4,2,ngram
+una broma.,4,2,ngram
+y yo.,4,2,ngram
+para mí.,4,2,ngram
+un hombre.,4,2,ngram
+que es.,4,2,ngram
+en mí.,4,2,ngram
+es genial.,4,2,ngram
+muchas gracias.,4,2,ngram
+todos lo,4,2,ngram
+de llegar.,4,2,ngram
+el momento.,4,2,ngram
+así de,4,2,ngram
+se acabó.,4,2,ngram
+lo harás.,4,2,ngram
+mira lo,4,2,ngram
+por mí.,4,2,ngram
+un accidente.,4,2,ngram
+lo mismo.,4,2,ngram
+"no, lo",4,2,ngram
+un error.,4,2,ngram
+te importa?,4,2,ngram
+con eso?,4,2,ngram
+¿qué haces,4,2,ngram
+es él.,4,2,ngram
+yo no.,4,2,ngram
+lo hace.,4,2,ngram
+espera un,4,2,ngram
+¿cual es,4,2,ngram
+eso está,4,2,ngram
+pasa con,4,2,ngram
+hora de,4,2,ngram
+he dicho,4,2,ngram
+¿qué hace,4,2,ngram
+ya es,4,2,ngram
+¿no me,4,2,ngram
+es imposible.,4,2,ngram
+de acuerdo?,4,2,ngram
+lo vi.,4,2,ngram
+al baño.,4,2,ngram
+no sabes,4,2,ngram
+te ha,4,2,ngram
+"sí, me",4,2,ngram
+¿y eso,4,2,ngram
+eso me,4,2,ngram
+me estás,4,2,ngram
+ya casi,4,2,ngram
+con ella.,4,2,ngram
+yo también.,4,2,ngram
+la tengo.,4,2,ngram
+eres tú?,4,2,ngram
+¿qué carajo,4,2,ngram
+puedo hacer.,4,2,ngram
+¿qué se,4,2,ngram
+"si, lo",4,2,ngram
+me conoces.,4,2,ngram
+en problemas.,4,2,ngram
+el arma.,4,2,ngram
+es por,4,2,ngram
+mi palabra.,4,2,ngram
+"no, es",4,2,ngram
+¡fuera de,4,2,ngram
+de mi,4,2,ngram
+¿me estás,4,2,ngram
+así es.,4,2,ngram
+ya no,4,2,ngram
+"oh, dios",4,2,ngram
+dios mio.,4,2,ngram
+te preocupes,4,2,ngram
+preocupes por,4,2,ngram
+lo hicimos.,4,2,ngram
+es nada.,4,2,ngram
+de puta!,4,2,ngram
+que tengas,4,2,ngram
+"bien, está",4,2,ngram
+lo soy.,4,2,ngram
+ven a,4,2,ngram
+"buenos días,",4,2,ngram
+buenas noches.,4,2,ngram
+¿qué puedo,4,2,ngram
+seguro que,4,2,ngram
+haces aquí?,4,2,ngram
+con esto.,4,2,ngram
+no lo hagas.,4,3,ngram
+no tienes que,4,3,ngram
+me alegro de,4,3,ngram
+creo que sí.,4,3,ngram
+no te preocupes.,4,3,ngram
+¿qué hay de,4,3,ngram
+eso es todo.,4,3,ngram
+lo que quieres?,4,3,ngram
+no es asunto,4,3,ngram
+¿qué quieres que,4,3,ngram
+no puede ser.,4,3,ngram
+¿cuál es el,4,3,ngram
+no es lo,4,3,ngram
+una buena idea.,4,3,ngram
+lo que es.,4,3,ngram
+¿cuál es la,4,3,ngram
+un buen hombre.,4,3,ngram
+mira lo que,4,3,ngram
+es un buen,4,3,ngram
+¿qué pasa con,4,3,ngram
+pero no lo,4,3,ngram
+no lo hice.,4,3,ngram
+que hacer algo.,4,3,ngram
+no te preocupes,4,3,ngram
+te preocupes por,4,3,ngram
+no es nada.,4,3,ngram
+¿en qué puedo,4,3,ngram
+no te preocupes por,4,4,ngram
+estamos bien.,3,2,ngram
+justo aquí.,3,2,ngram
+estás aquí.,3,2,ngram
+cuidado con,3,2,ngram
+soy tu,3,2,ngram
+lo dijo.,3,2,ngram
+un placer,3,2,ngram
+placer conocerte.,3,2,ngram
+por venir.,3,2,ngram
+vale la,3,2,ngram
+es increíble.,3,2,ngram
+en ti.,3,2,ngram
+has visto?,3,2,ngram
+fue culpa,3,2,ngram
+culpa tuya.,3,2,ngram
+haz lo,3,2,ngram
+tú no,3,2,ngram
+no tenía,3,2,ngram
+¿cómo estás?,3,2,ngram
+puede que,3,2,ngram
+lo saben.,3,2,ngram
+es divertido.,3,2,ngram
+lo era.,3,2,ngram
+¿quién lo,3,2,ngram
+lo hizo?,3,2,ngram
+sé quién,3,2,ngram
+quién es.,3,2,ngram
+es interesante.,3,2,ngram
+nueva york.,3,2,ngram
+un monstruo.,3,2,ngram
+se ve,3,2,ngram
+y eso,3,2,ngram
+lo harán.,3,2,ngram
+dónde está.,3,2,ngram
+qué está,3,2,ngram
+a hacerlo.,3,2,ngram
+ha terminado.,3,2,ngram
+es extraño.,3,2,ngram
+acabo de,3,2,ngram
+¿cuánto tiempo,3,2,ngram
+ir a,3,2,ngram
+¿y yo,3,2,ngram
+decir eso.,3,2,ngram
+no era,3,2,ngram
+está haciendo?,3,2,ngram
+tu problema?,3,2,ngram
+estará bien.,3,2,ngram
+he hecho.,3,2,ngram
+"no, en",3,2,ngram
+he dicho.,3,2,ngram
+que haga?,3,2,ngram
+a pasar.,3,2,ngram
+¿qué crees,3,2,ngram
+él está,3,2,ngram
+está muerto.,3,2,ngram
+"espera, espera,",3,2,ngram
+"espera, espera.",3,2,ngram
+lo voy,3,2,ngram
+no hice,3,2,ngram
+dios santo.,3,2,ngram
+puedo hacerlo.,3,2,ngram
+de dios.,3,2,ngram
+tiene nada,3,2,ngram
+el mejor.,3,2,ngram
+no necesito,3,2,ngram
+por su,3,2,ngram
+lo tienes.,3,2,ngram
+ven aquí.,3,2,ngram
+"bien, señor.",3,2,ngram
+un desastre.,3,2,ngram
+una cosa.,3,2,ngram
+te parece?,3,2,ngram
+una hora.,3,2,ngram
+buenas noticias.,3,2,ngram
+¿quién diablos,3,2,ngram
+diablos es,3,2,ngram
+es usted?,3,2,ngram
+están los,3,2,ngram
+hablar de,3,2,ngram
+mi señor.,3,2,ngram
+lo juro.,3,2,ngram
+es difícil,3,2,ngram
+se fue.,3,2,ngram
+me parece,3,2,ngram
+pasa aquí?,3,2,ngram
+de pie.,3,2,ngram
+tengo mucho,3,2,ngram
+que quieras.,3,2,ngram
+a trabajar.,3,2,ngram
+tengo nada,3,2,ngram
+no volverá,3,2,ngram
+volverá a,3,2,ngram
+es horrible.,3,2,ngram
+"oh, por",3,2,ngram
+tiempo para,3,2,ngram
+en absoluto.,3,2,ngram
+así fue.,3,2,ngram
+a funcionar.,3,2,ngram
+el arma!,3,2,ngram
+mi trabajo.,3,2,ngram
+"oh, no,",3,2,ngram
+estoy segura.,3,2,ngram
+lo hará.,3,2,ngram
+lo estás.,3,2,ngram
+es terrible.,3,2,ngram
+es necesario.,3,2,ngram
+mi amigo.,3,2,ngram
+de menos.,3,2,ngram
+que sea,3,2,ngram
+dame la,3,2,ngram
+"¿qué pasa,",3,2,ngram
+es así.,3,2,ngram
+has estado?,3,2,ngram
+se vaya.,3,2,ngram
+¿qué estoy,3,2,ngram
+"por aquí,",3,2,ngram
+quédate con,3,2,ngram
+con nosotros.,3,2,ngram
+ya voy.,3,2,ngram
+te diré,3,2,ngram
+una pesadilla.,3,2,ngram
+vuelve a,3,2,ngram
+soy un,3,2,ngram
+un idiota.,3,2,ngram
+yo tampoco.,3,2,ngram
+qué hacer.,3,2,ngram
+está mejor.,3,2,ngram
+bueno verte.,3,2,ngram
+las manos,3,2,ngram
+de encima!,3,2,ngram
+confiar en,3,2,ngram
+está pasando,3,2,ngram
+hay nadie,3,2,ngram
+"bien, entonces.",3,2,ngram
+de ninguna,3,2,ngram
+lo estoy,3,2,ngram
+no está.,3,2,ngram
+estoy hablando.,3,2,ngram
+fue mi,3,2,ngram
+la vuelta.,3,2,ngram
+¿qué vas,3,2,ngram
+no veo,3,2,ngram
+el dinero.,3,2,ngram
+a dios.,3,2,ngram
+dónde está?,3,2,ngram
+ha sido,3,2,ngram
+¿qué tal?,3,2,ngram
+eso es.,3,2,ngram
+aquí vamos.,3,2,ngram
+tal vez,3,2,ngram
+vez no.,3,2,ngram
+de nada.,3,2,ngram
+se acabó,3,2,ngram
+aquí estoy.,3,2,ngram
+¿qué más,3,2,ngram
+hacer eso?,3,2,ngram
+es fantástico.,3,2,ngram
+tu madre.,3,2,ngram
+hacer nada.,3,2,ngram
+en paz!,3,2,ngram
+¿te sientes,3,2,ngram
+a suceder.,3,2,ngram
+te he,3,2,ngram
+"favor, por",3,2,ngram
+es este,3,2,ngram
+es ella.,3,2,ngram
+está pasando.,3,2,ngram
+¿de que,3,2,ngram
+puedes hacerlo.,3,2,ngram
+ya no.,3,2,ngram
+lo dijiste?,3,2,ngram
+qué hacemos?,3,2,ngram
+hora es?,3,2,ngram
+ya sé.,3,2,ngram
+¿qué fue,3,2,ngram
+estamos aquí.,3,2,ngram
+lo hiciste?,3,2,ngram
+es mucho.,3,2,ngram
+¿dónde diablos,3,2,ngram
+muy dulce.,3,2,ngram
+mi dios.,3,2,ngram
+¿qué tienes,3,2,ngram
+que no,3,2,ngram
+ella está,3,2,ngram
+está muerta.,3,2,ngram
+la cabeza.,3,2,ngram
+"no, estoy",3,2,ngram
+un momento?,3,2,ngram
+la puerta,3,2,ngram
+que ir,3,2,ngram
+lo recuerdo.,3,2,ngram
+yo sí.,3,2,ngram
+que vas?,3,2,ngram
+es diferente.,3,2,ngram
+tu turno.,3,2,ngram
+dame tu,3,2,ngram
+con calma.,3,2,ngram
+un asesino.,3,2,ngram
+gusto en,3,2,ngram
+ve a,3,2,ngram
+eres muy,3,2,ngram
+mi hijo.,3,2,ngram
+están aquí.,3,2,ngram
+"bien, de",3,2,ngram
+"bien, vamos.",3,2,ngram
+es maravilloso.,3,2,ngram
+¿cómo puedes,3,2,ngram
+tenemos un,3,2,ngram
+su nombre?,3,2,ngram
+eres tú.,3,2,ngram
+siempre lo,3,2,ngram
+mira quién,3,2,ngram
+he hecho,3,2,ngram
+a nadie.,3,2,ngram
+de eso,3,2,ngram
+es grandioso.,3,2,ngram
+con eso.,3,2,ngram
+es malo.,3,2,ngram
+mejor que,3,2,ngram
+es ridículo.,3,2,ngram
+te llamaré,3,2,ngram
+los ojos.,3,2,ngram
+tu padre.,3,2,ngram
+le importa.,3,2,ngram
+tu madre?,3,2,ngram
+dije eso.,3,2,ngram
+mí también.,3,2,ngram
+más preguntas.,3,2,ngram
+te conozco.,3,2,ngram
+de ahí!,3,2,ngram
+nada más.,3,2,ngram
+lo fue.,3,2,ngram
+que decir.,3,2,ngram
+si no,3,2,ngram
+"te quiero,",3,2,ngram
+me has,3,2,ngram
+dame el,3,2,ngram
+se supone,3,2,ngram
+supone que,3,2,ngram
+del camino!,3,2,ngram
+o menos.,3,2,ngram
+en eso.,3,2,ngram
+"bueno, no",3,2,ngram
+"dos, tres.",3,2,ngram
+gran cosa.,3,2,ngram
+a ninguna,3,2,ngram
+también te,3,2,ngram
+me preocupa.,3,2,ngram
+ya está,3,2,ngram
+me estoy,3,2,ngram
+toda la,3,2,ngram
+su majestad.,3,2,ngram
+toca a,3,2,ngram
+¿en serio?,3,2,ngram
+¿qué va,3,2,ngram
+es seguro.,3,2,ngram
+la puerta!,3,2,ngram
+me acuerdo.,3,2,ngram
+es hermoso.,3,2,ngram
+estar aquí.,3,2,ngram
+tengo miedo.,3,2,ngram
+pasa nada.,3,2,ngram
+espere un,3,2,ngram
+es que...,3,2,ngram
+demonios está,3,2,ngram
+"dios, no.",3,2,ngram
+estoy seguro.,3,2,ngram
+mi turno.,3,2,ngram
+lo agradezco.,3,2,ngram
+demonios estás,3,2,ngram
+es de,3,2,ngram
+"bien, adiós.",3,2,ngram
+¿estás de,3,2,ngram
+me da,3,2,ngram
+he terminado.,3,2,ngram
+la primera,3,2,ngram
+primera vez.,3,2,ngram
+hay problema.,3,2,ngram
+buen chico.,3,2,ngram
+te quiero,3,2,ngram
+tú también.,3,2,ngram
+"uno, dos,",3,2,ngram
+está todo,3,2,ngram
+es raro.,3,2,ngram
+lo maté.,3,2,ngram
+no será,3,2,ngram
+es normal.,3,2,ngram
+¿de verdad?,3,2,ngram
+¿quieres un,3,2,ngram
+no quiero.,3,2,ngram
+¿y los,3,2,ngram
+esperen un,3,2,ngram
+es fácil.,3,2,ngram
+ya está.,3,2,ngram
+buena pregunta.,3,2,ngram
+que puedes.,3,2,ngram
+me temo,3,2,ngram
+temo que,3,2,ngram
+"gracias, señor.",3,2,ngram
+no dije,3,2,ngram
+oír eso.,3,2,ngram
+es demasiado.,3,2,ngram
+estoy seguro,3,2,ngram
+tu culpa.,3,2,ngram
+es absurdo.,3,2,ngram
+tú no.,3,2,ngram
+se ha,3,2,ngram
+te llamo,3,2,ngram
+orgullosa de,3,2,ngram
+este es,3,2,ngram
+ha ido?,3,2,ngram
+el dinero?,3,2,ngram
+mi vida.,3,2,ngram
+hijo de,3,2,ngram
+que puedo,3,2,ngram
+nos vamos,3,2,ngram
+parece que,3,2,ngram
+se trata,3,2,ngram
+todo esto?,3,2,ngram
+mi hermano.,3,2,ngram
+algo así.,3,2,ngram
+muy importante.,3,2,ngram
+"estoy bien,",3,2,ngram
+para usted.,3,2,ngram
+todas partes.,3,2,ngram
+"un momento,",3,2,ngram
+muy divertido.,3,2,ngram
+su ayuda.,3,2,ngram
+una vez.,3,2,ngram
+¿qué les,3,2,ngram
+está el,3,2,ngram
+lo prometo.,3,2,ngram
+mala idea.,3,2,ngram
+gracias por la,3,3,ngram
+es demasiado tarde.,3,3,ngram
+tienes que hacer,3,3,ngram
+un placer conocerte.,3,3,ngram
+haz lo que,3,3,ngram
+todo está bien.,3,3,ngram
+no es verdad.,3,3,ngram
+esa es la,3,3,ngram
+no es justo.,3,3,ngram
+hace mucho tiempo.,3,3,ngram
+voy a ir.,3,3,ngram
+nada de eso.,3,3,ngram
+vas a hacer?,3,3,ngram
+¿cuál es tu,3,3,ngram
+es tu problema?,3,3,ngram
+lo he hecho.,3,3,ngram
+lo he dicho.,3,3,ngram
+lo voy a,3,3,ngram
+no tiene nada,3,3,ngram
+gracias por su,3,3,ngram
+qué es eso?,3,3,ngram
+un buen día.,3,3,ngram
+lo que hago.,3,3,ngram
+no es cierto.,3,3,ngram
+no puedes hacer,3,3,ngram
+ya lo sé.,3,3,ngram
+¿dónde están los,3,3,ngram
+es un problema.,3,3,ngram
+no es culpa,3,3,ngram
+todo va a,3,3,ngram
+no tiene sentido.,3,3,ngram
+¿dónde está tu,3,3,ngram
+lo que quieras.,3,3,ngram
+no tengo nada,3,3,ngram
+tengo nada que,3,3,ngram
+no volverá a,3,3,ngram
+es una mierda.,3,3,ngram
+va a funcionar.,3,3,ngram
+no lo hizo.,3,3,ngram
+no es necesario.,3,3,ngram
+no creo que,3,3,ngram
+creo que no.,3,3,ngram
+no es bueno.,3,3,ngram
+esto es una,3,3,ngram
+no puedo hacer,3,3,ngram
+es una locura.,3,3,ngram
+no hay nadie,3,3,ngram
+¿qué vas a,3,3,ngram
+gracias a dios.,3,3,ngram
+qué no me,3,3,ngram
+estoy de acuerdo.,3,3,ngram
+"por favor, por",3,3,ngram
+¿por qué te,3,3,ngram
+tengo que ir,3,3,ngram
+no he dicho,3,3,ngram
+crees que vas?,3,3,ngram
+"bien, de acuerdo.",3,3,ngram
+no está aquí.,3,3,ngram
+no he hecho,3,3,ngram
+¿qué se supone,3,3,ngram
+se supone que,3,3,ngram
+a ninguna parte.,3,3,ngram
+claro que sí.,3,3,ngram
+no lo creo.,3,3,ngram
+¿qué va a,3,3,ngram
+es mi culpa.,3,3,ngram
+no es gracioso.,3,3,ngram
+¿qué demonios está,3,3,ngram
+no lo es.,3,3,ngram
+¡fuera de mi,3,3,ngram
+la primera vez.,3,3,ngram
+no hay problema.,3,3,ngram
+que te vayas.,3,3,ngram
+qué es esto?,3,3,ngram
+no es la,3,3,ngram
+no es un,3,3,ngram
+es mi casa.,3,3,ngram
+no lo hiciste.,3,3,ngram
+lo que estás,3,3,ngram
+me temo que,3,3,ngram
+no lo sabía.,3,3,ngram
+¿por qué estás,3,3,ngram
+"bien, está bien.",3,3,ngram
+orgullosa de ti.,3,3,ngram
+este es el,3,3,ngram
+"está bien, está",3,3,ngram
+que puedo hacer.,3,3,ngram
+¿de qué se,3,3,ngram
+que lo es.,3,3,ngram
+¿qué es ese,3,3,ngram
+¿dónde está el,3,3,ngram
+no es lo que,3,4,ngram
+no tengo nada que,3,4,ngram
+¿por qué no me,3,4,ngram
+¿qué se supone que,3,4,ngram
+es una buena idea.,3,4,ngram
+"no, no, no, no, no.",3,5,ngram
+"no, no, no, no, no,",3,5,ngram
+", qué",0,2,noun_phrase
+es un buen chico,0,4,noun_phrase
+pero yo,0,2,noun_phrase
+la mierda,0,2,noun_phrase
+la luz,0,2,noun_phrase
+gracias a ti,0,3,noun_phrase
+¿de quién,0,2,noun_phrase
+una hora,0,2,noun_phrase
+es mío,0,2,noun_phrase
+¿es una broma,0,3,noun_phrase
+es una buena idea,0,4,noun_phrase
+la derecha,0,2,noun_phrase
+mi hermano,0,2,noun_phrase
+"bueno, yo",0,2,noun_phrase
+es la única manera,0,4,noun_phrase
+el perro,0,2,noun_phrase
+"ay, caray",0,2,noun_phrase
+una pena,0,2,noun_phrase
+¿alguna otra pregunta,0,3,noun_phrase
+¿de dónde vienes,0,3,noun_phrase
+pobre hombre,0,2,noun_phrase
+estoy enfermo,0,2,noun_phrase
+", mi dios",0,3,noun_phrase
+¿más café,0,2,noun_phrase
+es mi hermano,0,3,noun_phrase
+"hola, tom.",0,2,noun_phrase
+¿escuchaste eso,0,2,noun_phrase
+tomen asiento.,0,2,noun_phrase
+no pares,0,2,noun_phrase
+toda la noche,0,3,noun_phrase
+"no, hombre",0,2,noun_phrase
+"hola, querida",0,2,noun_phrase
+¿verdad que sí?,0,3,noun_phrase
+una semana,0,2,noun_phrase
+feliz aniversario,0,2,noun_phrase
+¿eres gay?,0,2,noun_phrase
+¡oh dios mio!,0,3,noun_phrase
+¿qué tal eso,0,3,noun_phrase
+¿con quién hablas,0,3,noun_phrase
+la vuelta,0,2,noun_phrase
+¡agentes federales,0,2,noun_phrase
+es tuya,0,2,noun_phrase
+la fiesta,0,2,noun_phrase
+¿dónde demonios,0,2,noun_phrase
+"hola, sam.",0,2,noun_phrase
+es un secreto,0,3,noun_phrase
+¡quítate de encima!,0,3,noun_phrase
+¿que es esto,0,3,noun_phrase
+mi hijo,0,2,noun_phrase
+es mi hermana,0,3,noun_phrase
+hazme caso.,0,2,noun_phrase
+apaga eso.,0,2,noun_phrase
+mis disculpas,0,2,noun_phrase
+es para ti,0,3,noun_phrase
+como nosotros,0,2,noun_phrase
+qué bueno,0,2,noun_phrase
+era broma,0,2,noun_phrase
+¿en este momento,0,3,noun_phrase
+deberías venir.,0,2,noun_phrase
+vamos a casarnos,0,3,noun_phrase
+¿a qué esperas,0,3,noun_phrase
+10 segundos,0,2,noun_phrase
+una niña,0,2,noun_phrase
+¡mi brazo,0,2,noun_phrase
+no estoy de humor,0,4,noun_phrase
+buena suerte,0,2,noun_phrase
+alguna idea,0,2,noun_phrase
+es tu hija,0,3,noun_phrase
+¿lo sabías,0,2,noun_phrase
+pan comido.,0,2,noun_phrase
+qué asco,0,2,noun_phrase
+¿acerca de qué,0,3,noun_phrase
+un amigo,0,2,noun_phrase
+buena respuesta,0,2,noun_phrase
+¡todo el mundo,0,3,noun_phrase
+¿a quién,0,2,noun_phrase
+una cerveza,0,2,noun_phrase
+", abuela",0,2,noun_phrase
+caso cerrado.,0,2,noun_phrase
+cinco años,0,2,noun_phrase
+otras cosas,0,2,noun_phrase
+¿qué buscas,0,2,noun_phrase
+", bebé",0,2,noun_phrase
+"hola, frank.",0,2,noun_phrase
+qué carajo,0,2,noun_phrase
+es uno,0,2,noun_phrase
+su hermano,0,2,noun_phrase
+dame tu teléfono.,0,3,noun_phrase
+es un idiota,0,3,noun_phrase
+", señor",0,2,noun_phrase
+dos semanas,0,2,noun_phrase
+mucha hambre,0,2,noun_phrase
+¿estás loco?,0,2,noun_phrase
+esa mujer,0,2,noun_phrase
+¿alguna pregunta,0,2,noun_phrase
+cinco minutos,0,2,noun_phrase
+¿qué mierda,0,2,noun_phrase
+no fue culpa,0,3,noun_phrase
+"no, no lo entiendes",0,4,noun_phrase
+soy gay,0,2,noun_phrase
+mi hija,0,2,noun_phrase
+es decir...,0,2,noun_phrase
+¿lo pillas,0,2,noun_phrase
+¿pero por qué,0,3,noun_phrase
+aquí esta,0,2,noun_phrase
+es una promesa,0,3,noun_phrase
+mire esto.,0,2,noun_phrase
+ahi esta,0,2,noun_phrase
+una vez,0,2,noun_phrase
+es una emergencia,0,3,noun_phrase
+ahora mismo voy,0,3,noun_phrase
+el cinturón,0,2,noun_phrase
+es un sueño,0,3,noun_phrase
+otra cosa,0,2,noun_phrase
+enseguida regreso,0,2,noun_phrase
+es una estupidez,0,3,noun_phrase
+este momento,0,2,noun_phrase
+¿una copa,0,2,noun_phrase
+no soy como tú,0,4,noun_phrase
+"buenas noches, papá.",0,3,noun_phrase
+feliz año nuevo.,0,3,noun_phrase
+ningún problema,0,2,noun_phrase
+¿y tú quién eres?,0,4,noun_phrase
+un acuerdo,0,2,noun_phrase
+la hora,0,2,noun_phrase
+"no, ¿por qué",0,3,noun_phrase
+¿eres tu?,0,2,noun_phrase
+un problema,0,2,noun_phrase
+tanto tiempo,0,2,noun_phrase
+dulces sueños.,0,2,noun_phrase
+buen tiro,0,2,noun_phrase
+¿alguna novedad,0,2,noun_phrase
+aléjate de ella.,0,3,noun_phrase
+¿un qué,0,2,noun_phrase
+pero gracias,0,2,noun_phrase
+soy policía,0,2,noun_phrase
+un año,0,2,noun_phrase
+"si, señora",0,2,noun_phrase
+"sí, es ella",0,3,noun_phrase
+mi turno,0,2,noun_phrase
+"oh, wow.",0,2,noun_phrase
+gracias por la cena,0,4,noun_phrase
+es el momento,0,3,noun_phrase
+ahora tú,0,2,noun_phrase
+mi amor,0,2,noun_phrase
+sostén esto.,0,2,noun_phrase
+cuánto tiempo,0,2,noun_phrase
+"eh, eh, eh.",0,3,noun_phrase
+"hola, jack.",0,2,noun_phrase
+¿y luego qué,0,3,noun_phrase
+gracias por el café,0,4,noun_phrase
+¡sr. frodo!,0,2,noun_phrase
+¿como esta,0,2,noun_phrase
+", ¿qué",0,2,noun_phrase
+", hermano",0,2,noun_phrase
+es policía,0,2,noun_phrase
+¿por qué motivo,0,3,noun_phrase
+tuviste suerte.,0,2,noun_phrase
+eres un hijo,0,3,noun_phrase
+llegas tarde.,0,2,noun_phrase
+esta noche,0,2,noun_phrase
+buenos días,0,2,noun_phrase
+quédate quieta,0,2,noun_phrase
+"bien, chicos",0,2,noun_phrase
+¿y yo qué?,0,3,noun_phrase
+no es buena idea,0,4,noun_phrase
+¿qué chica,0,2,noun_phrase
+buena elección,0,2,noun_phrase
+un trago,0,2,noun_phrase
+un trato,0,2,noun_phrase
+ya verás,0,2,noun_phrase
+qué harías,0,2,noun_phrase
+es una niña,0,3,noun_phrase
+gran cosa,0,2,noun_phrase
+"no, tú",0,2,noun_phrase
+una pregunta,0,2,noun_phrase
+quién diablos,0,2,noun_phrase
+tus sueños,0,2,noun_phrase
+¡santo dios!,0,2,noun_phrase
+buena idea,0,2,noun_phrase
+tres años,0,2,noun_phrase
+la obra,0,2,noun_phrase
+", joder",0,2,noun_phrase
+"buenos días, caballeros.",0,3,noun_phrase
+una pistola,0,2,noun_phrase
+lo mismo,0,2,noun_phrase
+es su hijo,0,3,noun_phrase
+¿ahora qué,0,2,noun_phrase
+buenos días.,0,2,noun_phrase
+un policía,0,2,noun_phrase
+sólo un momento,0,3,noun_phrase
+gracias por la ayuda,0,4,noun_phrase
+ese caso,0,2,noun_phrase
+¡oh dios!,0,2,noun_phrase
+¿pero qué,0,2,noun_phrase
+no todos,0,2,noun_phrase
+mi error,0,2,noun_phrase
+es una buena chica,0,4,noun_phrase
+son las reglas,0,3,noun_phrase
+"vamos, chicos",0,2,noun_phrase
+no es él,0,3,noun_phrase
+eres un asesino,0,3,noun_phrase
+buenas noticias,0,2,noun_phrase
+gracias por su ayuda,0,4,noun_phrase
+"¡por favor, ayúdenme",0,3,noun_phrase
+la semana,0,2,noun_phrase
+es basura,0,2,noun_phrase
+es una cita,0,3,noun_phrase
+un hombre,0,2,noun_phrase
+es mi papá,0,3,noun_phrase
+me gustas,0,2,noun_phrase
+no podemos arriesgarnos,0,3,noun_phrase
+el anillo,0,2,noun_phrase
+dos días,0,2,noun_phrase
+una hija,0,2,noun_phrase
+la llave,0,2,noun_phrase
+¿qué parte,0,2,noun_phrase
+"hola, jerry.",0,2,noun_phrase
+esta tarde,0,2,noun_phrase
+mis amigos,0,2,noun_phrase
+estados unidos.,0,2,noun_phrase
+", señora",0,2,noun_phrase
+¿y por qué,0,3,noun_phrase
+mi niño,0,2,noun_phrase
+¿qué trabajo,0,2,noun_phrase
+el chico,0,2,noun_phrase
+es domingo,0,2,noun_phrase
+el bosque,0,2,noun_phrase
+todos cometemos,0,2,noun_phrase
+"hola, jim.",0,2,noun_phrase
+es éste,0,2,noun_phrase
+es un error,0,3,noun_phrase
+estate quieto,0,2,noun_phrase
+es la hora,0,3,noun_phrase
+las armas,0,2,noun_phrase
+estás fuera.,0,2,noun_phrase
+es para mí,0,3,noun_phrase
+¿una broma,0,2,noun_phrase
+¿qué historia,0,2,noun_phrase
+déjame ayudarte,0,2,noun_phrase
+todo esto,0,2,noun_phrase
+", del hijo",0,3,noun_phrase
+déjame solo,0,2,noun_phrase
+oh dios mio.,0,3,noun_phrase
+oh dios mío.,0,3,noun_phrase
+"sí, su majestad",0,3,noun_phrase
+un regalo,0,2,noun_phrase
+¿qué problema tienes,0,3,noun_phrase
+no es el momento,0,4,noun_phrase
+si lo,0,2,noun_phrase
+mi niña,0,2,noun_phrase
+regreso enseguida.,0,2,noun_phrase
+¡un médico,0,2,noun_phrase
+mi dinero,0,2,noun_phrase
+odio esto.,0,2,noun_phrase
+"mira, yo",0,2,noun_phrase
+un brindis,0,2,noun_phrase
+no es una broma,0,4,noun_phrase
+soy un desastre,0,3,noun_phrase
+no más preguntas,0,3,noun_phrase
+¿un perro,0,2,noun_phrase
+es toda tuya.,0,3,noun_phrase
+la puta boca,0,3,noun_phrase
+¡dios mío!,0,2,noun_phrase
+las luces,0,2,noun_phrase
+"ah, eres tú",0,3,noun_phrase
+es verdad,0,2,noun_phrase
+buenas noches,0,2,noun_phrase
+mi palabra,0,2,noun_phrase
+su majestad,0,2,noun_phrase
+no bromees,0,2,noun_phrase
+"hola, nick.",0,2,noun_phrase
+dame eso.,0,2,noun_phrase
+un mensaje,0,2,noun_phrase
+¿como cuáles,0,2,noun_phrase
+¿es un mal momento,0,4,noun_phrase
+no era yo,0,3,noun_phrase
+así es la vida,0,4,noun_phrase
+¿qué tipo,0,2,noun_phrase
+es tu turno,0,3,noun_phrase
+no seas idiota,0,3,noun_phrase
+dónde diablos,0,2,noun_phrase
+ni yo,0,2,noun_phrase
+no yo,0,2,noun_phrase
+¿por qué dices,0,3,noun_phrase
+", padre",0,2,noun_phrase
+solo una,0,2,noun_phrase
+no fue nada,0,3,noun_phrase
+misión cumplida,0,2,noun_phrase
+una última cosa,0,3,noun_phrase
+qué estupidez,0,2,noun_phrase
+"sí, madre",0,2,noun_phrase
+", tío",0,2,noun_phrase
+¡de rodillas,0,2,noun_phrase
+¡la puta madre!,0,3,noun_phrase
+lo admito,0,2,noun_phrase
+su hijo,0,2,noun_phrase
+no es ella,0,3,noun_phrase
+¿por dónde,0,2,noun_phrase
+tu ayuda,0,2,noun_phrase
+", llego",0,2,noun_phrase
+que eso,0,2,noun_phrase
+los niños,0,2,noun_phrase
+un arma,0,2,noun_phrase
+un accidente,0,2,noun_phrase
+lo logré,0,2,noun_phrase
+eso mismo,0,2,noun_phrase
+¿con qué propósito,0,3,noun_phrase
+"bueno, hola",0,2,noun_phrase
+estás vivo,0,2,noun_phrase
+un carajo,0,2,noun_phrase
+"oh, dios.",0,2,noun_phrase
+que bueno verte,0,3,noun_phrase
+una mano,0,2,noun_phrase
+¿no confías,0,2,noun_phrase
+última oportunidad,0,2,noun_phrase
+"buenos días, señor.",0,3,noun_phrase
+"bien, muchachos",0,2,noun_phrase
+es un problema,0,3,noun_phrase
+qué pena,0,2,noun_phrase
+no es un buen momento,0,5,noun_phrase
+", amigos",0,2,noun_phrase
+las puertas,0,2,noun_phrase
+te pillé,0,2,noun_phrase
+no fue mi intención,0,4,noun_phrase
+¿un libro,0,2,noun_phrase
+es un trato,0,3,noun_phrase
+claro que lo,0,3,noun_phrase
+mucho calor,0,2,noun_phrase
+tres minutos,0,2,noun_phrase
+no gracias,0,2,noun_phrase
+es mucho dinero,0,3,noun_phrase
+mis condolencias,0,2,noun_phrase
+¿de qué tipo,0,3,noun_phrase
+es un truco,0,3,noun_phrase
+es un milagro,0,3,noun_phrase
+el baño,0,2,noun_phrase
+el tiempo,0,2,noun_phrase
+¡hijo de perra!,0,3,noun_phrase
+¿una pistola,0,2,noun_phrase
+¿y cómo,0,2,noun_phrase
+", alex",0,2,noun_phrase
+"hola, pete.",0,2,noun_phrase
+tu arma,0,2,noun_phrase
+"¡alto, alto",0,2,noun_phrase
+los demás,0,2,noun_phrase
+¿un trabajo,0,2,noun_phrase
+una mujer,0,2,noun_phrase
+la cena,0,2,noun_phrase
+no es nadie,0,3,noun_phrase
+es mi esposa,0,3,noun_phrase
+"no, es verdad",0,3,noun_phrase
+es mi hijo,0,3,noun_phrase
+gracias de todos modos.,0,4,noun_phrase
+somos nosotros,0,2,noun_phrase
+como yo,0,2,noun_phrase
+todos ellos,0,2,noun_phrase
+es una pesadilla,0,3,noun_phrase
+un niño,0,2,noun_phrase
+solo yo.,0,2,noun_phrase
+"hola, david.",0,2,noun_phrase
+es tu decisión,0,3,noun_phrase
+sujeta esto.,0,2,noun_phrase
+¡a por ellos,0,3,noun_phrase
+gracias a usted,0,3,noun_phrase
+sólo un poco,0,3,noun_phrase
+¿y el dinero,0,3,noun_phrase
+eres preciosa.,0,2,noun_phrase
+"adiós, chicos",0,2,noun_phrase
+yo gano,0,2,noun_phrase
+no es eso,0,3,noun_phrase
+"detente, detente",0,2,noun_phrase
+la guerra,0,2,noun_phrase
+¡en fila,0,2,noun_phrase
+¿estas listo,0,2,noun_phrase
+¿recuerdas eso,0,2,noun_phrase
+es un hecho,0,3,noun_phrase
+¿lo amas,0,2,noun_phrase
+desde luego.,0,2,noun_phrase
+es un placer conocerte,0,4,noun_phrase
+somos familia,0,2,noun_phrase
+¿alguna objeción,0,2,noun_phrase
+cuatro años,0,2,noun_phrase
+este episodio,0,2,noun_phrase
+¡santo cielo!,0,2,noun_phrase
+fue un placer,0,3,noun_phrase
+las vegas,0,2,noun_phrase
+la odio,0,2,noun_phrase
+gracias a dios,0,3,noun_phrase
+amor mío.,0,2,noun_phrase
+no discutas,0,2,noun_phrase
+el arma,0,2,noun_phrase
+estamos en camino,0,3,noun_phrase
+su casa,0,2,noun_phrase
+ya regreso,0,2,noun_phrase
+"buenas noches, querida.",0,3,noun_phrase
+¿entonces qué,0,2,noun_phrase
+no exageres,0,2,noun_phrase
+¿algún problema,0,2,noun_phrase
+tu madre,0,2,noun_phrase
+un gusto conocerte,0,3,noun_phrase
+¿un favor,0,2,noun_phrase
+¡santa mierda!,0,2,noun_phrase
+el bebé,0,2,noun_phrase
+eres un cerdo,0,3,noun_phrase
+eres un monstruo,0,3,noun_phrase
+un sueño,0,2,noun_phrase
+¿qué problema,0,2,noun_phrase
+¿la conoces,0,2,noun_phrase
+es sangre,0,2,noun_phrase
+¿sabes quién es?,0,3,noun_phrase
+"gracias, john",0,2,noun_phrase
+hola cariño.,0,2,noun_phrase
+¡al ataque,0,2,noun_phrase
+número equivocado,0,2,noun_phrase
+no tú,0,2,noun_phrase
+es su decisión,0,3,noun_phrase
+todo el día,0,3,noun_phrase
+ni de coña,0,3,noun_phrase
+sólo un minuto,0,3,noun_phrase
+"no, no es nada",0,4,noun_phrase
+¡a por él,0,3,noun_phrase
+tómate tu tiempo.,0,3,noun_phrase
+¡maldita seas!,0,2,noun_phrase
+la chica,0,2,noun_phrase
+¿un arma,0,2,noun_phrase
+somos amigos,0,2,noun_phrase
+¿algo bueno,0,2,noun_phrase
+eres mi amigo,0,3,noun_phrase
+cumpleaños feliz,0,2,noun_phrase
+"hola, bill.",0,2,noun_phrase
+¿qué esperabas,0,2,noun_phrase
+¿necesitas ayuda,0,2,noun_phrase
+¿por qué sonríes,0,3,noun_phrase
+eras tú.,0,2,noun_phrase
+¿estamos de acuerdo,0,3,noun_phrase
+", gente",0,2,noun_phrase
+voy contigo,0,2,noun_phrase
+el fondo,0,2,noun_phrase
+¿alguna idea,0,2,noun_phrase
+ha sido un placer,0,4,noun_phrase
+la mañana,0,2,noun_phrase
+somos hermanos,0,2,noun_phrase
+es tu culpa,0,3,noun_phrase
+", señoritas",0,2,noun_phrase
+su madre,0,2,noun_phrase
+¿y para qué,0,3,noun_phrase
+¿una fiesta,0,2,noun_phrase
+es una señal,0,3,noun_phrase
+diez minutos,0,2,noun_phrase
+fue una locura,0,3,noun_phrase
+", mamá",0,2,noun_phrase
+¿o qué,0,2,noun_phrase
+"adiós, cariño",0,2,noun_phrase
+buenos dias.,0,2,noun_phrase
+no mires,0,2,noun_phrase
+es una sorpresa,0,3,noun_phrase
+¿hacia dónde,0,2,noun_phrase
+20 segundos,0,2,noun_phrase
+daos prisa.,0,2,noun_phrase
+no lo mates,0,3,noun_phrase
+¡abran paso!,0,2,noun_phrase
+¿estás nervioso,0,2,noun_phrase
+solo un minuto,0,3,noun_phrase
+fue mi culpa,0,3,noun_phrase
+", caray",0,2,noun_phrase
+¡maldito seas!,0,2,noun_phrase
+"pero, ¿cómo",0,2,noun_phrase
+"buenos días, señora.",0,3,noun_phrase
+vaya mierda.,0,2,noun_phrase
+no eres nada,0,3,noun_phrase
+esta todo,0,2,noun_phrase
+fue un error,0,3,noun_phrase
+es una fiesta,0,3,noun_phrase
+soy un idiota,0,3,noun_phrase
+es un alivio,0,3,noun_phrase
+encantada de conocerte.,0,3,noun_phrase
+tome asiento.,0,2,noun_phrase
+¡maldito hijo,0,2,noun_phrase
+es mentira,0,2,noun_phrase
+¿y ahora qué,0,3,noun_phrase
+qué alivio,0,2,noun_phrase
+soy tu amigo,0,3,noun_phrase
+no la conoces,0,3,noun_phrase
+¿un mes,0,2,noun_phrase
+¿pero cómo,0,2,noun_phrase
+¿eres tonto?,0,2,noun_phrase
+no lo conoces,0,3,noun_phrase
+ni lo pienses,0,3,noun_phrase
+¿tu esposa,0,2,noun_phrase
+gracias por todo,0,3,noun_phrase
+¡puta madre!,0,2,noun_phrase
+no lo arruines,0,3,noun_phrase
+mi padre,0,2,noun_phrase
+suelta eso.,0,2,noun_phrase
+no era mi intención,0,4,noun_phrase
+qué tonto,0,2,noun_phrase
+¿qué acabas,0,2,noun_phrase
+una mejor idea,0,3,noun_phrase
+¿qué demonios haces,0,3,noun_phrase
+eres mi hermano,0,3,noun_phrase
+qué mala suerte,0,3,noun_phrase
+como tú,0,2,noun_phrase
+el dinero,0,2,noun_phrase
+mucha suerte,0,2,noun_phrase
+madre mía.,0,2,noun_phrase
+", nada",0,2,noun_phrase
+está en camino,0,3,noun_phrase
+dale tiempo.,0,2,noun_phrase
+mi novia,0,2,noun_phrase
+una cita,0,2,noun_phrase
+es un juego,0,3,noun_phrase
+¡aléjate de mí!,0,3,noun_phrase
+supuesto que lo,0,3,noun_phrase
+la verdad,0,2,noun_phrase
+¿su nombre,0,2,noun_phrase
+¡al suelo,0,2,noun_phrase
+fue una broma,0,3,noun_phrase
+un deseo,0,2,noun_phrase
+el sótano,0,2,noun_phrase
+una condición,0,2,noun_phrase
+"hola, paul.",0,2,noun_phrase
+", demonios",0,2,noun_phrase
+"vamos, frank",0,2,noun_phrase
+¡tras él,0,2,noun_phrase
+¿qué tal esto?,0,3,noun_phrase
+¿tu nombre,0,2,noun_phrase
+un cigarrillo,0,2,noun_phrase
+mi esposa,0,2,noun_phrase
+"hola, dave.",0,2,noun_phrase
+la casa,0,2,noun_phrase
+¡alto ahí!,0,2,noun_phrase
+y acción,0,2,noun_phrase
+", muchachos",0,2,noun_phrase
+muchas gracias,0,2,noun_phrase
+no es la gran cosa,0,5,noun_phrase
+"hola, henry.",0,2,noun_phrase
+buen aspecto,0,2,noun_phrase
+¿estás listo?,0,2,noun_phrase
+la menor idea,0,3,noun_phrase
+qué casualidad,0,2,noun_phrase
+si señor,0,2,noun_phrase
+"sí, chef",0,2,noun_phrase
+¡mi auto,0,2,noun_phrase
+ahora mismo vuelvo,0,3,noun_phrase
+allá voy,0,2,noun_phrase
+gran idea,0,2,noun_phrase
+dime la verdad.,0,3,noun_phrase
+¡puta mierda!,0,2,noun_phrase
+vaya sorpresa.,0,2,noun_phrase
+miren eso.,0,2,noun_phrase
+el gusto,0,2,noun_phrase
+¡maldito desgraciado,0,2,noun_phrase
+"no, no es eso",0,4,noun_phrase
+aún así...,0,2,noun_phrase
+eres un idiota,0,3,noun_phrase
+qué edad,0,2,noun_phrase
+", hijo",0,2,noun_phrase
+problema resuelto,0,2,noun_phrase
+nada de malo,0,3,noun_phrase
+buen intento,0,2,noun_phrase
+lo juro,0,2,noun_phrase
+¿y los demás,0,3,noun_phrase
+nada bueno,0,2,noun_phrase
+que ser una broma,0,4,noun_phrase
+¿que demonios,0,2,noun_phrase
+una chica,0,2,noun_phrase
+"hola, jimmy.",0,2,noun_phrase
+es un honor,0,3,noun_phrase
+está en problemas,0,3,noun_phrase
+un beso,0,2,noun_phrase
+qué belleza,0,2,noun_phrase
+"sí, majestad",0,2,noun_phrase
+¿y usted,0,2,noun_phrase
+¿cómo qué,0,2,noun_phrase
+", ¿verdad",0,2,noun_phrase
+un buen hombre,0,3,noun_phrase
+no es nada,0,3,noun_phrase
+"no, sam",0,2,noun_phrase
+¡perro malo!,0,2,noun_phrase
+la cocina,0,2,noun_phrase
+excelente idea,0,2,noun_phrase
+es la ley,0,3,noun_phrase
+es tu hijo,0,3,noun_phrase
+"favor, ayúdame",0,2,noun_phrase
+un mal presentimiento,0,3,noun_phrase
+tienes suerte.,0,2,noun_phrase
+una llamada,0,2,noun_phrase
+una copa,0,2,noun_phrase
+el otro,0,2,noun_phrase
+estás equivocado,0,2,noun_phrase
+"sí, padre",0,2,noun_phrase
+estaremos en contacto,0,3,noun_phrase
+"hola, michael.",0,2,noun_phrase
+no es de tu incumbencia,0,5,noun_phrase
+la encontré,0,2,noun_phrase
+¿una cita,0,2,noun_phrase
+ninguna manera,0,2,noun_phrase
+¿un cigarrillo,0,2,noun_phrase
+quieres decir...,0,2,noun_phrase
+los odio,0,2,noun_phrase
+sí que lo,0,3,noun_phrase
+¿lo entiendes,0,2,noun_phrase
+mi familia,0,2,noun_phrase
+feliz cumpleaños,0,2,noun_phrase
+30 segundos,0,2,noun_phrase
+también yo,0,2,noun_phrase
+le gustas.,0,2,noun_phrase
+no sería la primera vez,0,5,noun_phrase
+"oh, jesús.",0,2,noun_phrase
+su tiempo,0,2,noun_phrase
+un millón,0,2,noun_phrase
+tome esto.,0,2,noun_phrase
+¡válgame dios!,0,2,noun_phrase
+", ok",0,2,noun_phrase
+todos nosotros,0,2,noun_phrase
+¡cielo santo!,0,2,noun_phrase
+come on.,0,2,noun_phrase
+¿es eso correcto,0,3,noun_phrase
+¿a esta hora,0,3,noun_phrase
+"hola, eddie.",0,2,noun_phrase
+la pena,0,2,noun_phrase
+", caballeros",0,2,noun_phrase
+si quieres,0,2,noun_phrase
+¡a sus puestos,0,3,noun_phrase
+tus asuntos,0,2,noun_phrase
+"hola, danny.",0,2,noun_phrase
+¡aléjate de mi!,0,3,noun_phrase
+ningún modo,0,2,noun_phrase
+un poco,0,2,noun_phrase
+la maldita puerta,0,3,noun_phrase
+mi camino,0,2,noun_phrase
+", siéntate",0,2,noun_phrase
+"sí, cómo",0,2,noun_phrase
+", vete",0,2,noun_phrase
+"buenas noches, señor.",0,3,noun_phrase
+no es mía,0,3,noun_phrase
+las dos cosas,0,3,noun_phrase
+soy todo oídos,0,3,noun_phrase
+¿a quiénes,0,2,noun_phrase
+", tú",0,2,noun_phrase
+soy un hombre,0,3,noun_phrase
+harry potter.,0,2,noun_phrase
+el jueves,0,2,noun_phrase
+no salgas,0,2,noun_phrase
+¿qué plan,0,2,noun_phrase
+¿es suyo,0,2,noun_phrase
+como todos,0,2,noun_phrase
+sólo tú,0,2,noun_phrase
+"no, hijo",0,2,noun_phrase
+no lo entiendes,0,3,noun_phrase
+ni una vez,0,3,noun_phrase
+no otra vez,0,3,noun_phrase
+"hola, guapo.",0,2,noun_phrase
+¿qué tal tú,0,3,noun_phrase
+todo el tiempo,0,3,noun_phrase
+es bueno verte,0,3,noun_phrase
+y una cosa,0,3,noun_phrase
+", amor",0,2,noun_phrase
+el libro,0,2,noun_phrase
+es la policía,0,3,noun_phrase
+fin de la historia.,0,4,noun_phrase
+todavía nada,0,2,noun_phrase
+pero tú,0,2,noun_phrase
+la vista,0,2,noun_phrase
+ahora es mi turno,0,4,noun_phrase
+", jefe",0,2,noun_phrase
+"bueno, vámonos",0,2,noun_phrase
+¿qué cojones,0,2,noun_phrase
+tu padre,0,2,noun_phrase
+¡maldito sea!,0,2,noun_phrase
+una ambulancia,0,2,noun_phrase
+el amor,0,2,noun_phrase
+es una pena,0,3,noun_phrase
+estás borracho.,0,2,noun_phrase
+¿a cuál,0,2,noun_phrase
+son hermosos,0,2,noun_phrase
+tres días,0,2,noun_phrase
+el futuro,0,2,noun_phrase
+", sargento",0,2,noun_phrase
+¿necesitas dinero,0,2,noun_phrase
+"no, no es verdad",0,4,noun_phrase
+no esta noche,0,3,noun_phrase
+", cielo",0,2,noun_phrase
+el cambio,0,2,noun_phrase
+el nombre,0,2,noun_phrase
+no entres,0,2,noun_phrase
+un abogado,0,2,noun_phrase
+", todos",0,2,noun_phrase
+¿un juego,0,2,noun_phrase
+¿tú quién eres?,0,3,noun_phrase
+au revoir,0,2,noun_phrase
+es mi marido,0,3,noun_phrase
+soy su madre,0,3,noun_phrase
+una noche,0,2,noun_phrase
+¿qué dices,0,2,noun_phrase
+cuántos años,0,2,noun_phrase
+tu hijo,0,2,noun_phrase
+qué rico,0,2,noun_phrase
+"tres, dos, uno",0,3,noun_phrase
+no es su culpa,0,4,noun_phrase
+¡presenten armas!,0,2,noun_phrase
+así son las cosas,0,4,noun_phrase
+"hola, george.",0,2,noun_phrase
+los veo,0,2,noun_phrase
+gracias por tu ayuda,0,4,noun_phrase
+cuéntamelo todo.,0,2,noun_phrase
+no puedo decírtelo,0,3,noun_phrase
+disculpa aceptada,0,2,noun_phrase
+¿para quién,0,2,noun_phrase
+es una mala idea,0,4,noun_phrase
+un paseo,0,2,noun_phrase
+ten cuidado,0,2,noun_phrase
+pues bien.,0,2,noun_phrase
+no lo escuches,0,3,noun_phrase
+un vistazo,0,2,noun_phrase
+todo eso,0,2,noun_phrase
+está enfermo,0,2,noun_phrase
+¿estás de coña?,0,3,noun_phrase
+es la primera vez,0,4,noun_phrase
+iré enseguida,0,2,noun_phrase
+mi vida,0,2,noun_phrase
+la cabeza,0,2,noun_phrase
+mala idea,0,2,noun_phrase
+mucho gusto,0,2,noun_phrase
+es suya,0,2,noun_phrase
+tres veces,0,2,noun_phrase
+es una gran idea,0,4,noun_phrase
+como digas,0,2,noun_phrase
+"no, papá",0,2,noun_phrase
+¿en dónde,0,2,noun_phrase
+¿qué deseas,0,2,noun_phrase
+mire eso.,0,2,noun_phrase
+¿y éste,0,2,noun_phrase
+qué idiota,0,2,noun_phrase
+no soy nadie,0,3,noun_phrase
+otro día,0,2,noun_phrase
+no la toques,0,3,noun_phrase
+¿cuánto quieres,0,2,noun_phrase
+mucho miedo,0,2,noun_phrase
+"hola, preciosa.",0,2,noun_phrase
+"no, yo",0,2,noun_phrase
+¿con qué,0,2,noun_phrase
+fuiste tú.,0,2,noun_phrase
+ese eres tú,0,3,noun_phrase
+¿sabías eso?,0,2,noun_phrase
+el hospital,0,2,noun_phrase
+la cama,0,2,noun_phrase
+o algo,0,2,noun_phrase
+"no, gracias a ti",0,4,noun_phrase
+qué día,0,2,noun_phrase
+el niño,0,2,noun_phrase
+el estilo,0,2,noun_phrase
+su señoría,0,2,noun_phrase
+"¡eh, eh!",0,2,noun_phrase
+eres un héroe,0,3,noun_phrase
+aléjate de él.,0,3,noun_phrase
+fue idea,0,2,noun_phrase
+el coche,0,2,noun_phrase
+¿qué miras,0,2,noun_phrase
+no toques,0,2,noun_phrase
+maldito idiota,0,2,noun_phrase
+todos los cielos,0,3,noun_phrase
+¿y tu padre,0,3,noun_phrase
+es su cumpleaños,0,3,noun_phrase
+¿qué gente,0,2,noun_phrase
+suena genial,0,2,noun_phrase
+los ángeles,0,2,noun_phrase
+una foto,0,2,noun_phrase
+un favor,0,2,noun_phrase
+y una mierda,0,3,noun_phrase
+¿la amas,0,2,noun_phrase
+el viernes,0,2,noun_phrase
+¿la encontraste,0,2,noun_phrase
+mi héroe,0,2,noun_phrase
+otro momento,0,2,noun_phrase
+¡le di!,0,2,noun_phrase
+una bomba,0,2,noun_phrase
+¿adónde vais,0,2,noun_phrase
+no es gran cosa,0,4,noun_phrase
+¡abran fuego!,0,2,noun_phrase
+"entonces, ¿qué",0,2,noun_phrase
+"sí, tú",0,2,noun_phrase
+"bien, buenas noches",0,3,noun_phrase
+¿a donde,0,2,noun_phrase
+¿un error,0,2,noun_phrase
+¿y el bebé,0,3,noun_phrase
+es una mujer,0,3,noun_phrase
+heil hitler.,0,2,noun_phrase
+mi cabeza,0,2,noun_phrase
+no lo olvides,0,3,noun_phrase
+estamos listos,0,2,noun_phrase
+cierto modo,0,2,noun_phrase
+"favor, siéntense",0,2,noun_phrase
+el teléfono,0,2,noun_phrase
+algunas veces,0,2,noun_phrase
+sólo bromeo,0,2,noun_phrase
+", sam",0,2,noun_phrase
+", perdón",0,2,noun_phrase
+cualquier momento,0,2,noun_phrase
+¿y tú qué?,0,3,noun_phrase
+nada especial,0,2,noun_phrase
+del espíritu,0,2,noun_phrase
+¿estas loco,0,2,noun_phrase
+"hola, bob.",0,2,noun_phrase
+¿qué cuentas,0,2,noun_phrase
+el sol,0,2,noun_phrase
+buena pinta,0,2,noun_phrase
+no comprendes,0,2,noun_phrase
+muchas gracias por venir.,0,4,noun_phrase
+una disculpa,0,2,noun_phrase
+5 minutos,0,2,noun_phrase
+sólo yo,0,2,noun_phrase
+ninguna forma,0,2,noun_phrase
+"no, amigo",0,2,noun_phrase
+es una lástima,0,3,noun_phrase
+¿qué más quieres,0,3,noun_phrase
+"hey, chicos",0,2,noun_phrase
+una idea mejor,0,3,noun_phrase
+olvídate de eso.,0,3,noun_phrase
+es mi amigo,0,3,noun_phrase
+fue ella,0,2,noun_phrase
+"sí, papá",0,2,noun_phrase
+"vamos, john",0,2,noun_phrase
+algún día,0,2,noun_phrase
+sus armas,0,2,noun_phrase
+no es problema,0,3,noun_phrase
+nada serio,0,2,noun_phrase
+es un niño,0,3,noun_phrase
+¿lo conoces,0,2,noun_phrase
+yo primero,0,2,noun_phrase
+qué tal,0,2,noun_phrase
+buen chico,0,2,noun_phrase
+¿y tú eres?,0,3,noun_phrase
+y usted,0,2,noun_phrase
+¿qué decías,0,2,noun_phrase
+la calma,0,2,noun_phrase
+", por dios",0,3,noun_phrase
+eres un ángel,0,3,noun_phrase
+es una chica,0,3,noun_phrase
+tres meses,0,2,noun_phrase
+ahora regreso,0,2,noun_phrase
+¿estás ciego,0,2,noun_phrase
+el momento,0,2,noun_phrase
+¿de verdad,0,2,noun_phrase
+es papá,0,2,noun_phrase
+la gente,0,2,noun_phrase
+¿el qué,0,2,noun_phrase
+no fumo,0,2,noun_phrase
+era un buen hombre,0,4,noun_phrase
+", diablos",0,2,noun_phrase
+es esta,0,2,noun_phrase
+"hola, peter.",0,2,noun_phrase
+un milagro,0,2,noun_phrase
+¿no qué,0,2,noun_phrase
+mi mujer,0,2,noun_phrase
+"buenos días, cariño.",0,3,noun_phrase
+la noche,0,2,noun_phrase
+tú eliges.,0,2,noun_phrase
+"sí, señoría",0,2,noun_phrase
+eres un tonto,0,3,noun_phrase
+ninguna parte,0,2,noun_phrase
+¿sobre mí,0,2,noun_phrase
+¿qué esperas,0,2,noun_phrase
+tu día,0,2,noun_phrase
+feliz año nuevo,0,3,noun_phrase
+no fue un accidente,0,4,noun_phrase
+¿para mi,0,2,noun_phrase
+estuviste genial,0,2,noun_phrase
+ese hijo,0,2,noun_phrase
+¿y nosotros,0,2,noun_phrase
+el sr,0,2,noun_phrase
+es una tontería,0,3,noun_phrase
+las damas primero,0,3,noun_phrase
+buen hombre,0,2,noun_phrase
+gracias de nuevo.,0,3,noun_phrase
+el pánico,0,2,noun_phrase
+mi papá,0,2,noun_phrase
+es un hombre,0,3,noun_phrase
+es broma,0,2,noun_phrase
+lamento oír,0,2,noun_phrase
+tal vez.,0,2,noun_phrase
+¿qué viste,0,2,noun_phrase
+¿quieres café?,0,2,noun_phrase
+dos segundos,0,2,noun_phrase
+soy periodista,0,2,noun_phrase
+¡todos fuera!,0,2,noun_phrase
+tened cuidado.,0,2,noun_phrase
+miren esto.,0,2,noun_phrase
+", maría",0,2,noun_phrase
+"hola, mary.",0,2,noun_phrase
+¿quiénes sois?,0,2,noun_phrase
+una cosa,0,2,noun_phrase
+"claro, ¿por qué",0,3,noun_phrase
+¿qué cosas,0,2,noun_phrase
+", amiguito",0,2,noun_phrase
+como desees,0,2,noun_phrase
+ya es hora,0,3,noun_phrase
+¡oh dios mío!,0,3,noun_phrase
+¿recuerdas esto,0,2,noun_phrase
+es un regalo,0,3,noun_phrase
+sus órdenes,0,2,noun_phrase
+santo cielo,0,2,noun_phrase
+qué maravilla,0,2,noun_phrase
+hijo de...,0,2,noun_phrase
+¿cuánto tiempo llevas,0,3,noun_phrase
+algo parecido,0,2,noun_phrase
+ese hombre,0,2,noun_phrase
+"ah, hola",0,2,noun_phrase
+la próxima vez,0,3,noun_phrase
+pero es verdad,0,3,noun_phrase
+¿por cuánto tiempo,0,3,noun_phrase
+ningún lado,0,2,noun_phrase
+", mierda",0,2,noun_phrase
+tuve suerte.,0,2,noun_phrase
+nada importante,0,2,noun_phrase
+alerta roja,0,2,noun_phrase
+son mis amigos,0,3,noun_phrase
+"hola, nena.",0,2,noun_phrase
+"bueno, muchas gracias",0,3,noun_phrase
+dos años,0,2,noun_phrase
+recibí tu mensaje.,0,3,noun_phrase
+otra ocasión,0,2,noun_phrase
+voy en camino,0,3,noun_phrase
+¿tu hermana,0,2,noun_phrase
+¿y ustedes,0,2,noun_phrase
+maldito imbécil,0,2,noun_phrase
+¿con él,0,2,noun_phrase
+¿cómo estas,0,2,noun_phrase
+un montón,0,2,noun_phrase
+¿el baño,0,2,noun_phrase
+permiso concedido,0,2,noun_phrase
+10 minutos,0,2,noun_phrase
+no es por eso,0,4,noun_phrase
+¿la ves,0,2,noun_phrase
+todos ustedes,0,2,noun_phrase
+qué buena idea,0,3,noun_phrase
+somos un equipo,0,3,noun_phrase
+buen provecho,0,2,noun_phrase
+ponte esto,0,2,noun_phrase
+", ¿y tú",0,3,noun_phrase
+ahí lo,0,2,noun_phrase
+¿tu hermano,0,2,noun_phrase
+el pico,0,2,noun_phrase
+qué emoción,0,2,noun_phrase
+fue un accidente,0,3,noun_phrase
+ya era hora,0,3,noun_phrase
+es una locura,0,3,noun_phrase
+qué mal,0,2,noun_phrase
+es una belleza,0,3,noun_phrase
+sólo una,0,2,noun_phrase
+mi novio,0,2,noun_phrase
+que tú,0,2,noun_phrase
+somos una familia,0,3,noun_phrase
+dos horas,0,2,noun_phrase
+mi culpa,0,2,noun_phrase
+"pero, ¿por qué",0,3,noun_phrase
+esta canción,0,2,noun_phrase
+¿estás celoso,0,2,noun_phrase
+¿tienes familia,0,2,noun_phrase
+"bla, bla, bla.",0,3,noun_phrase
+toda mi vida,0,3,noun_phrase
+¡oh mierda!,0,2,noun_phrase
+algún problema,0,2,noun_phrase
+¡qué vergüenza,0,2,noun_phrase
+¿qué carajos,0,2,noun_phrase
+la muerte,0,2,noun_phrase
+sus apuestas,0,2,noun_phrase
+¿los conoces,0,2,noun_phrase
+"gracias, frank",0,2,noun_phrase
+"tranquilo, tranquilo",0,2,noun_phrase
+¿el fbi,0,2,noun_phrase
+dilo otra vez.,0,3,noun_phrase
+"hola, joe.",0,2,noun_phrase
+jaque mate.,0,2,noun_phrase
+¿que fue eso,0,3,noun_phrase
+"hola, max.",0,2,noun_phrase
+un día,0,2,noun_phrase
+¿como qué,0,2,noun_phrase
+mazel tov.,0,2,noun_phrase
+es una larga historia,0,4,noun_phrase
+¿qué día,0,2,noun_phrase
+mis hijos,0,2,noun_phrase
+buenas tardes,0,2,noun_phrase
+¿a ti,0,2,noun_phrase
+¿y cuál,0,2,noun_phrase
+"bueno, buenas noches",0,3,noun_phrase
+un bebé,0,2,noun_phrase
+iré yo.,0,2,noun_phrase
+el jefe,0,2,noun_phrase
+"no, señora",0,2,noun_phrase
+"sí, capitán",0,2,noun_phrase
+la mayoría,0,2,noun_phrase
+este lugar,0,2,noun_phrase
+es mía,0,2,noun_phrase
+"gracias, jack",0,2,noun_phrase
+qué agradable sorpresa,0,3,noun_phrase
+lo mismo digo,0,3,noun_phrase
+la sesión,0,2,noun_phrase
+¿y después qué,0,3,noun_phrase
+madre de dios.,0,3,noun_phrase
+iré contigo.,0,2,noun_phrase
+qué locura,0,2,noun_phrase
+tienes fiebre.,0,2,noun_phrase
+qué diablos,0,2,noun_phrase
+es por eso,0,3,noun_phrase
+mi mensaje,0,2,noun_phrase
+está conmigo,0,2,noun_phrase
+"gracias, sr. presidente.",0,3,noun_phrase
+cualquier cosa,0,2,noun_phrase
+eres hombre muerto,0,3,noun_phrase
+dos meses,0,2,noun_phrase
+que movernos,0,2,noun_phrase
+buen día,0,2,noun_phrase
+estás preciosa,0,2,noun_phrase
+¿qué aspecto,0,2,noun_phrase
+un par,0,2,noun_phrase
+", por favor",0,3,noun_phrase
+soy tu padre,0,3,noun_phrase
+dame tu mano.,0,3,noun_phrase
+¿una carta,0,2,noun_phrase
+podría ser cualquiera,0,3,noun_phrase
+es tu cumpleaños,0,3,noun_phrase
+el juego,0,2,noun_phrase
+debes irte,0,2,noun_phrase
+los viejos tiempos,0,3,noun_phrase
+la semana pasada,0,3,noun_phrase
+deberías irte,0,2,noun_phrase
+¿qué lees,0,2,noun_phrase
+los otros,0,2,noun_phrase
+"hola, steve.",0,2,noun_phrase
+mi esposo,0,2,noun_phrase
+su hermana,0,2,noun_phrase
+la voz,0,2,noun_phrase
+el sábado,0,2,noun_phrase
+feliz navidad.,0,2,noun_phrase
+un buen día,0,3,noun_phrase
+otra opción,0,2,noun_phrase
+es una bomba,0,3,noun_phrase
+tú sí.,0,2,noun_phrase
+no entiendes,0,2,noun_phrase
+"no, mamá",0,2,noun_phrase
+mi trabajo,0,2,noun_phrase
+su alteza,0,2,noun_phrase
+estás genial,0,2,noun_phrase
+oh dios.,0,2,noun_phrase
+¿qué rayos,0,2,noun_phrase
+es un comienzo,0,3,noun_phrase
+dos minutos,0,2,noun_phrase
+", muchacho",0,2,noun_phrase
+la pared,0,2,noun_phrase
+no esta vez,0,3,noun_phrase
+es navidad,0,2,noun_phrase
+¿por qué preguntas,0,3,noun_phrase
+dese prisa.,0,2,noun_phrase
+mi mamá,0,2,noun_phrase
+qué sorpresa,0,2,noun_phrase
+¿mi nombre,0,2,noun_phrase
+qué coño,0,2,noun_phrase
+ni una palabra,0,3,noun_phrase
+mi señora,0,2,noun_phrase
+"hola, charlie.",0,2,noun_phrase
+no miento,0,2,noun_phrase
+¿sobre qué,0,2,noun_phrase
+¿qué mujer,0,2,noun_phrase
+¿que cosa,0,2,noun_phrase
+soy su padre,0,3,noun_phrase
+muchas cosas,0,2,noun_phrase
+", chicos",0,2,noun_phrase
+tampoco yo,0,2,noun_phrase
+buen muchacho,0,2,noun_phrase
+yo tambien,0,2,noun_phrase
+una y otra vez,0,4,noun_phrase
+¿ves eso,0,2,noun_phrase
+es mamá,0,2,noun_phrase
+date vuelta,0,2,noun_phrase
+es mi padre,0,3,noun_phrase
+es mi hija,0,3,noun_phrase
+mi marido,0,2,noun_phrase
+¿y ud.,0,2,noun_phrase
+"no, ¿qué",0,2,noun_phrase
+¡maldita perra!,0,2,noun_phrase
+dios santo,0,2,noun_phrase
+eres buena,0,2,noun_phrase
+¿que quieres,0,2,noun_phrase
+es mi vida,0,3,noun_phrase
+ni siquiera lo pienses,0,4,noun_phrase
+"sí, yo",0,2,noun_phrase
+"vamos, charlie",0,2,noun_phrase
+¿el que,0,2,noun_phrase
+james bond.,0,2,noun_phrase
+eso intento,0,2,noun_phrase
+estoy de vacaciones,0,3,noun_phrase
+no fue mi culpa,0,4,noun_phrase
+una idea,0,2,noun_phrase
+"hola, johnny.",0,2,noun_phrase
+es una vergüenza,0,3,noun_phrase
+media hora,0,2,noun_phrase
+es un buen tipo,0,4,noun_phrase
+qué tierno,0,2,noun_phrase
+dímelo tú.,0,2,noun_phrase
+es un genio,0,3,noun_phrase
+"sí, señora",0,2,noun_phrase
+¡las manos,0,2,noun_phrase
+¿la qué,0,2,noun_phrase
+mi espalda,0,2,noun_phrase
+"si, yo",0,2,noun_phrase
+el final,0,2,noun_phrase
+mi hombre,0,2,noun_phrase
+gusto en conocerte.,0,3,noun_phrase
+"buenas noches, mamá.",0,3,noun_phrase
+no es mi culpa,0,4,noun_phrase
+una lástima,0,2,noun_phrase
+mis padres,0,2,noun_phrase
+hacerte daño,0,2,noun_phrase
+¿qué hora,0,2,noun_phrase
+", hombre",0,2,noun_phrase
+"oh, mira",0,2,noun_phrase
+es mi madre,0,3,noun_phrase
+¡hijos de perra!,0,3,noun_phrase
+el auto,0,2,noun_phrase
+", capitán",0,2,noun_phrase
+no es una buena idea,0,5,noun_phrase
+el cuerpo,0,2,noun_phrase
+dejame ver.,0,2,noun_phrase
+¿y tu,0,2,noun_phrase
+mirad esto.,0,2,noun_phrase
+la cuenta,0,2,noun_phrase
+", mi amor",0,3,noun_phrase
+el resto,0,2,noun_phrase
+esta bien,0,2,noun_phrase
+y a mí,0,3,noun_phrase
+", ¿de verdad",0,3,noun_phrase
+¿y el otro,0,3,noun_phrase
+no llores,0,2,noun_phrase
+"sí, su señoría",0,3,noun_phrase
+tus ojos,0,2,noun_phrase
+"sí, ¿por qué",0,3,noun_phrase
+¿la mataste,0,2,noun_phrase
+todos juntos,0,2,noun_phrase
+que asco,0,2,noun_phrase
+todos los días,0,3,noun_phrase
+¿tu crees,0,2,noun_phrase
+date prisa,0,2,noun_phrase
+eres mi héroe.,0,3,noun_phrase
+¿hablas inglés,0,2,noun_phrase
+"muy bien, muchachos",0,3,noun_phrase
+estoy en problemas,0,3,noun_phrase
+qué lindo,0,2,noun_phrase
+no es mi problema,0,4,noun_phrase
+estoy contigo,0,2,noun_phrase
+¿que es eso,0,3,noun_phrase
+solo uno.,0,2,noun_phrase
+¿es de verdad,0,3,noun_phrase
+todo el mundo,0,3,noun_phrase
+yo... yo,0,2,noun_phrase
+¡a un lado,0,3,noun_phrase
+¿como estas,0,2,noun_phrase
+número uno.,0,2,noun_phrase
+¡maldita puta!,0,2,noun_phrase
+las cosas,0,2,noun_phrase
+mi nombre,0,2,noun_phrase
+solo un poco,0,3,noun_phrase
+diez segundos,0,2,noun_phrase
+las llaves,0,2,noun_phrase
+que duermas,0,2,noun_phrase
+no es lo mismo,0,4,noun_phrase
+qué gusto,0,2,noun_phrase
+su hija,0,2,noun_phrase
+esta mañana,0,2,noun_phrase
+una diferencia,0,2,noun_phrase
+esta muerto,0,2,noun_phrase
+¿que hora,0,2,noun_phrase
+no cambies,0,2,noun_phrase
+gracias por esto,0,3,noun_phrase
+la mitad,0,2,noun_phrase
+¡dense prisa!,0,2,noun_phrase
+gracias por su tiempo,0,4,noun_phrase
+no la veo,0,3,noun_phrase
+el fuego,0,2,noun_phrase
+encantado de conocerte.,0,3,noun_phrase
+fue en defensa propia,0,4,noun_phrase
+sólo eso,0,2,noun_phrase
+estos subtítulos,0,2,noun_phrase
+yo solo,0,2,noun_phrase
+un lado,0,2,noun_phrase
+¿alguna vez,0,2,noun_phrase
+es tu elección,0,3,noun_phrase
+feliz cumpleaños.,0,2,noun_phrase
+no jodas,0,2,noun_phrase
+¿por quién,0,2,noun_phrase
+¿por qué tú,0,3,noun_phrase
+un plan,0,2,noun_phrase
+¿lo conseguiste,0,2,noun_phrase
+es un monstruo,0,3,noun_phrase
+estamos en guerra,0,3,noun_phrase
+es una pérdida,0,3,noun_phrase
+"sí, mi señor",0,3,noun_phrase
+agárrate fuerte,0,2,noun_phrase
+"no, cariño",0,2,noun_phrase
+¿necesitan ayuda?,0,2,noun_phrase
+¿quién diablos eres,0,3,noun_phrase
+están todos muertos,0,3,noun_phrase
+soy abogado,0,2,noun_phrase
+buen trabajo,0,2,noun_phrase
+su padre,0,2,noun_phrase
+¡qué noche,0,2,noun_phrase
+"bien, vámonos",0,2,noun_phrase
+eres un encanto,0,3,noun_phrase
+dos veces,0,2,noun_phrase
+", niños",0,2,noun_phrase
+una serie,0,2,noun_phrase
+no es tu culpa,0,4,noun_phrase
+su testigo,0,2,noun_phrase
+es mi trabajo,0,3,noun_phrase
+malas noticias,0,2,noun_phrase
+sus puestos,0,2,noun_phrase
+la escuela,0,2,noun_phrase
+gracias por su cooperación,0,4,noun_phrase
+"hola, tony.",0,2,noun_phrase
+hola amigo.,0,2,noun_phrase
+", eso",0,2,noun_phrase
+qué desperdicio,0,2,noun_phrase
+un fantasma,0,2,noun_phrase
+ese mismo,0,2,noun_phrase
+el pelo,0,2,noun_phrase
+encontré esto,0,2,noun_phrase
+¿es una amenaza,0,3,noun_phrase
+la respuesta,0,2,noun_phrase
+es mi casa,0,3,noun_phrase
+¿y esto,0,2,noun_phrase
+"favor, dios",0,2,noun_phrase
+"no, eso",0,2,noun_phrase
+¿qué encontraste,0,2,noun_phrase
+¿y entonces qué,0,3,noun_phrase
+son buenas noticias,0,3,noun_phrase
+hijo mío.,0,2,noun_phrase
+te lo juro,0,3,noun_phrase
+gracias por el consejo,0,4,noun_phrase
+una sorpresa,0,2,noun_phrase
+más preguntas,0,2,noun_phrase
+", chico",0,2,noun_phrase
+¿eso qué,0,2,noun_phrase
+mi amigo,0,2,noun_phrase
+tu trabajo,0,2,noun_phrase
+¡maldito bastardo!,0,2,noun_phrase
+esa chica,0,2,noun_phrase
+policía de nueva york.,0,4,noun_phrase
+¿un trago,0,2,noun_phrase
+"sí, es verdad",0,3,noun_phrase
+la boca,0,2,noun_phrase
+el lunes,0,2,noun_phrase
+: ilse,0,2,noun_phrase
+no es verdad,0,3,noun_phrase
+muchas veces,0,2,noun_phrase
+cuento contigo.,0,2,noun_phrase
+tus padres,0,2,noun_phrase
+"hola, querido",0,2,noun_phrase
+"hola, ben.",0,2,noun_phrase
+¿la policía,0,2,noun_phrase
+"hola, john.",0,2,noun_phrase
+"hola, chris.",0,2,noun_phrase
+sólo un segundo,0,3,noun_phrase
+es una orden,0,3,noun_phrase
+qué mierda,0,2,noun_phrase
+¿estás celosa,0,2,noun_phrase
+¿para mí,0,2,noun_phrase
+qué miedo,0,2,noun_phrase
+sólo uno,0,2,noun_phrase
+un gusto,0,2,noun_phrase
+otra vez,0,2,noun_phrase
+es la verdad,0,3,noun_phrase
+¿de qué hablas,0,3,noun_phrase
+eres un buen hombre,0,4,noun_phrase
+sólo una vez,0,3,noun_phrase
+es una trampa,0,3,noun_phrase
+¿estás lista,0,2,noun_phrase
+¿es tu novia,0,3,noun_phrase
+tu turno,0,2,noun_phrase
+"buenas noches, caballeros.",0,3,noun_phrase
+es mi turno,0,3,noun_phrase
+lo pillo,0,2,noun_phrase
+¿qué paso,0,2,noun_phrase
+¿eres policía?,0,2,noun_phrase
+¿qué diablos haces,0,3,noun_phrase
+su atención,0,2,noun_phrase
+deshazte de él.,0,3,noun_phrase
+una mierda,0,2,noun_phrase
+ese tipo,0,2,noun_phrase
+siete años,0,2,noun_phrase
+es mi mujer,0,3,noun_phrase
+eres un cobarde,0,3,noun_phrase
+todas formas,0,2,noun_phrase
+¿de que hablas,0,3,noun_phrase
+es una mentira,0,3,noun_phrase
+qué encantador,0,2,noun_phrase
+¿alguna otra cosa,0,3,noun_phrase
+pero ¿por qué,0,3,noun_phrase
+qué horror,0,2,noun_phrase
+qué ridículo,0,2,noun_phrase
+20 minutos,0,2,noun_phrase
+un hijo,0,2,noun_phrase
+una pesadilla,0,2,noun_phrase
+mi casa,0,2,noun_phrase
+qué coincidencia,0,2,noun_phrase
+es un desastre,0,3,noun_phrase
+ningún sentido,0,2,noun_phrase
+¿la viste,0,2,noun_phrase
+esta vez,0,2,noun_phrase
+llévame contigo.,0,2,noun_phrase
+es tu padre,0,3,noun_phrase
+otra manera,0,2,noun_phrase
+la puta,0,2,noun_phrase
+eso apesta,0,2,noun_phrase
+sabes eso,0,2,noun_phrase
+¿y los otros,0,3,noun_phrase
+¿y él,0,2,noun_phrase
+"no, tío",0,2,noun_phrase
+¿qué dinero,0,2,noun_phrase
+eres mi mejor amigo,0,4,noun_phrase
+y tú,0,2,noun_phrase
+¿quién demonios,0,2,noun_phrase
+"sí, mamá",0,2,noun_phrase
+es para usted,0,3,noun_phrase
+como en los viejos tiempos,0,5,noun_phrase
+¿qué averiguaste,0,2,noun_phrase
+una vuelta,0,2,noun_phrase
+¿hasta cuándo,0,2,noun_phrase
+no es un problema,0,4,noun_phrase
+gracias por la comida,0,4,noun_phrase
+ahí esta,0,2,noun_phrase
+una amiga,0,2,noun_phrase
+qué suerte,0,2,noun_phrase
+los ojos,0,2,noun_phrase
+un placer conocerte,0,3,noun_phrase
+¿qué hombre,0,2,noun_phrase
+es lo mismo,0,3,noun_phrase
+gran trabajo,0,2,noun_phrase
+"¡hey, tú",0,2,noun_phrase
+¿y el resto,0,3,noun_phrase
+"sí, cariño",0,2,noun_phrase
+¿lo reconoces,0,2,noun_phrase
+"no, olvídalo",0,2,noun_phrase
+¡a la carga,0,3,noun_phrase
+la policía,0,2,noun_phrase
+¿de mí,0,2,noun_phrase
+mi bebé,0,2,noun_phrase
+mi señor,0,2,noun_phrase
+yo manejo.,0,2,noun_phrase
+qué sentido,0,2,noun_phrase
+será un placer,0,3,noun_phrase
+me das asco,0,3,noun_phrase
+el mismo,0,2,noun_phrase
+¡rompan filas!,0,2,noun_phrase
+"sí, sargento",0,2,noun_phrase
+una locura,0,2,noun_phrase
+son ellos,0,2,noun_phrase
+es una buena pregunta,0,4,noun_phrase
+"buenas noches, cariño.",0,3,noun_phrase
+¿y los niños,0,3,noun_phrase
+"sí, muchas gracias",0,3,noun_phrase
+¡al piso,0,2,noun_phrase
+ni uno,0,2,noun_phrase
+¿una qué,0,2,noun_phrase
+la tierra,0,2,noun_phrase
+es la única forma,0,4,noun_phrase
+pues yo,0,2,noun_phrase
+"favor, papá",0,2,noun_phrase
+", maldición",0,2,noun_phrase
+on line,0,2,noun_phrase
+no todo,0,2,noun_phrase
+eres un genio,0,3,noun_phrase
+mucho dinero,0,2,noun_phrase
+no lo harías,0,3,noun_phrase
+"vamos, jack",0,2,noun_phrase
+"acuerdo, gracias",0,2,noun_phrase
+qué bueno verte,0,3,noun_phrase
+pero tú sí.,0,3,noun_phrase
+¡mi pierna,0,2,noun_phrase
+es un placer,0,3,noun_phrase
+un café,0,2,noun_phrase
+"oh, mi...",0,2,noun_phrase
+", mike",0,2,noun_phrase
+¡mi cara,0,2,noun_phrase
+es tuyo,0,2,noun_phrase
+su ayuda,0,2,noun_phrase
+¡hija de puta!,0,3,noun_phrase
+lo aprecio,0,2,noun_phrase
+excelente trabajo,0,2,noun_phrase
+¿qué cosa,0,2,noun_phrase
+voy de camino,0,3,noun_phrase
+qué demonios,0,2,noun_phrase
+¡mi mano,0,2,noun_phrase
+tú eres...,0,2,noun_phrase
+seis meses,0,2,noun_phrase
+¿y tu madre,0,3,noun_phrase
+", date prisa",0,3,noun_phrase
+"sí, me acuerdo",0,3,noun_phrase
+¿mi qué,0,2,noun_phrase
+un segundo,0,2,noun_phrase
+mi hermana,0,2,noun_phrase
+la izquierda,0,2,noun_phrase
+es tu madre,0,3,noun_phrase
+¿qué harías,0,2,noun_phrase
+es una posibilidad,0,3,noun_phrase
+ahora es tu turno,0,4,noun_phrase
+¿a cambio de qué,0,4,noun_phrase
+sdi media group,0,3,noun_phrase
+es el destino,0,3,noun_phrase
+y otra cosa,0,3,noun_phrase
+¿estás sola?,0,2,noun_phrase
+"sí, amigo",0,2,noun_phrase
+no es broma,0,3,noun_phrase
+es una mierda,0,3,noun_phrase
+diez años,0,2,noun_phrase
+algo malo,0,2,noun_phrase
+tres semanas,0,2,noun_phrase
+qué desastre,0,2,noun_phrase
+", ¿qué tal?",0,3,noun_phrase
+esa mirada,0,2,noun_phrase
+no soy gay,0,3,noun_phrase
+es nuestro,0,2,noun_phrase
+un chico,0,2,noun_phrase
+tu hermano,0,2,noun_phrase
+su esposa,0,2,noun_phrase
+¡qué barbaridad,0,2,noun_phrase
+"ah, eso",0,2,noun_phrase
+", calma",0,2,noun_phrase
+un monstruo,0,2,noun_phrase
+detrás de ti,0,3,noun_phrase
+", papá",0,2,noun_phrase
+¡largo de aquí!,0,3,noun_phrase
+¿qué carajo haces,0,3,noun_phrase
+porque yo,0,2,noun_phrase
+no es la primera vez,0,5,noun_phrase
+un poquito,0,2,noun_phrase
+es mi culpa,0,3,noun_phrase
+mi corazón,0,2,noun_phrase
+metí la pata,0,3,noun_phrase
+la veo,0,2,noun_phrase
+llegas temprano,0,2,noun_phrase
+un dólar,0,2,noun_phrase
+fue un placer conocerte,0,4,noun_phrase
+estás equivocada.,0,2,noun_phrase
+¡qué alegría,0,2,noun_phrase
+ni idea,0,2,noun_phrase
+¿y el tuyo,0,3,noun_phrase
+dios los bendiga,0,3,noun_phrase
+seis años,0,2,noun_phrase
+bien por ti,0,3,noun_phrase
+tenías razón.,0,2,noun_phrase
+"hola, hola,",0,2,noun_phrase
+cada día,0,2,noun_phrase
+¿que diablos,0,2,noun_phrase
+señor presidente,0,2,noun_phrase
+todas partes,0,2,noun_phrase
+buen punto,0,2,noun_phrase
+su permiso,0,2,noun_phrase
+la quiero,0,2,noun_phrase
+", abuelo",0,2,noun_phrase
+gracias a todos,0,3,noun_phrase
+un ganador,0,2,noun_phrase
+¿estas loca,0,2,noun_phrase
+"gracias, charlie",0,2,noun_phrase
+¿qué llevas puesto,0,3,noun_phrase
+¿de qué diablos,0,3,noun_phrase
+¿y ella,0,2,noun_phrase
+"favor, mamá",0,2,noun_phrase
+qué extraño,0,2,noun_phrase
+es mi cumpleaños,0,3,noun_phrase
+este hombre,0,2,noun_phrase
+¿por qué razón,0,3,noun_phrase
+", cariño",0,2,noun_phrase
+no eres tú,0,3,noun_phrase
+", dios",0,2,noun_phrase
+la orden,0,2,noun_phrase
+eres mi hijo.,0,3,noun_phrase
+¿no lo sabías,0,3,noun_phrase
+", gracias a dios",0,4,noun_phrase
+", gracias",0,2,noun_phrase
+"gracias, querida",0,2,noun_phrase
+eres un buen chico,0,4,noun_phrase
+", doctor",0,2,noun_phrase
+"hola, harry.",0,2,noun_phrase
+no es mala idea,0,4,noun_phrase
+mantenme informado,0,2,noun_phrase
+mucho tiempo,0,2,noun_phrase
+es un chiste,0,3,noun_phrase
+no podría estar más de acuerdo,0,6,noun_phrase
+este tipo,0,2,noun_phrase
+estamos en problemas,0,3,noun_phrase
+sí lo,0,2,noun_phrase
+lee esto.,0,2,noun_phrase
+"no, nada",0,2,noun_phrase
+¡sal de ahí!,0,3,noun_phrase
+¿lo harías,0,2,noun_phrase
+y gracias,0,2,noun_phrase
+¿y a ti,0,3,noun_phrase
+¿la quieres,0,2,noun_phrase
+era una broma,0,3,noun_phrase
+¿un café,0,2,noun_phrase
+buen viaje,0,2,noun_phrase
+"no, mira",0,2,noun_phrase
+la vida,0,2,noun_phrase
+es ella,0,2,noun_phrase
+¿desde cuándo,0,2,noun_phrase
+¿qué hacías,0,2,noun_phrase
+un tiempo,0,2,noun_phrase
+"hola, señora.",0,2,noun_phrase
+no fue tu culpa,0,4,noun_phrase
+¿qué sugieres,0,2,noun_phrase
+pedazo de mierda.,0,3,noun_phrase
+¿por qué gritas,0,3,noun_phrase
+su salud,0,2,noun_phrase
+es un amigo,0,3,noun_phrase
+sé amable.,0,2,noun_phrase
+es hora,0,2,noun_phrase
+es tu hermano,0,3,noun_phrase
+"buenas noches, señora.",0,3,noun_phrase
+su excelencia,0,2,noun_phrase
+amigo mío.,0,2,noun_phrase
+eso seguro,0,2,noun_phrase
+déjame sola,0,2,noun_phrase
+gracias por eso,0,3,noun_phrase
+no seas ridícula,0,3,noun_phrase
+un minuto,0,2,noun_phrase
+muchísimas gracias.,0,2,noun_phrase
+mi vista,0,2,noun_phrase
+"sí, un momento",0,3,noun_phrase
+su nombre,0,2,noun_phrase
+", ¿cómo",0,2,noun_phrase
+¿alguna noticia,0,2,noun_phrase
+todo esta bien,0,3,noun_phrase
+¿en qué sentido,0,3,noun_phrase
+¿es esto,0,2,noun_phrase
+ni en sueños,0,3,noun_phrase
+el desayuno,0,2,noun_phrase
+", muévete",0,2,noun_phrase
+y yo,0,2,noun_phrase
+¿a mí,0,2,noun_phrase
+¡mis ojos,0,2,noun_phrase
+el placer,0,2,noun_phrase
+¿estás segura?,0,2,noun_phrase
+qué lástima,0,2,noun_phrase
+absolutamente nada,0,2,noun_phrase
+mi tesoro,0,2,noun_phrase
+qué hablas,0,2,noun_phrase
+nada malo,0,2,noun_phrase
+una oportunidad,0,2,noun_phrase
+es un policía,0,3,noun_phrase
+más tiempo,0,2,noun_phrase
+", chicas",0,2,noun_phrase
+¿como quién,0,2,noun_phrase
+¿todos listos,0,2,noun_phrase
+¿tu mamá,0,2,noun_phrase
+la cárcel,0,2,noun_phrase
+"hola, corazón.",0,2,noun_phrase
+el principio,0,2,noun_phrase
+¿qué piensas,0,2,noun_phrase
+toda la razón,0,3,noun_phrase
+¿estás nerviosa?,0,2,noun_phrase
+fue él,0,2,noun_phrase
+¿pero qué dices,0,3,noun_phrase
+no puede ser verdad,0,4,noun_phrase
+un momento,0,2,noun_phrase
+¿estás segura de eso?,0,4,noun_phrase
+", yo",0,2,noun_phrase
+", amigo",0,2,noun_phrase
+"sí, ¿verdad",0,2,noun_phrase
+"ay, cielos",0,2,noun_phrase
+ocho años,0,2,noun_phrase
+", exacto",0,2,noun_phrase
+es un buen hombre,0,4,noun_phrase
+", vámonos",0,2,noun_phrase
+¿lo juras,0,2,noun_phrase
+¿escuchas eso?,0,2,noun_phrase
+las mujeres,0,2,noun_phrase
+mucho frío,0,2,noun_phrase

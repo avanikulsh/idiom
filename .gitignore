@@ -34,3 +34,50 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (large files - adjust as needed)
+data/raw/**/*.srt
+data/raw/**/*.vtt
+data/raw/**/*.txt
+!data/raw/**/.gitkeep
+data/processed/**/*.pkl
+data/processed/**/*.json
+data/results/**/*.csv
+data/results/**/*.json
+
+# Embeddings (large pickle files)
+data/embeddings/
+
+# Models (large files)
+models/
+*.bin
+*.pt
+*.pth
+*.h5
+
+# Environment
+.env
+.env.local

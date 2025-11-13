@@ -1,0 +1,2574 @@
+mwe,frequency,length,type,idiomaticity_score,is_idiomatic,known_idiom
+pan comido.,0,2,noun_phrase,0.950,True,True
+eso no es,12,3,ngram,0.700,True,False
+eso es lo,11,3,ngram,0.700,True,False
+no hay nada,10,3,ngram,0.700,True,False
+a estar bien.,5,3,ngram,0.700,True,False
+la puta boca,0,3,noun_phrase,0.650,True,False
+metí la pata,0,3,noun_phrase,0.650,True,False
+no hay,39,2,ngram,0.600,True,False
+esto es,37,2,ngram,0.600,True,False
+por favor.,35,2,ngram,0.600,True,False
+no puedo,33,2,ngram,0.600,True,False
+vamos a,32,2,ngram,0.600,True,False
+está bien.,32,2,ngram,0.600,True,False
+"sí, lo",28,2,ngram,0.600,True,False
+eso no,26,2,ngram,0.600,True,False
+que sí.,25,2,ngram,0.600,True,False
+no sé,25,2,ngram,0.600,True,False
+"por favor,",24,2,ngram,0.600,True,False
+de aquí.,23,2,ngram,0.600,True,False
+gracias por,23,2,ngram,0.600,True,False
+yo no,23,2,ngram,0.600,True,False
+ya lo,22,2,ngram,0.600,True,False
+lo sé.,22,2,ngram,0.600,True,False
+va a,22,2,ngram,0.600,True,False
+¿de qué,22,2,ngram,0.600,True,False
+que no.,21,2,ngram,0.600,True,False
+¿dónde está,20,2,ngram,0.600,True,False
+¿qué te,19,2,ngram,0.600,True,False
+"lo siento,",19,2,ngram,0.600,True,False
+tenemos que,17,2,ngram,0.600,True,False
+no quiero,17,2,ngram,0.600,True,False
+muy bien.,17,2,ngram,0.600,True,False
+"está bien,",17,2,ngram,0.600,True,False
+¿qué es,17,2,ngram,0.600,True,False
+¿qué demonios,16,2,ngram,0.600,True,False
+creo que,16,2,ngram,0.600,True,False
+¿quién es,16,2,ngram,0.600,True,False
+tienes que,15,2,ngram,0.600,True,False
+a casa.,15,2,ngram,0.600,True,False
+esto no,15,2,ngram,0.600,True,False
+lo siento.,15,2,ngram,0.600,True,False
+eres un,15,2,ngram,0.600,True,False
+¿qué diablos,14,2,ngram,0.600,True,False
+¿qué le,13,2,ngram,0.600,True,False
+¿de dónde,13,2,ngram,0.600,True,False
+¿cómo lo,13,2,ngram,0.600,True,False
+¿cuál es,13,2,ngram,0.600,True,False
+de acuerdo.,13,2,ngram,0.600,True,False
+es eso?,12,2,ngram,0.600,True,False
+"muy bien,",12,2,ngram,0.600,True,False
+¿qué estás,11,2,ngram,0.600,True,False
+lo he,11,2,ngram,0.600,True,False
+¿en qué,11,2,ngram,0.600,True,False
+no tiene,11,2,ngram,0.600,True,False
+en serio.,11,2,ngram,0.600,True,False
+nada que,11,2,ngram,0.600,True,False
+un buen,11,2,ngram,0.600,True,False
+lo es.,11,2,ngram,0.600,True,False
+es esto?,11,2,ngram,0.600,True,False
+estoy bien.,10,2,ngram,0.600,True,False
+de nuevo.,10,2,ngram,0.600,True,False
+de ti.,10,2,ngram,0.600,True,False
+a mí.,10,2,ngram,0.600,True,False
+por qué?,10,2,ngram,0.600,True,False
+¿no es,10,2,ngram,0.600,True,False
+con él.,10,2,ngram,0.600,True,False
+hay nada,10,2,ngram,0.600,True,False
+soy yo.,10,2,ngram,0.600,True,False
+¿y qué,10,2,ngram,0.600,True,False
+lo hice.,10,2,ngram,0.600,True,False
+está aquí.,10,2,ngram,0.600,True,False
+¿por qué lo,9,3,ngram,0.600,True,False
+¿sabes lo que,8,3,ngram,0.600,True,False
+no va a,8,3,ngram,0.600,True,False
+no voy a,7,3,ngram,0.600,True,False
+¿por qué no,7,3,ngram,0.600,True,False
+sé lo que,7,3,ngram,0.600,True,False
+yo no lo,6,3,ngram,0.600,True,False
+no sé de,6,3,ngram,0.600,True,False
+esto no es,6,3,ngram,0.600,True,False
+me voy a,6,3,ngram,0.600,True,False
+todo lo que,6,3,ngram,0.600,True,False
+hay nada que,6,3,ngram,0.600,True,False
+¿qué es lo,6,3,ngram,0.600,True,False
+no hay nada que,6,4,ngram,0.600,True,False
+lo que sea.,5,3,ngram,0.600,True,False
+salir de aquí.,5,3,ngram,0.600,True,False
+sé de qué,5,3,ngram,0.600,True,False
+es todo lo,5,3,ngram,0.600,True,False
+ese es el,5,3,ngram,0.600,True,False
+no sé qué,5,3,ngram,0.600,True,False
+¿dónde está mi,5,3,ngram,0.600,True,False
+¿por qué no?,5,3,ngram,0.600,True,False
+hablar con él.,5,3,ngram,0.600,True,False
+por supuesto que,5,3,ngram,0.600,True,False
+no sé de qué,5,4,ngram,0.600,True,False
+que hacer algo.,4,3,ngram,0.600,True,False
+tienes que hacer,3,3,ngram,0.600,True,False
+no puedes hacer,3,3,ngram,0.600,True,False
+no puedo hacer,3,3,ngram,0.600,True,False
+podría ser cualquiera,0,3,noun_phrase,0.600,True,False
+no podría estar más de acuerdo,0,6,noun_phrase,0.600,True,False
+no puede ser verdad,0,4,noun_phrase,0.600,True,False
+las manos,3,2,ngram,0.550,False,False
+la cabeza,0,2,noun_phrase,0.550,False,False
+mi cabeza,0,2,noun_phrase,0.550,False,False
+¡las manos,0,2,noun_phrase,0.550,False,False
+tus ojos,0,2,noun_phrase,0.550,False,False
+el pelo,0,2,noun_phrase,0.550,False,False
+la boca,0,2,noun_phrase,0.550,False,False
+los ojos,0,2,noun_phrase,0.550,False,False
+¡mi cara,0,2,noun_phrase,0.550,False,False
+mi corazón,0,2,noun_phrase,0.550,False,False
+¡mis ojos,0,2,noun_phrase,0.550,False,False
+¿por qué,62,2,ngram,0.500,False,False
+eso es,59,2,ngram,0.500,False,False
+hacer eso.,9,2,ngram,0.500,False,False
+qué lo,9,2,ngram,0.500,False,False
+no fue,9,2,ngram,0.500,False,False
+¿qué pasa,9,2,ngram,0.500,False,False
+¿qué quieres,9,2,ngram,0.500,False,False
+¿qué está,9,2,ngram,0.500,False,False
+gracias a,9,2,ngram,0.500,False,False
+¿a dónde,9,2,ngram,0.500,False,False
+¿qué hay,9,2,ngram,0.500,False,False
+no puedes,9,2,ngram,0.500,False,False
+¿a qué,9,2,ngram,0.500,False,False
+vas a,9,2,ngram,0.500,False,False
+a hacer?,9,2,ngram,0.500,False,False
+"de acuerdo,",9,2,ngram,0.500,False,False
+es todo,9,2,ngram,0.500,False,False
+no puede,9,2,ngram,0.500,False,False
+claro que,9,2,ngram,0.500,False,False
+¿cómo se,9,2,ngram,0.500,False,False
+que hacer.,9,2,ngram,0.500,False,False
+ese es,9,2,ngram,0.500,False,False
+hacer esto.,9,2,ngram,0.500,False,False
+es todo.,8,2,ngram,0.500,False,False
+no he,8,2,ngram,0.500,False,False
+no tienes,8,2,ngram,0.500,False,False
+un momento.,8,2,ngram,0.500,False,False
+es verdad.,8,2,ngram,0.500,False,False
+¿sabes lo,8,2,ngram,0.500,False,False
+mucho tiempo.,8,2,ngram,0.500,False,False
+qué estás,8,2,ngram,0.500,False,False
+lo hizo.,8,2,ngram,0.500,False,False
+haciendo aquí?,8,2,ngram,0.500,False,False
+lo creo.,8,2,ngram,0.500,False,False
+no va,8,2,ngram,0.500,False,False
+que estás,8,2,ngram,0.500,False,False
+estás haciendo?,8,2,ngram,0.500,False,False
+lo sabe.,8,2,ngram,0.500,False,False
+buena idea.,8,2,ngram,0.500,False,False
+¿por qué?,8,2,ngram,0.500,False,False
+me siento,8,2,ngram,0.500,False,False
+por aquí.,8,2,ngram,0.500,False,False
+hablar con,8,2,ngram,0.500,False,False
+qué te,8,2,ngram,0.500,False,False
+por eso.,8,2,ngram,0.500,False,False
+yo lo,8,2,ngram,0.500,False,False
+tú lo,8,2,ngram,0.500,False,False
+un minuto.,8,2,ngram,0.500,False,False
+no puedo.,8,2,ngram,0.500,False,False
+lo sabes.,7,2,ngram,0.500,False,False
+"sí, es",7,2,ngram,0.500,False,False
+todo lo,7,2,ngram,0.500,False,False
+que hacerlo.,7,2,ngram,0.500,False,False
+en serio?,7,2,ngram,0.500,False,False
+que hacer,7,2,ngram,0.500,False,False
+nos vemos,7,2,ngram,0.500,False,False
+yo me,7,2,ngram,0.500,False,False
+todo está,7,2,ngram,0.500,False,False
+estoy muy,7,2,ngram,0.500,False,False
+¿no te,7,2,ngram,0.500,False,False
+esa es,7,2,ngram,0.500,False,False
+la verdad.,7,2,ngram,0.500,False,False
+eso fue,7,2,ngram,0.500,False,False
+no voy,7,2,ngram,0.500,False,False
+hay de,7,2,ngram,0.500,False,False
+de qué,7,2,ngram,0.500,False,False
+de eso.,7,2,ngram,0.500,False,False
+deja de,7,2,ngram,0.500,False,False
+te veré,7,2,ngram,0.500,False,False
+un poco.,7,2,ngram,0.500,False,False
+me voy,7,2,ngram,0.500,False,False
+lo haré.,7,2,ngram,0.500,False,False
+por supuesto.,7,2,ngram,0.500,False,False
+¿cómo te,7,2,ngram,0.500,False,False
+es cierto.,7,2,ngram,0.500,False,False
+lo has,7,2,ngram,0.500,False,False
+un problema.,7,2,ngram,0.500,False,False
+en casa.,7,2,ngram,0.500,False,False
+otra vez.,7,2,ngram,0.500,False,False
+estoy aquí.,7,2,ngram,0.500,False,False
+tiene que,7,2,ngram,0.500,False,False
+una buena,7,2,ngram,0.500,False,False
+qué no,7,2,ngram,0.500,False,False
+"buenas noches,",7,2,ngram,0.500,False,False
+¿qué ha,7,2,ngram,0.500,False,False
+sé lo,7,2,ngram,0.500,False,False
+mi culpa.,7,2,ngram,0.500,False,False
+dame un,7,2,ngram,0.500,False,False
+qué es?,7,2,ngram,0.500,False,False
+tengo una,7,2,ngram,0.500,False,False
+me gusta.,7,2,ngram,0.500,False,False
+¿sabes qué?,7,2,ngram,0.500,False,False
+más tarde.,7,2,ngram,0.500,False,False
+la cama.,7,2,ngram,0.500,False,False
+"lo sé,",6,2,ngram,0.500,False,False
+es demasiado,6,2,ngram,0.500,False,False
+me voy.,6,2,ngram,0.500,False,False
+mi casa.,6,2,ngram,0.500,False,False
+me alegro,6,2,ngram,0.500,False,False
+a dormir.,6,2,ngram,0.500,False,False
+esta bien.,6,2,ngram,0.500,False,False
+ya me,6,2,ngram,0.500,False,False
+espero que,6,2,ngram,0.500,False,False
+lo entiendo.,6,2,ngram,0.500,False,False
+un segundo.,6,2,ngram,0.500,False,False
+a todos.,6,2,ngram,0.500,False,False
+supongo que,6,2,ngram,0.500,False,False
+sé de,6,2,ngram,0.500,False,False
+nada de,6,2,ngram,0.500,False,False
+¿qué tal,6,2,ngram,0.500,False,False
+lo hago.,6,2,ngram,0.500,False,False
+es mío.,6,2,ngram,0.500,False,False
+es bueno.,6,2,ngram,0.500,False,False
+en paz.,6,2,ngram,0.500,False,False
+crees que,6,2,ngram,0.500,False,False
+a morir.,6,2,ngram,0.500,False,False
+la policía.,6,2,ngram,0.500,False,False
+a mí,6,2,ngram,0.500,False,False
+estás haciendo,6,2,ngram,0.500,False,False
+a ti.,6,2,ngram,0.500,False,False
+qué es,6,2,ngram,0.500,False,False
+¿qué me,6,2,ngram,0.500,False,False
+puede ser.,6,2,ngram,0.500,False,False
+¿dónde están,6,2,ngram,0.500,False,False
+para ti.,6,2,ngram,0.500,False,False
+estoy de,6,2,ngram,0.500,False,False
+de aquí!,6,2,ngram,0.500,False,False
+lo tengo.,6,2,ngram,0.500,False,False
+no podemos,6,2,ngram,0.500,False,False
+todo el,6,2,ngram,0.500,False,False
+no importa.,6,2,ngram,0.500,False,False
+una mierda.,6,2,ngram,0.500,False,False
+sé que,6,2,ngram,0.500,False,False
+en camino.,6,2,ngram,0.500,False,False
+puedo hacer,6,2,ngram,0.500,False,False
+tiene razón.,6,2,ngram,0.500,False,False
+yo te,6,2,ngram,0.500,False,False
+ha pasado?,6,2,ngram,0.500,False,False
+¿qué quiere,6,2,ngram,0.500,False,False
+qué no?,6,2,ngram,0.500,False,False
+lo siento,6,2,ngram,0.500,False,False
+lo hiciste.,6,2,ngram,0.500,False,False
+¿quién te,6,2,ngram,0.500,False,False
+"sí, estoy",5,2,ngram,0.500,False,False
+te pasa?,5,2,ngram,0.500,False,False
+que ir.,5,2,ngram,0.500,False,False
+lo dije.,5,2,ngram,0.500,False,False
+que sea.,5,2,ngram,0.500,False,False
+fue un,5,2,ngram,0.500,False,False
+un vistazo.,5,2,ngram,0.500,False,False
+encantado de,5,2,ngram,0.500,False,False
+de mí?,5,2,ngram,0.500,False,False
+un placer.,5,2,ngram,0.500,False,False
+salir de,5,2,ngram,0.500,False,False
+¿y tú?,5,2,ngram,0.500,False,False
+sólo un,5,2,ngram,0.500,False,False
+¿puedo hablar,5,2,ngram,0.500,False,False
+¿estás bien?,5,2,ngram,0.500,False,False
+hace mucho,5,2,ngram,0.500,False,False
+la puerta.,5,2,ngram,0.500,False,False
+¿qué están,5,2,ngram,0.500,False,False
+lo sabemos.,5,2,ngram,0.500,False,False
+un trato.,5,2,ngram,0.500,False,False
+hacer algo.,5,2,ngram,0.500,False,False
+"no, por",5,2,ngram,0.500,False,False
+¿no lo,5,2,ngram,0.500,False,False
+¿es eso,5,2,ngram,0.500,False,False
+¿y el,5,2,ngram,0.500,False,False
+eres mi,5,2,ngram,0.500,False,False
+tienes razón.,5,2,ngram,0.500,False,False
+que si.,5,2,ngram,0.500,False,False
+dios mío.,5,2,ngram,0.500,False,False
+puedes hacer,5,2,ngram,0.500,False,False
+estar bien.,5,2,ngram,0.500,False,False
+es posible.,5,2,ngram,0.500,False,False
+es suficiente.,5,2,ngram,0.500,False,False
+por dios.,5,2,ngram,0.500,False,False
+es culpa,5,2,ngram,0.500,False,False
+estás hablando?,5,2,ngram,0.500,False,False
+quiero hablar,5,2,ngram,0.500,False,False
+tiene sentido.,5,2,ngram,0.500,False,False
+el tiempo.,5,2,ngram,0.500,False,False
+está pasando?,5,2,ngram,0.500,False,False
+está mal.,5,2,ngram,0.500,False,False
+"sí, ya",5,2,ngram,0.500,False,False
+ya se,5,2,ngram,0.500,False,False
+esta noche.,5,2,ngram,0.500,False,False
+muy bueno.,5,2,ngram,0.500,False,False
+ha pasado,5,2,ngram,0.500,False,False
+sé qué,5,2,ngram,0.500,False,False
+significa eso?,5,2,ngram,0.500,False,False
+una locura.,5,2,ngram,0.500,False,False
+he estado,5,2,ngram,0.500,False,False
+te amo.,5,2,ngram,0.500,False,False
+fue eso?,5,2,ngram,0.500,False,False
+has hecho?,5,2,ngram,0.500,False,False
+¿cómo me,5,2,ngram,0.500,False,False
+buen hombre.,5,2,ngram,0.500,False,False
+hablar contigo.,5,2,ngram,0.500,False,False
+a hacer,5,2,ngram,0.500,False,False
+tengo un,5,2,ngram,0.500,False,False
+lo eres.,5,2,ngram,0.500,False,False
+¿qué pasa?,5,2,ngram,0.500,False,False
+a salvo.,5,2,ngram,0.500,False,False
+estamos en,5,2,ngram,0.500,False,False
+me gusta,5,2,ngram,0.500,False,False
+lo veo.,5,2,ngram,0.500,False,False
+lo se.,5,2,ngram,0.500,False,False
+estoy en,5,2,ngram,0.500,False,False
+por supuesto,5,2,ngram,0.500,False,False
+supuesto que,5,2,ngram,0.500,False,False
+a ver.,5,2,ngram,0.500,False,False
+¿hay alguien,5,2,ngram,0.500,False,False
+no hagas,5,2,ngram,0.500,False,False
+te ves,5,2,ngram,0.500,False,False
+me alegra,5,2,ngram,0.500,False,False
+estoy tan,5,2,ngram,0.500,False,False
+qué puedo,5,2,ngram,0.500,False,False
+te veo,5,2,ngram,0.500,False,False
+tengas razón.,5,2,ngram,0.500,False,False
+"bien, gracias.",5,2,ngram,0.500,False,False
+es gracioso.,5,2,ngram,0.500,False,False
+¿qué has,5,2,ngram,0.500,False,False
+lo sabía.,5,2,ngram,0.500,False,False
+culpa mía.,5,2,ngram,0.500,False,False
+te vayas.,5,2,ngram,0.500,False,False
+qué se,5,2,ngram,0.500,False,False
+es ese,5,2,ngram,0.500,False,False
+yo también,5,2,ngram,0.500,False,False
+no tienes que,4,3,ngram,0.500,False,False
+me alegro de,4,3,ngram,0.500,False,False
+creo que sí.,4,3,ngram,0.500,False,False
+¿qué hay de,4,3,ngram,0.500,False,False
+eso es todo.,4,3,ngram,0.500,False,False
+lo que quieres?,4,3,ngram,0.500,False,False
+¿qué quieres que,4,3,ngram,0.500,False,False
+no puede ser.,4,3,ngram,0.500,False,False
+¿cuál es el,4,3,ngram,0.500,False,False
+una buena idea.,4,3,ngram,0.500,False,False
+lo que es.,4,3,ngram,0.500,False,False
+¿cuál es la,4,3,ngram,0.500,False,False
+un buen hombre.,4,3,ngram,0.500,False,False
+mira lo que,4,3,ngram,0.500,False,False
+¿qué pasa con,4,3,ngram,0.500,False,False
+te preocupes por,4,3,ngram,0.500,False,False
+¿en qué puedo,4,3,ngram,0.500,False,False
+gracias por la,3,3,ngram,0.500,False,False
+es demasiado tarde.,3,3,ngram,0.500,False,False
+un placer conocerte.,3,3,ngram,0.500,False,False
+haz lo que,3,3,ngram,0.500,False,False
+todo está bien.,3,3,ngram,0.500,False,False
+esa es la,3,3,ngram,0.500,False,False
+hace mucho tiempo.,3,3,ngram,0.500,False,False
+voy a ir.,3,3,ngram,0.500,False,False
+nada de eso.,3,3,ngram,0.500,False,False
+vas a hacer?,3,3,ngram,0.500,False,False
+¿cuál es tu,3,3,ngram,0.500,False,False
+es tu problema?,3,3,ngram,0.500,False,False
+lo he hecho.,3,3,ngram,0.500,False,False
+lo he dicho.,3,3,ngram,0.500,False,False
+lo voy a,3,3,ngram,0.500,False,False
+no tiene nada,3,3,ngram,0.500,False,False
+gracias por su,3,3,ngram,0.500,False,False
+qué es eso?,3,3,ngram,0.500,False,False
+un buen día.,3,3,ngram,0.500,False,False
+lo que hago.,3,3,ngram,0.500,False,False
+ya lo sé.,3,3,ngram,0.500,False,False
+¿dónde están los,3,3,ngram,0.500,False,False
+todo va a,3,3,ngram,0.500,False,False
+no tiene sentido.,3,3,ngram,0.500,False,False
+¿dónde está tu,3,3,ngram,0.500,False,False
+lo que quieras.,3,3,ngram,0.500,False,False
+tengo nada que,3,3,ngram,0.500,False,False
+no volverá a,3,3,ngram,0.500,False,False
+va a funcionar.,3,3,ngram,0.500,False,False
+no creo que,3,3,ngram,0.500,False,False
+creo que no.,3,3,ngram,0.500,False,False
+esto es una,3,3,ngram,0.500,False,False
+no hay nadie,3,3,ngram,0.500,False,False
+¿qué vas a,3,3,ngram,0.500,False,False
+gracias a dios.,3,3,ngram,0.500,False,False
+qué no me,3,3,ngram,0.500,False,False
+estoy de acuerdo.,3,3,ngram,0.500,False,False
+"por favor, por",3,3,ngram,0.500,False,False
+¿por qué te,3,3,ngram,0.500,False,False
+tengo que ir,3,3,ngram,0.500,False,False
+no he dicho,3,3,ngram,0.500,False,False
+crees que vas?,3,3,ngram,0.500,False,False
+"bien, de acuerdo.",3,3,ngram,0.500,False,False
+no he hecho,3,3,ngram,0.500,False,False
+¿qué se supone,3,3,ngram,0.500,False,False
+se supone que,3,3,ngram,0.500,False,False
+a ninguna parte.,3,3,ngram,0.500,False,False
+claro que sí.,3,3,ngram,0.500,False,False
+¿qué va a,3,3,ngram,0.500,False,False
+es mi culpa.,3,3,ngram,0.500,False,False
+¿qué demonios está,3,3,ngram,0.500,False,False
+¡fuera de mi,3,3,ngram,0.500,False,False
+la primera vez.,3,3,ngram,0.500,False,False
+no hay problema.,3,3,ngram,0.500,False,False
+que te vayas.,3,3,ngram,0.500,False,False
+qué es esto?,3,3,ngram,0.500,False,False
+es mi casa.,3,3,ngram,0.500,False,False
+lo que estás,3,3,ngram,0.500,False,False
+me temo que,3,3,ngram,0.500,False,False
+¿por qué estás,3,3,ngram,0.500,False,False
+"bien, está bien.",3,3,ngram,0.500,False,False
+orgullosa de ti.,3,3,ngram,0.500,False,False
+este es el,3,3,ngram,0.500,False,False
+"está bien, está",3,3,ngram,0.500,False,False
+que puedo hacer.,3,3,ngram,0.500,False,False
+¿de qué se,3,3,ngram,0.500,False,False
+que lo es.,3,3,ngram,0.500,False,False
+¿qué es ese,3,3,ngram,0.500,False,False
+¿dónde está el,3,3,ngram,0.500,False,False
+¿por qué no me,3,4,ngram,0.500,False,False
+¿qué se supone que,3,4,ngram,0.500,False,False
+gracias a ti,0,3,noun_phrase,0.500,False,False
+¿es una broma,0,3,noun_phrase,0.500,False,False
+¿alguna otra pregunta,0,3,noun_phrase,0.500,False,False
+¿de dónde vienes,0,3,noun_phrase,0.500,False,False
+", mi dios",0,3,noun_phrase,0.500,False,False
+es mi hermano,0,3,noun_phrase,0.500,False,False
+toda la noche,0,3,noun_phrase,0.500,False,False
+¿verdad que sí?,0,3,noun_phrase,0.500,False,False
+¡oh dios mio!,0,3,noun_phrase,0.500,False,False
+¿qué tal eso,0,3,noun_phrase,0.500,False,False
+¿con quién hablas,0,3,noun_phrase,0.500,False,False
+¡quítate de encima!,0,3,noun_phrase,0.500,False,False
+¿que es esto,0,3,noun_phrase,0.500,False,False
+es mi hermana,0,3,noun_phrase,0.500,False,False
+es para ti,0,3,noun_phrase,0.500,False,False
+¿en este momento,0,3,noun_phrase,0.500,False,False
+vamos a casarnos,0,3,noun_phrase,0.500,False,False
+¿a qué esperas,0,3,noun_phrase,0.500,False,False
+es tu hija,0,3,noun_phrase,0.500,False,False
+¿acerca de qué,0,3,noun_phrase,0.500,False,False
+¡todo el mundo,0,3,noun_phrase,0.500,False,False
+dame tu teléfono.,0,3,noun_phrase,0.500,False,False
+no fue culpa,0,3,noun_phrase,0.500,False,False
+¿pero por qué,0,3,noun_phrase,0.500,False,False
+ahora mismo voy,0,3,noun_phrase,0.500,False,False
+"buenas noches, papá.",0,3,noun_phrase,0.500,False,False
+feliz año nuevo.,0,3,noun_phrase,0.500,False,False
+¿y tú quién eres?,0,4,noun_phrase,0.500,False,False
+"no, ¿por qué",0,3,noun_phrase,0.500,False,False
+aléjate de ella.,0,3,noun_phrase,0.500,False,False
+"sí, es ella",0,3,noun_phrase,0.500,False,False
+gracias por la cena,0,4,noun_phrase,0.500,False,False
+"eh, eh, eh.",0,3,noun_phrase,0.500,False,False
+¿y luego qué,0,3,noun_phrase,0.500,False,False
+gracias por el café,0,4,noun_phrase,0.500,False,False
+¿por qué motivo,0,3,noun_phrase,0.500,False,False
+eres un hijo,0,3,noun_phrase,0.500,False,False
+¿y yo qué?,0,3,noun_phrase,0.500,False,False
+"buenos días, caballeros.",0,3,noun_phrase,0.500,False,False
+es su hijo,0,3,noun_phrase,0.500,False,False
+sólo un momento,0,3,noun_phrase,0.500,False,False
+gracias por la ayuda,0,4,noun_phrase,0.500,False,False
+eres un asesino,0,3,noun_phrase,0.500,False,False
+gracias por su ayuda,0,4,noun_phrase,0.500,False,False
+"¡por favor, ayúdenme",0,3,noun_phrase,0.500,False,False
+es mi papá,0,3,noun_phrase,0.500,False,False
+no podemos arriesgarnos,0,3,noun_phrase,0.500,False,False
+¿y por qué,0,3,noun_phrase,0.500,False,False
+es para mí,0,3,noun_phrase,0.500,False,False
+", del hijo",0,3,noun_phrase,0.500,False,False
+oh dios mio.,0,3,noun_phrase,0.500,False,False
+oh dios mío.,0,3,noun_phrase,0.500,False,False
+"sí, su majestad",0,3,noun_phrase,0.500,False,False
+¿qué problema tienes,0,3,noun_phrase,0.500,False,False
+soy un desastre,0,3,noun_phrase,0.500,False,False
+no más preguntas,0,3,noun_phrase,0.500,False,False
+es toda tuya.,0,3,noun_phrase,0.500,False,False
+"ah, eres tú",0,3,noun_phrase,0.500,False,False
+¿es un mal momento,0,4,noun_phrase,0.500,False,False
+no era yo,0,3,noun_phrase,0.500,False,False
+así es la vida,0,4,noun_phrase,0.500,False,False
+es tu turno,0,3,noun_phrase,0.500,False,False
+¿por qué dices,0,3,noun_phrase,0.500,False,False
+no fue nada,0,3,noun_phrase,0.500,False,False
+una última cosa,0,3,noun_phrase,0.500,False,False
+¡la puta madre!,0,3,noun_phrase,0.500,False,False
+¿con qué propósito,0,3,noun_phrase,0.500,False,False
+que bueno verte,0,3,noun_phrase,0.500,False,False
+"buenos días, señor.",0,3,noun_phrase,0.500,False,False
+no fue mi intención,0,4,noun_phrase,0.500,False,False
+claro que lo,0,3,noun_phrase,0.500,False,False
+es mucho dinero,0,3,noun_phrase,0.500,False,False
+¿de qué tipo,0,3,noun_phrase,0.500,False,False
+¡hijo de perra!,0,3,noun_phrase,0.500,False,False
+es mi esposa,0,3,noun_phrase,0.500,False,False
+"no, es verdad",0,3,noun_phrase,0.500,False,False
+es mi hijo,0,3,noun_phrase,0.500,False,False
+gracias de todos modos.,0,4,noun_phrase,0.500,False,False
+es tu decisión,0,3,noun_phrase,0.500,False,False
+¡a por ellos,0,3,noun_phrase,0.500,False,False
+gracias a usted,0,3,noun_phrase,0.500,False,False
+sólo un poco,0,3,noun_phrase,0.500,False,False
+¿y el dinero,0,3,noun_phrase,0.500,False,False
+fue un placer,0,3,noun_phrase,0.500,False,False
+gracias a dios,0,3,noun_phrase,0.500,False,False
+estamos en camino,0,3,noun_phrase,0.500,False,False
+"buenas noches, querida.",0,3,noun_phrase,0.500,False,False
+un gusto conocerte,0,3,noun_phrase,0.500,False,False
+eres un cerdo,0,3,noun_phrase,0.500,False,False
+eres un monstruo,0,3,noun_phrase,0.500,False,False
+¿sabes quién es?,0,3,noun_phrase,0.500,False,False
+es su decisión,0,3,noun_phrase,0.500,False,False
+todo el día,0,3,noun_phrase,0.500,False,False
+ni de coña,0,3,noun_phrase,0.500,False,False
+sólo un minuto,0,3,noun_phrase,0.500,False,False
+¡a por él,0,3,noun_phrase,0.500,False,False
+tómate tu tiempo.,0,3,noun_phrase,0.500,False,False
+eres mi amigo,0,3,noun_phrase,0.500,False,False
+¿por qué sonríes,0,3,noun_phrase,0.500,False,False
+¿estamos de acuerdo,0,3,noun_phrase,0.500,False,False
+ha sido un placer,0,4,noun_phrase,0.500,False,False
+es tu culpa,0,3,noun_phrase,0.500,False,False
+¿y para qué,0,3,noun_phrase,0.500,False,False
+fue una locura,0,3,noun_phrase,0.500,False,False
+solo un minuto,0,3,noun_phrase,0.500,False,False
+fue mi culpa,0,3,noun_phrase,0.500,False,False
+"buenos días, señora.",0,3,noun_phrase,0.500,False,False
+fue un error,0,3,noun_phrase,0.500,False,False
+soy un idiota,0,3,noun_phrase,0.500,False,False
+encantada de conocerte.,0,3,noun_phrase,0.500,False,False
+¿y ahora qué,0,3,noun_phrase,0.500,False,False
+soy tu amigo,0,3,noun_phrase,0.500,False,False
+ni lo pienses,0,3,noun_phrase,0.500,False,False
+gracias por todo,0,3,noun_phrase,0.500,False,False
+no era mi intención,0,4,noun_phrase,0.500,False,False
+una mejor idea,0,3,noun_phrase,0.500,False,False
+¿qué demonios haces,0,3,noun_phrase,0.500,False,False
+eres mi hermano,0,3,noun_phrase,0.500,False,False
+qué mala suerte,0,3,noun_phrase,0.500,False,False
+está en camino,0,3,noun_phrase,0.500,False,False
+¡aléjate de mí!,0,3,noun_phrase,0.500,False,False
+supuesto que lo,0,3,noun_phrase,0.500,False,False
+fue una broma,0,3,noun_phrase,0.500,False,False
+¿qué tal esto?,0,3,noun_phrase,0.500,False,False
+la menor idea,0,3,noun_phrase,0.500,False,False
+ahora mismo vuelvo,0,3,noun_phrase,0.500,False,False
+dime la verdad.,0,3,noun_phrase,0.500,False,False
+eres un idiota,0,3,noun_phrase,0.500,False,False
+nada de malo,0,3,noun_phrase,0.500,False,False
+¿y los demás,0,3,noun_phrase,0.500,False,False
+está en problemas,0,3,noun_phrase,0.500,False,False
+un buen hombre,0,3,noun_phrase,0.500,False,False
+es tu hijo,0,3,noun_phrase,0.500,False,False
+un mal presentimiento,0,3,noun_phrase,0.500,False,False
+estaremos en contacto,0,3,noun_phrase,0.500,False,False
+¿es eso correcto,0,3,noun_phrase,0.500,False,False
+¿a esta hora,0,3,noun_phrase,0.500,False,False
+¡a sus puestos,0,3,noun_phrase,0.500,False,False
+¡aléjate de mi!,0,3,noun_phrase,0.500,False,False
+la maldita puerta,0,3,noun_phrase,0.500,False,False
+"buenas noches, señor.",0,3,noun_phrase,0.500,False,False
+las dos cosas,0,3,noun_phrase,0.500,False,False
+soy todo oídos,0,3,noun_phrase,0.500,False,False
+soy un hombre,0,3,noun_phrase,0.500,False,False
+ni una vez,0,3,noun_phrase,0.500,False,False
+no otra vez,0,3,noun_phrase,0.500,False,False
+¿qué tal tú,0,3,noun_phrase,0.500,False,False
+todo el tiempo,0,3,noun_phrase,0.500,False,False
+es bueno verte,0,3,noun_phrase,0.500,False,False
+y una cosa,0,3,noun_phrase,0.500,False,False
+fin de la historia.,0,4,noun_phrase,0.500,False,False
+ahora es mi turno,0,4,noun_phrase,0.500,False,False
+¿tú quién eres?,0,3,noun_phrase,0.500,False,False
+es mi marido,0,3,noun_phrase,0.500,False,False
+soy su madre,0,3,noun_phrase,0.500,False,False
+"tres, dos, uno",0,3,noun_phrase,0.500,False,False
+así son las cosas,0,4,noun_phrase,0.500,False,False
+gracias por tu ayuda,0,4,noun_phrase,0.500,False,False
+no puedo decírtelo,0,3,noun_phrase,0.500,False,False
+¿estás de coña?,0,3,noun_phrase,0.500,False,False
+ese eres tú,0,3,noun_phrase,0.500,False,False
+"no, gracias a ti",0,4,noun_phrase,0.500,False,False
+eres un héroe,0,3,noun_phrase,0.500,False,False
+aléjate de él.,0,3,noun_phrase,0.500,False,False
+todos los cielos,0,3,noun_phrase,0.500,False,False
+¿y tu padre,0,3,noun_phrase,0.500,False,False
+es su cumpleaños,0,3,noun_phrase,0.500,False,False
+y una mierda,0,3,noun_phrase,0.500,False,False
+"bien, buenas noches",0,3,noun_phrase,0.500,False,False
+¿y el bebé,0,3,noun_phrase,0.500,False,False
+¿y tú qué?,0,3,noun_phrase,0.500,False,False
+muchas gracias por venir.,0,4,noun_phrase,0.500,False,False
+¿qué más quieres,0,3,noun_phrase,0.500,False,False
+una idea mejor,0,3,noun_phrase,0.500,False,False
+olvídate de eso.,0,3,noun_phrase,0.500,False,False
+es mi amigo,0,3,noun_phrase,0.500,False,False
+¿y tú eres?,0,3,noun_phrase,0.500,False,False
+", por dios",0,3,noun_phrase,0.500,False,False
+eres un ángel,0,3,noun_phrase,0.500,False,False
+era un buen hombre,0,4,noun_phrase,0.500,False,False
+"buenos días, cariño.",0,3,noun_phrase,0.500,False,False
+eres un tonto,0,3,noun_phrase,0.500,False,False
+feliz año nuevo,0,3,noun_phrase,0.500,False,False
+no fue un accidente,0,4,noun_phrase,0.500,False,False
+las damas primero,0,3,noun_phrase,0.500,False,False
+gracias de nuevo.,0,3,noun_phrase,0.500,False,False
+"claro, ¿por qué",0,3,noun_phrase,0.500,False,False
+ya es hora,0,3,noun_phrase,0.500,False,False
+¡oh dios mío!,0,3,noun_phrase,0.500,False,False
+¿cuánto tiempo llevas,0,3,noun_phrase,0.500,False,False
+la próxima vez,0,3,noun_phrase,0.500,False,False
+pero es verdad,0,3,noun_phrase,0.500,False,False
+¿por cuánto tiempo,0,3,noun_phrase,0.500,False,False
+son mis amigos,0,3,noun_phrase,0.500,False,False
+"bueno, muchas gracias",0,3,noun_phrase,0.500,False,False
+recibí tu mensaje.,0,3,noun_phrase,0.500,False,False
+voy en camino,0,3,noun_phrase,0.500,False,False
+qué buena idea,0,3,noun_phrase,0.500,False,False
+somos un equipo,0,3,noun_phrase,0.500,False,False
+", ¿y tú",0,3,noun_phrase,0.500,False,False
+fue un accidente,0,3,noun_phrase,0.500,False,False
+ya era hora,0,3,noun_phrase,0.500,False,False
+somos una familia,0,3,noun_phrase,0.500,False,False
+"pero, ¿por qué",0,3,noun_phrase,0.500,False,False
+"bla, bla, bla.",0,3,noun_phrase,0.500,False,False
+toda mi vida,0,3,noun_phrase,0.500,False,False
+dilo otra vez.,0,3,noun_phrase,0.500,False,False
+¿que fue eso,0,3,noun_phrase,0.500,False,False
+"bueno, buenas noches",0,3,noun_phrase,0.500,False,False
+qué agradable sorpresa,0,3,noun_phrase,0.500,False,False
+lo mismo digo,0,3,noun_phrase,0.500,False,False
+¿y después qué,0,3,noun_phrase,0.500,False,False
+madre de dios.,0,3,noun_phrase,0.500,False,False
+es por eso,0,3,noun_phrase,0.500,False,False
+"gracias, sr. presidente.",0,3,noun_phrase,0.500,False,False
+eres hombre muerto,0,3,noun_phrase,0.500,False,False
+", por favor",0,3,noun_phrase,0.500,False,False
+soy tu padre,0,3,noun_phrase,0.500,False,False
+dame tu mano.,0,3,noun_phrase,0.500,False,False
+es tu cumpleaños,0,3,noun_phrase,0.500,False,False
+los viejos tiempos,0,3,noun_phrase,0.500,False,False
+la semana pasada,0,3,noun_phrase,0.500,False,False
+un buen día,0,3,noun_phrase,0.500,False,False
+¿por qué preguntas,0,3,noun_phrase,0.500,False,False
+ni una palabra,0,3,noun_phrase,0.500,False,False
+soy su padre,0,3,noun_phrase,0.500,False,False
+una y otra vez,0,4,noun_phrase,0.500,False,False
+es mi padre,0,3,noun_phrase,0.500,False,False
+es mi hija,0,3,noun_phrase,0.500,False,False
+es mi vida,0,3,noun_phrase,0.500,False,False
+ni siquiera lo pienses,0,4,noun_phrase,0.500,False,False
+estoy de vacaciones,0,3,noun_phrase,0.500,False,False
+no fue mi culpa,0,4,noun_phrase,0.500,False,False
+gusto en conocerte.,0,3,noun_phrase,0.500,False,False
+"buenas noches, mamá.",0,3,noun_phrase,0.500,False,False
+es mi madre,0,3,noun_phrase,0.500,False,False
+¡hijos de perra!,0,3,noun_phrase,0.500,False,False
+", mi amor",0,3,noun_phrase,0.500,False,False
+y a mí,0,3,noun_phrase,0.500,False,False
+", ¿de verdad",0,3,noun_phrase,0.500,False,False
+¿y el otro,0,3,noun_phrase,0.500,False,False
+"sí, su señoría",0,3,noun_phrase,0.500,False,False
+"sí, ¿por qué",0,3,noun_phrase,0.500,False,False
+todos los días,0,3,noun_phrase,0.500,False,False
+eres mi héroe.,0,3,noun_phrase,0.500,False,False
+"muy bien, muchachos",0,3,noun_phrase,0.500,False,False
+estoy en problemas,0,3,noun_phrase,0.500,False,False
+¿que es eso,0,3,noun_phrase,0.500,False,False
+¿es de verdad,0,3,noun_phrase,0.500,False,False
+todo el mundo,0,3,noun_phrase,0.500,False,False
+¡a un lado,0,3,noun_phrase,0.500,False,False
+solo un poco,0,3,noun_phrase,0.500,False,False
+gracias por esto,0,3,noun_phrase,0.500,False,False
+gracias por su tiempo,0,4,noun_phrase,0.500,False,False
+encantado de conocerte.,0,3,noun_phrase,0.500,False,False
+fue en defensa propia,0,4,noun_phrase,0.500,False,False
+es tu elección,0,3,noun_phrase,0.500,False,False
+¿por qué tú,0,3,noun_phrase,0.500,False,False
+estamos en guerra,0,3,noun_phrase,0.500,False,False
+"sí, mi señor",0,3,noun_phrase,0.500,False,False
+¿quién diablos eres,0,3,noun_phrase,0.500,False,False
+están todos muertos,0,3,noun_phrase,0.500,False,False
+eres un encanto,0,3,noun_phrase,0.500,False,False
+es mi trabajo,0,3,noun_phrase,0.500,False,False
+gracias por su cooperación,0,4,noun_phrase,0.500,False,False
+¿es una amenaza,0,3,noun_phrase,0.500,False,False
+es mi casa,0,3,noun_phrase,0.500,False,False
+¿y entonces qué,0,3,noun_phrase,0.500,False,False
+son buenas noticias,0,3,noun_phrase,0.500,False,False
+te lo juro,0,3,noun_phrase,0.500,False,False
+gracias por el consejo,0,4,noun_phrase,0.500,False,False
+policía de nueva york.,0,4,noun_phrase,0.500,False,False
+"sí, es verdad",0,3,noun_phrase,0.500,False,False
+sólo un segundo,0,3,noun_phrase,0.500,False,False
+¿de qué hablas,0,3,noun_phrase,0.500,False,False
+eres un buen hombre,0,4,noun_phrase,0.500,False,False
+sólo una vez,0,3,noun_phrase,0.500,False,False
+¿es tu novia,0,3,noun_phrase,0.500,False,False
+"buenas noches, caballeros.",0,3,noun_phrase,0.500,False,False
+es mi turno,0,3,noun_phrase,0.500,False,False
+¿qué diablos haces,0,3,noun_phrase,0.500,False,False
+deshazte de él.,0,3,noun_phrase,0.500,False,False
+es mi mujer,0,3,noun_phrase,0.500,False,False
+eres un cobarde,0,3,noun_phrase,0.500,False,False
+¿de que hablas,0,3,noun_phrase,0.500,False,False
+¿alguna otra cosa,0,3,noun_phrase,0.500,False,False
+pero ¿por qué,0,3,noun_phrase,0.500,False,False
+es tu padre,0,3,noun_phrase,0.500,False,False
+¿y los otros,0,3,noun_phrase,0.500,False,False
+eres mi mejor amigo,0,4,noun_phrase,0.500,False,False
+es para usted,0,3,noun_phrase,0.500,False,False
+como en los viejos tiempos,0,5,noun_phrase,0.500,False,False
+gracias por la comida,0,4,noun_phrase,0.500,False,False
+un placer conocerte,0,3,noun_phrase,0.500,False,False
+es lo mismo,0,3,noun_phrase,0.500,False,False
+¿y el resto,0,3,noun_phrase,0.500,False,False
+¡a la carga,0,3,noun_phrase,0.500,False,False
+será un placer,0,3,noun_phrase,0.500,False,False
+me das asco,0,3,noun_phrase,0.500,False,False
+"buenas noches, cariño.",0,3,noun_phrase,0.500,False,False
+¿y los niños,0,3,noun_phrase,0.500,False,False
+"sí, muchas gracias",0,3,noun_phrase,0.500,False,False
+eres un genio,0,3,noun_phrase,0.500,False,False
+qué bueno verte,0,3,noun_phrase,0.500,False,False
+pero tú sí.,0,3,noun_phrase,0.500,False,False
+¡hija de puta!,0,3,noun_phrase,0.500,False,False
+voy de camino,0,3,noun_phrase,0.500,False,False
+¿y tu madre,0,3,noun_phrase,0.500,False,False
+", date prisa",0,3,noun_phrase,0.500,False,False
+"sí, me acuerdo",0,3,noun_phrase,0.500,False,False
+es tu madre,0,3,noun_phrase,0.500,False,False
+ahora es tu turno,0,4,noun_phrase,0.500,False,False
+¿a cambio de qué,0,4,noun_phrase,0.500,False,False
+sdi media group,0,3,noun_phrase,0.500,False,False
+y otra cosa,0,3,noun_phrase,0.500,False,False
+", ¿qué tal?",0,3,noun_phrase,0.500,False,False
+detrás de ti,0,3,noun_phrase,0.500,False,False
+¡largo de aquí!,0,3,noun_phrase,0.500,False,False
+¿qué carajo haces,0,3,noun_phrase,0.500,False,False
+es mi culpa,0,3,noun_phrase,0.500,False,False
+fue un placer conocerte,0,4,noun_phrase,0.500,False,False
+¿y el tuyo,0,3,noun_phrase,0.500,False,False
+dios los bendiga,0,3,noun_phrase,0.500,False,False
+bien por ti,0,3,noun_phrase,0.500,False,False
+gracias a todos,0,3,noun_phrase,0.500,False,False
+¿qué llevas puesto,0,3,noun_phrase,0.500,False,False
+¿de qué diablos,0,3,noun_phrase,0.500,False,False
+es mi cumpleaños,0,3,noun_phrase,0.500,False,False
+¿por qué razón,0,3,noun_phrase,0.500,False,False
+eres mi hijo.,0,3,noun_phrase,0.500,False,False
+¿no lo sabías,0,3,noun_phrase,0.500,False,False
+", gracias a dios",0,4,noun_phrase,0.500,False,False
+eres un buen chico,0,4,noun_phrase,0.500,False,False
+estamos en problemas,0,3,noun_phrase,0.500,False,False
+¡sal de ahí!,0,3,noun_phrase,0.500,False,False
+¿y a ti,0,3,noun_phrase,0.500,False,False
+era una broma,0,3,noun_phrase,0.500,False,False
+no fue tu culpa,0,4,noun_phrase,0.500,False,False
+pedazo de mierda.,0,3,noun_phrase,0.500,False,False
+¿por qué gritas,0,3,noun_phrase,0.500,False,False
+es tu hermano,0,3,noun_phrase,0.500,False,False
+"buenas noches, señora.",0,3,noun_phrase,0.500,False,False
+gracias por eso,0,3,noun_phrase,0.500,False,False
+"sí, un momento",0,3,noun_phrase,0.500,False,False
+todo esta bien,0,3,noun_phrase,0.500,False,False
+¿en qué sentido,0,3,noun_phrase,0.500,False,False
+ni en sueños,0,3,noun_phrase,0.500,False,False
+toda la razón,0,3,noun_phrase,0.500,False,False
+¿pero qué dices,0,3,noun_phrase,0.500,False,False
+¿estás segura de eso?,0,4,noun_phrase,0.500,False,False
+es lo que,25,3,ngram,0.400,False,False
+eso es lo que,10,4,ngram,0.400,False,False
+lo estoy.,4,2,ngram,0.400,False,False
+no sé.,4,2,ngram,0.400,False,False
+seguro de,4,2,ngram,0.400,False,False
+¿cómo está,4,2,ngram,0.400,False,False
+es correcto.,4,2,ngram,0.400,False,False
+lo sabes?,4,2,ngram,0.400,False,False
+¿y tú,4,2,ngram,0.400,False,False
+demasiado tarde.,4,2,ngram,0.400,False,False
+lo hagas.,4,2,ngram,0.400,False,False
+¿cómo es,4,2,ngram,0.400,False,False
+alegro de,4,2,ngram,0.400,False,False
+he visto.,4,2,ngram,0.400,False,False
+ni idea.,4,2,ngram,0.400,False,False
+vete a,4,2,ngram,0.400,False,False
+¿qué estamos,4,2,ngram,0.400,False,False
+es justo.,4,2,ngram,0.400,False,False
+¿quieres que,4,2,ngram,0.400,False,False
+¿quién está,4,2,ngram,0.400,False,False
+te preocupes.,4,2,ngram,0.400,False,False
+no digas,4,2,ngram,0.400,False,False
+a ir.,4,2,ngram,0.400,False,False
+tu ayuda.,4,2,ngram,0.400,False,False
+decirte algo.,4,2,ngram,0.400,False,False
+por ti.,4,2,ngram,0.400,False,False
+es real.,4,2,ngram,0.400,False,False
+lo digas.,4,2,ngram,0.400,False,False
+algo que,4,2,ngram,0.400,False,False
+lo está.,4,2,ngram,0.400,False,False
+¿eso es,4,2,ngram,0.400,False,False
+que quieres?,4,2,ngram,0.400,False,False
+es asunto,4,2,ngram,0.400,False,False
+ya te,4,2,ngram,0.400,False,False
+quieres que,4,2,ngram,0.400,False,False
+¿vas a,4,2,ngram,0.400,False,False
+con él?,4,2,ngram,0.400,False,False
+¿con quién,4,2,ngram,0.400,False,False
+por qué.,4,2,ngram,0.400,False,False
+lo conozco.,4,2,ngram,0.400,False,False
+¿para qué,4,2,ngram,0.400,False,False
+buen día.,4,2,ngram,0.400,False,False
+que hago.,4,2,ngram,0.400,False,False
+lo haría.,4,2,ngram,0.400,False,False
+ninguna parte.,4,2,ngram,0.400,False,False
+ya veo.,4,2,ngram,0.400,False,False
+todo va,4,2,ngram,0.400,False,False
+¿tienes un,4,2,ngram,0.400,False,False
+qué me,4,2,ngram,0.400,False,False
+muy amable.,4,2,ngram,0.400,False,False
+es importante.,4,2,ngram,0.400,False,False
+"sí, eso",4,2,ngram,0.400,False,False
+¿lo has,4,2,ngram,0.400,False,False
+vete al,4,2,ngram,0.400,False,False
+lo son.,4,2,ngram,0.400,False,False
+te quiero.,4,2,ngram,0.400,False,False
+la vida.,4,2,ngram,0.400,False,False
+es perfecto.,4,2,ngram,0.400,False,False
+¿qué coño,4,2,ngram,0.400,False,False
+una pregunta.,4,2,ngram,0.400,False,False
+no creo,4,2,ngram,0.400,False,False
+llegar tarde.,4,2,ngram,0.400,False,False
+por eso,4,2,ngram,0.400,False,False
+una broma.,4,2,ngram,0.400,False,False
+y yo.,4,2,ngram,0.400,False,False
+para mí.,4,2,ngram,0.400,False,False
+un hombre.,4,2,ngram,0.400,False,False
+que es.,4,2,ngram,0.400,False,False
+en mí.,4,2,ngram,0.400,False,False
+es genial.,4,2,ngram,0.400,False,False
+muchas gracias.,4,2,ngram,0.400,False,False
+todos lo,4,2,ngram,0.400,False,False
+de llegar.,4,2,ngram,0.400,False,False
+el momento.,4,2,ngram,0.400,False,False
+así de,4,2,ngram,0.400,False,False
+se acabó.,4,2,ngram,0.400,False,False
+lo harás.,4,2,ngram,0.400,False,False
+mira lo,4,2,ngram,0.400,False,False
+por mí.,4,2,ngram,0.400,False,False
+un accidente.,4,2,ngram,0.400,False,False
+lo mismo.,4,2,ngram,0.400,False,False
+"no, lo",4,2,ngram,0.400,False,False
+un error.,4,2,ngram,0.400,False,False
+te importa?,4,2,ngram,0.400,False,False
+con eso?,4,2,ngram,0.400,False,False
+¿qué haces,4,2,ngram,0.400,False,False
+es él.,4,2,ngram,0.400,False,False
+yo no.,4,2,ngram,0.400,False,False
+lo hace.,4,2,ngram,0.400,False,False
+espera un,4,2,ngram,0.400,False,False
+¿cual es,4,2,ngram,0.400,False,False
+eso está,4,2,ngram,0.400,False,False
+pasa con,4,2,ngram,0.400,False,False
+hora de,4,2,ngram,0.400,False,False
+he dicho,4,2,ngram,0.400,False,False
+¿qué hace,4,2,ngram,0.400,False,False
+ya es,4,2,ngram,0.400,False,False
+¿no me,4,2,ngram,0.400,False,False
+es imposible.,4,2,ngram,0.400,False,False
+de acuerdo?,4,2,ngram,0.400,False,False
+lo vi.,4,2,ngram,0.400,False,False
+al baño.,4,2,ngram,0.400,False,False
+no sabes,4,2,ngram,0.400,False,False
+te ha,4,2,ngram,0.400,False,False
+"sí, me",4,2,ngram,0.400,False,False
+¿y eso,4,2,ngram,0.400,False,False
+eso me,4,2,ngram,0.400,False,False
+me estás,4,2,ngram,0.400,False,False
+ya casi,4,2,ngram,0.400,False,False
+yo también.,4,2,ngram,0.400,False,False
+la tengo.,4,2,ngram,0.400,False,False
+eres tú?,4,2,ngram,0.400,False,False
+¿qué carajo,4,2,ngram,0.400,False,False
+puedo hacer.,4,2,ngram,0.400,False,False
+¿qué se,4,2,ngram,0.400,False,False
+"si, lo",4,2,ngram,0.400,False,False
+me conoces.,4,2,ngram,0.400,False,False
+en problemas.,4,2,ngram,0.400,False,False
+el arma.,4,2,ngram,0.400,False,False
+mi palabra.,4,2,ngram,0.400,False,False
+"no, es",4,2,ngram,0.400,False,False
+¡fuera de,4,2,ngram,0.400,False,False
+¿me estás,4,2,ngram,0.400,False,False
+así es.,4,2,ngram,0.400,False,False
+ya no,4,2,ngram,0.400,False,False
+"oh, dios",4,2,ngram,0.400,False,False
+dios mio.,4,2,ngram,0.400,False,False
+te preocupes,4,2,ngram,0.400,False,False
+preocupes por,4,2,ngram,0.400,False,False
+lo hicimos.,4,2,ngram,0.400,False,False
+es nada.,4,2,ngram,0.400,False,False
+de puta!,4,2,ngram,0.400,False,False
+que tengas,4,2,ngram,0.400,False,False
+"bien, está",4,2,ngram,0.400,False,False
+lo soy.,4,2,ngram,0.400,False,False
+ven a,4,2,ngram,0.400,False,False
+"buenos días,",4,2,ngram,0.400,False,False
+buenas noches.,4,2,ngram,0.400,False,False
+¿qué puedo,4,2,ngram,0.400,False,False
+seguro que,4,2,ngram,0.400,False,False
+haces aquí?,4,2,ngram,0.400,False,False
+con esto.,4,2,ngram,0.400,False,False
+estamos bien.,3,2,ngram,0.400,False,False
+justo aquí.,3,2,ngram,0.400,False,False
+estás aquí.,3,2,ngram,0.400,False,False
+cuidado con,3,2,ngram,0.400,False,False
+soy tu,3,2,ngram,0.400,False,False
+lo dijo.,3,2,ngram,0.400,False,False
+un placer,3,2,ngram,0.400,False,False
+placer conocerte.,3,2,ngram,0.400,False,False
+por venir.,3,2,ngram,0.400,False,False
+vale la,3,2,ngram,0.400,False,False
+es increíble.,3,2,ngram,0.400,False,False
+en ti.,3,2,ngram,0.400,False,False
+has visto?,3,2,ngram,0.400,False,False
+fue culpa,3,2,ngram,0.400,False,False
+culpa tuya.,3,2,ngram,0.400,False,False
+haz lo,3,2,ngram,0.400,False,False
+tú no,3,2,ngram,0.400,False,False
+¿cómo estás?,3,2,ngram,0.400,False,False
+puede que,3,2,ngram,0.400,False,False
+lo saben.,3,2,ngram,0.400,False,False
+es divertido.,3,2,ngram,0.400,False,False
+lo era.,3,2,ngram,0.400,False,False
+¿quién lo,3,2,ngram,0.400,False,False
+lo hizo?,3,2,ngram,0.400,False,False
+sé quién,3,2,ngram,0.400,False,False
+quién es.,3,2,ngram,0.400,False,False
+es interesante.,3,2,ngram,0.400,False,False
+nueva york.,3,2,ngram,0.400,False,False
+un monstruo.,3,2,ngram,0.400,False,False
+se ve,3,2,ngram,0.400,False,False
+y eso,3,2,ngram,0.400,False,False
+lo harán.,3,2,ngram,0.400,False,False
+dónde está.,3,2,ngram,0.400,False,False
+qué está,3,2,ngram,0.400,False,False
+a hacerlo.,3,2,ngram,0.400,False,False
+ha terminado.,3,2,ngram,0.400,False,False
+es extraño.,3,2,ngram,0.400,False,False
+acabo de,3,2,ngram,0.400,False,False
+¿cuánto tiempo,3,2,ngram,0.400,False,False
+ir a,3,2,ngram,0.400,False,False
+¿y yo,3,2,ngram,0.400,False,False
+decir eso.,3,2,ngram,0.400,False,False
+no era,3,2,ngram,0.400,False,False
+está haciendo?,3,2,ngram,0.400,False,False
+tu problema?,3,2,ngram,0.400,False,False
+estará bien.,3,2,ngram,0.400,False,False
+he hecho.,3,2,ngram,0.400,False,False
+"no, en",3,2,ngram,0.400,False,False
+he dicho.,3,2,ngram,0.400,False,False
+que haga?,3,2,ngram,0.400,False,False
+a pasar.,3,2,ngram,0.400,False,False
+¿qué crees,3,2,ngram,0.400,False,False
+él está,3,2,ngram,0.400,False,False
+está muerto.,3,2,ngram,0.400,False,False
+"espera, espera,",3,2,ngram,0.400,False,False
+"espera, espera.",3,2,ngram,0.400,False,False
+lo voy,3,2,ngram,0.400,False,False
+no hice,3,2,ngram,0.400,False,False
+dios santo.,3,2,ngram,0.400,False,False
+puedo hacerlo.,3,2,ngram,0.400,False,False
+de dios.,3,2,ngram,0.400,False,False
+tiene nada,3,2,ngram,0.400,False,False
+el mejor.,3,2,ngram,0.400,False,False
+no necesito,3,2,ngram,0.400,False,False
+lo tienes.,3,2,ngram,0.400,False,False
+ven aquí.,3,2,ngram,0.400,False,False
+"bien, señor.",3,2,ngram,0.400,False,False
+un desastre.,3,2,ngram,0.400,False,False
+una cosa.,3,2,ngram,0.400,False,False
+te parece?,3,2,ngram,0.400,False,False
+una hora.,3,2,ngram,0.400,False,False
+buenas noticias.,3,2,ngram,0.400,False,False
+¿quién diablos,3,2,ngram,0.400,False,False
+diablos es,3,2,ngram,0.400,False,False
+es usted?,3,2,ngram,0.400,False,False
+hablar de,3,2,ngram,0.400,False,False
+mi señor.,3,2,ngram,0.400,False,False
+lo juro.,3,2,ngram,0.400,False,False
+es difícil,3,2,ngram,0.400,False,False
+se fue.,3,2,ngram,0.400,False,False
+me parece,3,2,ngram,0.400,False,False
+pasa aquí?,3,2,ngram,0.400,False,False
+de pie.,3,2,ngram,0.400,False,False
+tengo mucho,3,2,ngram,0.400,False,False
+que quieras.,3,2,ngram,0.400,False,False
+a trabajar.,3,2,ngram,0.400,False,False
+tengo nada,3,2,ngram,0.400,False,False
+no volverá,3,2,ngram,0.400,False,False
+volverá a,3,2,ngram,0.400,False,False
+es horrible.,3,2,ngram,0.400,False,False
+"oh, por",3,2,ngram,0.400,False,False
+tiempo para,3,2,ngram,0.400,False,False
+en absoluto.,3,2,ngram,0.400,False,False
+así fue.,3,2,ngram,0.400,False,False
+a funcionar.,3,2,ngram,0.400,False,False
+el arma!,3,2,ngram,0.400,False,False
+mi trabajo.,3,2,ngram,0.400,False,False
+"oh, no,",3,2,ngram,0.400,False,False
+estoy segura.,3,2,ngram,0.400,False,False
+lo hará.,3,2,ngram,0.400,False,False
+lo estás.,3,2,ngram,0.400,False,False
+es terrible.,3,2,ngram,0.400,False,False
+es necesario.,3,2,ngram,0.400,False,False
+mi amigo.,3,2,ngram,0.400,False,False
+de menos.,3,2,ngram,0.400,False,False
+que sea,3,2,ngram,0.400,False,False
+dame la,3,2,ngram,0.400,False,False
+"¿qué pasa,",3,2,ngram,0.400,False,False
+es así.,3,2,ngram,0.400,False,False
+has estado?,3,2,ngram,0.400,False,False
+se vaya.,3,2,ngram,0.400,False,False
+¿qué estoy,3,2,ngram,0.400,False,False
+"por aquí,",3,2,ngram,0.400,False,False
+quédate con,3,2,ngram,0.400,False,False
+con nosotros.,3,2,ngram,0.400,False,False
+ya voy.,3,2,ngram,0.400,False,False
+te diré,3,2,ngram,0.400,False,False
+una pesadilla.,3,2,ngram,0.400,False,False
+vuelve a,3,2,ngram,0.400,False,False
+soy un,3,2,ngram,0.400,False,False
+un idiota.,3,2,ngram,0.400,False,False
+yo tampoco.,3,2,ngram,0.400,False,False
+qué hacer.,3,2,ngram,0.400,False,False
+está mejor.,3,2,ngram,0.400,False,False
+bueno verte.,3,2,ngram,0.400,False,False
+de encima!,3,2,ngram,0.400,False,False
+confiar en,3,2,ngram,0.400,False,False
+está pasando,3,2,ngram,0.400,False,False
+hay nadie,3,2,ngram,0.400,False,False
+"bien, entonces.",3,2,ngram,0.400,False,False
+de ninguna,3,2,ngram,0.400,False,False
+lo estoy,3,2,ngram,0.400,False,False
+estoy hablando.,3,2,ngram,0.400,False,False
+fue mi,3,2,ngram,0.400,False,False
+la vuelta.,3,2,ngram,0.400,False,False
+¿qué vas,3,2,ngram,0.400,False,False
+no veo,3,2,ngram,0.400,False,False
+el dinero.,3,2,ngram,0.400,False,False
+a dios.,3,2,ngram,0.400,False,False
+dónde está?,3,2,ngram,0.400,False,False
+ha sido,3,2,ngram,0.400,False,False
+¿qué tal?,3,2,ngram,0.400,False,False
+eso es.,3,2,ngram,0.400,False,False
+aquí vamos.,3,2,ngram,0.400,False,False
+tal vez,3,2,ngram,0.400,False,False
+vez no.,3,2,ngram,0.400,False,False
+de nada.,3,2,ngram,0.400,False,False
+se acabó,3,2,ngram,0.400,False,False
+aquí estoy.,3,2,ngram,0.400,False,False
+¿qué más,3,2,ngram,0.400,False,False
+hacer eso?,3,2,ngram,0.400,False,False
+es fantástico.,3,2,ngram,0.400,False,False
+tu madre.,3,2,ngram,0.400,False,False
+hacer nada.,3,2,ngram,0.400,False,False
+en paz!,3,2,ngram,0.400,False,False
+¿te sientes,3,2,ngram,0.400,False,False
+a suceder.,3,2,ngram,0.400,False,False
+te he,3,2,ngram,0.400,False,False
+"favor, por",3,2,ngram,0.400,False,False
+es este,3,2,ngram,0.400,False,False
+está pasando.,3,2,ngram,0.400,False,False
+¿de que,3,2,ngram,0.400,False,False
+puedes hacerlo.,3,2,ngram,0.400,False,False
+ya no.,3,2,ngram,0.400,False,False
+lo dijiste?,3,2,ngram,0.400,False,False
+qué hacemos?,3,2,ngram,0.400,False,False
+hora es?,3,2,ngram,0.400,False,False
+ya sé.,3,2,ngram,0.400,False,False
+¿qué fue,3,2,ngram,0.400,False,False
+estamos aquí.,3,2,ngram,0.400,False,False
+lo hiciste?,3,2,ngram,0.400,False,False
+es mucho.,3,2,ngram,0.400,False,False
+¿dónde diablos,3,2,ngram,0.400,False,False
+muy dulce.,3,2,ngram,0.400,False,False
+mi dios.,3,2,ngram,0.400,False,False
+¿qué tienes,3,2,ngram,0.400,False,False
+ella está,3,2,ngram,0.400,False,False
+está muerta.,3,2,ngram,0.400,False,False
+la cabeza.,3,2,ngram,0.400,False,False
+"no, estoy",3,2,ngram,0.400,False,False
+un momento?,3,2,ngram,0.400,False,False
+la puerta,3,2,ngram,0.400,False,False
+que ir,3,2,ngram,0.400,False,False
+lo recuerdo.,3,2,ngram,0.400,False,False
+yo sí.,3,2,ngram,0.400,False,False
+que vas?,3,2,ngram,0.400,False,False
+es diferente.,3,2,ngram,0.400,False,False
+tu turno.,3,2,ngram,0.400,False,False
+dame tu,3,2,ngram,0.400,False,False
+con calma.,3,2,ngram,0.400,False,False
+un asesino.,3,2,ngram,0.400,False,False
+gusto en,3,2,ngram,0.400,False,False
+ve a,3,2,ngram,0.400,False,False
+eres muy,3,2,ngram,0.400,False,False
+mi hijo.,3,2,ngram,0.400,False,False
+están aquí.,3,2,ngram,0.400,False,False
+"bien, de",3,2,ngram,0.400,False,False
+"bien, vamos.",3,2,ngram,0.400,False,False
+es maravilloso.,3,2,ngram,0.400,False,False
+¿cómo puedes,3,2,ngram,0.400,False,False
+tenemos un,3,2,ngram,0.400,False,False
+su nombre?,3,2,ngram,0.400,False,False
+eres tú.,3,2,ngram,0.400,False,False
+siempre lo,3,2,ngram,0.400,False,False
+mira quién,3,2,ngram,0.400,False,False
+he hecho,3,2,ngram,0.400,False,False
+a nadie.,3,2,ngram,0.400,False,False
+de eso,3,2,ngram,0.400,False,False
+es grandioso.,3,2,ngram,0.400,False,False
+con eso.,3,2,ngram,0.400,False,False
+es malo.,3,2,ngram,0.400,False,False
+mejor que,3,2,ngram,0.400,False,False
+es ridículo.,3,2,ngram,0.400,False,False
+te llamaré,3,2,ngram,0.400,False,False
+los ojos.,3,2,ngram,0.400,False,False
+tu padre.,3,2,ngram,0.400,False,False
+le importa.,3,2,ngram,0.400,False,False
+tu madre?,3,2,ngram,0.400,False,False
+dije eso.,3,2,ngram,0.400,False,False
+mí también.,3,2,ngram,0.400,False,False
+más preguntas.,3,2,ngram,0.400,False,False
+te conozco.,3,2,ngram,0.400,False,False
+de ahí!,3,2,ngram,0.400,False,False
+nada más.,3,2,ngram,0.400,False,False
+lo fue.,3,2,ngram,0.400,False,False
+que decir.,3,2,ngram,0.400,False,False
+si no,3,2,ngram,0.400,False,False
+"te quiero,",3,2,ngram,0.400,False,False
+me has,3,2,ngram,0.400,False,False
+dame el,3,2,ngram,0.400,False,False
+se supone,3,2,ngram,0.400,False,False
+supone que,3,2,ngram,0.400,False,False
+del camino!,3,2,ngram,0.400,False,False
+o menos.,3,2,ngram,0.400,False,False
+en eso.,3,2,ngram,0.400,False,False
+"bueno, no",3,2,ngram,0.400,False,False
+"dos, tres.",3,2,ngram,0.400,False,False
+gran cosa.,3,2,ngram,0.400,False,False
+a ninguna,3,2,ngram,0.400,False,False
+también te,3,2,ngram,0.400,False,False
+me preocupa.,3,2,ngram,0.400,False,False
+ya está,3,2,ngram,0.400,False,False
+me estoy,3,2,ngram,0.400,False,False
+toda la,3,2,ngram,0.400,False,False
+su majestad.,3,2,ngram,0.400,False,False
+toca a,3,2,ngram,0.400,False,False
+¿en serio?,3,2,ngram,0.400,False,False
+¿qué va,3,2,ngram,0.400,False,False
+es seguro.,3,2,ngram,0.400,False,False
+la puerta!,3,2,ngram,0.400,False,False
+me acuerdo.,3,2,ngram,0.400,False,False
+es hermoso.,3,2,ngram,0.400,False,False
+estar aquí.,3,2,ngram,0.400,False,False
+tengo miedo.,3,2,ngram,0.400,False,False
+pasa nada.,3,2,ngram,0.400,False,False
+espere un,3,2,ngram,0.400,False,False
+es que...,3,2,ngram,0.400,False,False
+demonios está,3,2,ngram,0.400,False,False
+"dios, no.",3,2,ngram,0.400,False,False
+estoy seguro.,3,2,ngram,0.400,False,False
+mi turno.,3,2,ngram,0.400,False,False
+lo agradezco.,3,2,ngram,0.400,False,False
+demonios estás,3,2,ngram,0.400,False,False
+"bien, adiós.",3,2,ngram,0.400,False,False
+¿estás de,3,2,ngram,0.400,False,False
+me da,3,2,ngram,0.400,False,False
+he terminado.,3,2,ngram,0.400,False,False
+la primera,3,2,ngram,0.400,False,False
+primera vez.,3,2,ngram,0.400,False,False
+hay problema.,3,2,ngram,0.400,False,False
+buen chico.,3,2,ngram,0.400,False,False
+te quiero,3,2,ngram,0.400,False,False
+tú también.,3,2,ngram,0.400,False,False
+"uno, dos,",3,2,ngram,0.400,False,False
+está todo,3,2,ngram,0.400,False,False
+es raro.,3,2,ngram,0.400,False,False
+lo maté.,3,2,ngram,0.400,False,False
+es normal.,3,2,ngram,0.400,False,False
+¿de verdad?,3,2,ngram,0.400,False,False
+¿quieres un,3,2,ngram,0.400,False,False
+no quiero.,3,2,ngram,0.400,False,False
+¿y los,3,2,ngram,0.400,False,False
+esperen un,3,2,ngram,0.400,False,False
+es fácil.,3,2,ngram,0.400,False,False
+ya está.,3,2,ngram,0.400,False,False
+buena pregunta.,3,2,ngram,0.400,False,False
+que puedes.,3,2,ngram,0.400,False,False
+me temo,3,2,ngram,0.400,False,False
+temo que,3,2,ngram,0.400,False,False
+"gracias, señor.",3,2,ngram,0.400,False,False
+no dije,3,2,ngram,0.400,False,False
+oír eso.,3,2,ngram,0.400,False,False
+es demasiado.,3,2,ngram,0.400,False,False
+estoy seguro,3,2,ngram,0.400,False,False
+tu culpa.,3,2,ngram,0.400,False,False
+es absurdo.,3,2,ngram,0.400,False,False
+tú no.,3,2,ngram,0.400,False,False
+se ha,3,2,ngram,0.400,False,False
+te llamo,3,2,ngram,0.400,False,False
+orgullosa de,3,2,ngram,0.400,False,False
+este es,3,2,ngram,0.400,False,False
+ha ido?,3,2,ngram,0.400,False,False
+el dinero?,3,2,ngram,0.400,False,False
+mi vida.,3,2,ngram,0.400,False,False
+hijo de,3,2,ngram,0.400,False,False
+que puedo,3,2,ngram,0.400,False,False
+nos vamos,3,2,ngram,0.400,False,False
+parece que,3,2,ngram,0.400,False,False
+se trata,3,2,ngram,0.400,False,False
+todo esto?,3,2,ngram,0.400,False,False
+mi hermano.,3,2,ngram,0.400,False,False
+algo así.,3,2,ngram,0.400,False,False
+muy importante.,3,2,ngram,0.400,False,False
+"estoy bien,",3,2,ngram,0.400,False,False
+para usted.,3,2,ngram,0.400,False,False
+todas partes.,3,2,ngram,0.400,False,False
+"un momento,",3,2,ngram,0.400,False,False
+muy divertido.,3,2,ngram,0.400,False,False
+su ayuda.,3,2,ngram,0.400,False,False
+una vez.,3,2,ngram,0.400,False,False
+¿qué les,3,2,ngram,0.400,False,False
+lo prometo.,3,2,ngram,0.400,False,False
+mala idea.,3,2,ngram,0.400,False,False
+", qué",0,2,noun_phrase,0.400,False,False
+pero yo,0,2,noun_phrase,0.400,False,False
+la mierda,0,2,noun_phrase,0.400,False,False
+la luz,0,2,noun_phrase,0.400,False,False
+¿de quién,0,2,noun_phrase,0.400,False,False
+una hora,0,2,noun_phrase,0.400,False,False
+es mío,0,2,noun_phrase,0.400,False,False
+la derecha,0,2,noun_phrase,0.400,False,False
+mi hermano,0,2,noun_phrase,0.400,False,False
+"bueno, yo",0,2,noun_phrase,0.400,False,False
+el perro,0,2,noun_phrase,0.400,False,False
+"ay, caray",0,2,noun_phrase,0.400,False,False
+una pena,0,2,noun_phrase,0.400,False,False
+pobre hombre,0,2,noun_phrase,0.400,False,False
+estoy enfermo,0,2,noun_phrase,0.400,False,False
+¿más café,0,2,noun_phrase,0.400,False,False
+"hola, tom.",0,2,noun_phrase,0.400,False,False
+¿escuchaste eso,0,2,noun_phrase,0.400,False,False
+tomen asiento.,0,2,noun_phrase,0.400,False,False
+no pares,0,2,noun_phrase,0.400,False,False
+"no, hombre",0,2,noun_phrase,0.400,False,False
+"hola, querida",0,2,noun_phrase,0.400,False,False
+una semana,0,2,noun_phrase,0.400,False,False
+feliz aniversario,0,2,noun_phrase,0.400,False,False
+¿eres gay?,0,2,noun_phrase,0.400,False,False
+la vuelta,0,2,noun_phrase,0.400,False,False
+¡agentes federales,0,2,noun_phrase,0.400,False,False
+es tuya,0,2,noun_phrase,0.400,False,False
+la fiesta,0,2,noun_phrase,0.400,False,False
+¿dónde demonios,0,2,noun_phrase,0.400,False,False
+"hola, sam.",0,2,noun_phrase,0.400,False,False
+mi hijo,0,2,noun_phrase,0.400,False,False
+hazme caso.,0,2,noun_phrase,0.400,False,False
+apaga eso.,0,2,noun_phrase,0.400,False,False
+mis disculpas,0,2,noun_phrase,0.400,False,False
+como nosotros,0,2,noun_phrase,0.400,False,False
+qué bueno,0,2,noun_phrase,0.400,False,False
+era broma,0,2,noun_phrase,0.400,False,False
+deberías venir.,0,2,noun_phrase,0.400,False,False
+10 segundos,0,2,noun_phrase,0.400,False,False
+una niña,0,2,noun_phrase,0.400,False,False
+¡mi brazo,0,2,noun_phrase,0.400,False,False
+buena suerte,0,2,noun_phrase,0.400,False,False
+alguna idea,0,2,noun_phrase,0.400,False,False
+¿lo sabías,0,2,noun_phrase,0.400,False,False
+qué asco,0,2,noun_phrase,0.400,False,False
+un amigo,0,2,noun_phrase,0.400,False,False
+buena respuesta,0,2,noun_phrase,0.400,False,False
+¿a quién,0,2,noun_phrase,0.400,False,False
+una cerveza,0,2,noun_phrase,0.400,False,False
+", abuela",0,2,noun_phrase,0.400,False,False
+caso cerrado.,0,2,noun_phrase,0.400,False,False
+cinco años,0,2,noun_phrase,0.400,False,False
+otras cosas,0,2,noun_phrase,0.400,False,False
+¿qué buscas,0,2,noun_phrase,0.400,False,False
+", bebé",0,2,noun_phrase,0.400,False,False
+"hola, frank.",0,2,noun_phrase,0.400,False,False
+qué carajo,0,2,noun_phrase,0.400,False,False
+su hermano,0,2,noun_phrase,0.400,False,False
+", señor",0,2,noun_phrase,0.400,False,False
+dos semanas,0,2,noun_phrase,0.400,False,False
+mucha hambre,0,2,noun_phrase,0.400,False,False
+¿estás loco?,0,2,noun_phrase,0.400,False,False
+esa mujer,0,2,noun_phrase,0.400,False,False
+¿alguna pregunta,0,2,noun_phrase,0.400,False,False
+cinco minutos,0,2,noun_phrase,0.400,False,False
+¿qué mierda,0,2,noun_phrase,0.400,False,False
+soy gay,0,2,noun_phrase,0.400,False,False
+mi hija,0,2,noun_phrase,0.400,False,False
+es decir...,0,2,noun_phrase,0.400,False,False
+¿lo pillas,0,2,noun_phrase,0.400,False,False
+aquí esta,0,2,noun_phrase,0.400,False,False
+mire esto.,0,2,noun_phrase,0.400,False,False
+ahi esta,0,2,noun_phrase,0.400,False,False
+una vez,0,2,noun_phrase,0.400,False,False
+el cinturón,0,2,noun_phrase,0.400,False,False
+otra cosa,0,2,noun_phrase,0.400,False,False
+enseguida regreso,0,2,noun_phrase,0.400,False,False
+este momento,0,2,noun_phrase,0.400,False,False
+¿una copa,0,2,noun_phrase,0.400,False,False
+ningún problema,0,2,noun_phrase,0.400,False,False
+un acuerdo,0,2,noun_phrase,0.400,False,False
+la hora,0,2,noun_phrase,0.400,False,False
+¿eres tu?,0,2,noun_phrase,0.400,False,False
+un problema,0,2,noun_phrase,0.400,False,False
+tanto tiempo,0,2,noun_phrase,0.400,False,False
+dulces sueños.,0,2,noun_phrase,0.400,False,False
+buen tiro,0,2,noun_phrase,0.400,False,False
+¿alguna novedad,0,2,noun_phrase,0.400,False,False
+¿un qué,0,2,noun_phrase,0.400,False,False
+pero gracias,0,2,noun_phrase,0.400,False,False
+soy policía,0,2,noun_phrase,0.400,False,False
+un año,0,2,noun_phrase,0.400,False,False
+"si, señora",0,2,noun_phrase,0.400,False,False
+mi turno,0,2,noun_phrase,0.400,False,False
+"oh, wow.",0,2,noun_phrase,0.400,False,False
+ahora tú,0,2,noun_phrase,0.400,False,False
+mi amor,0,2,noun_phrase,0.400,False,False
+sostén esto.,0,2,noun_phrase,0.400,False,False
+cuánto tiempo,0,2,noun_phrase,0.400,False,False
+"hola, jack.",0,2,noun_phrase,0.400,False,False
+¡sr. frodo!,0,2,noun_phrase,0.400,False,False
+¿como esta,0,2,noun_phrase,0.400,False,False
+", ¿qué",0,2,noun_phrase,0.400,False,False
+", hermano",0,2,noun_phrase,0.400,False,False
+es policía,0,2,noun_phrase,0.400,False,False
+tuviste suerte.,0,2,noun_phrase,0.400,False,False
+llegas tarde.,0,2,noun_phrase,0.400,False,False
+esta noche,0,2,noun_phrase,0.400,False,False
+buenos días,0,2,noun_phrase,0.400,False,False
+quédate quieta,0,2,noun_phrase,0.400,False,False
+"bien, chicos",0,2,noun_phrase,0.400,False,False
+¿qué chica,0,2,noun_phrase,0.400,False,False
+buena elección,0,2,noun_phrase,0.400,False,False
+un trago,0,2,noun_phrase,0.400,False,False
+un trato,0,2,noun_phrase,0.400,False,False
+ya verás,0,2,noun_phrase,0.400,False,False
+qué harías,0,2,noun_phrase,0.400,False,False
+gran cosa,0,2,noun_phrase,0.400,False,False
+"no, tú",0,2,noun_phrase,0.400,False,False
+una pregunta,0,2,noun_phrase,0.400,False,False
+quién diablos,0,2,noun_phrase,0.400,False,False
+tus sueños,0,2,noun_phrase,0.400,False,False
+¡santo dios!,0,2,noun_phrase,0.400,False,False
+buena idea,0,2,noun_phrase,0.400,False,False
+tres años,0,2,noun_phrase,0.400,False,False
+la obra,0,2,noun_phrase,0.400,False,False
+", joder",0,2,noun_phrase,0.400,False,False
+una pistola,0,2,noun_phrase,0.400,False,False
+lo mismo,0,2,noun_phrase,0.400,False,False
+¿ahora qué,0,2,noun_phrase,0.400,False,False
+buenos días.,0,2,noun_phrase,0.400,False,False
+un policía,0,2,noun_phrase,0.400,False,False
+ese caso,0,2,noun_phrase,0.400,False,False
+¡oh dios!,0,2,noun_phrase,0.400,False,False
+¿pero qué,0,2,noun_phrase,0.400,False,False
+no todos,0,2,noun_phrase,0.400,False,False
+mi error,0,2,noun_phrase,0.400,False,False
+"vamos, chicos",0,2,noun_phrase,0.400,False,False
+buenas noticias,0,2,noun_phrase,0.400,False,False
+la semana,0,2,noun_phrase,0.400,False,False
+es basura,0,2,noun_phrase,0.400,False,False
+un hombre,0,2,noun_phrase,0.400,False,False
+me gustas,0,2,noun_phrase,0.400,False,False
+el anillo,0,2,noun_phrase,0.400,False,False
+dos días,0,2,noun_phrase,0.400,False,False
+una hija,0,2,noun_phrase,0.400,False,False
+la llave,0,2,noun_phrase,0.400,False,False
+¿qué parte,0,2,noun_phrase,0.400,False,False
+"hola, jerry.",0,2,noun_phrase,0.400,False,False
+esta tarde,0,2,noun_phrase,0.400,False,False
+mis amigos,0,2,noun_phrase,0.400,False,False
+estados unidos.,0,2,noun_phrase,0.400,False,False
+", señora",0,2,noun_phrase,0.400,False,False
+mi niño,0,2,noun_phrase,0.400,False,False
+¿qué trabajo,0,2,noun_phrase,0.400,False,False
+el chico,0,2,noun_phrase,0.400,False,False
+es domingo,0,2,noun_phrase,0.400,False,False
+el bosque,0,2,noun_phrase,0.400,False,False
+todos cometemos,0,2,noun_phrase,0.400,False,False
+"hola, jim.",0,2,noun_phrase,0.400,False,False
+es éste,0,2,noun_phrase,0.400,False,False
+estate quieto,0,2,noun_phrase,0.400,False,False
+las armas,0,2,noun_phrase,0.400,False,False
+estás fuera.,0,2,noun_phrase,0.400,False,False
+¿una broma,0,2,noun_phrase,0.400,False,False
+¿qué historia,0,2,noun_phrase,0.400,False,False
+déjame ayudarte,0,2,noun_phrase,0.400,False,False
+todo esto,0,2,noun_phrase,0.400,False,False
+déjame solo,0,2,noun_phrase,0.400,False,False
+un regalo,0,2,noun_phrase,0.400,False,False
+si lo,0,2,noun_phrase,0.400,False,False
+mi niña,0,2,noun_phrase,0.400,False,False
+regreso enseguida.,0,2,noun_phrase,0.400,False,False
+¡un médico,0,2,noun_phrase,0.400,False,False
+mi dinero,0,2,noun_phrase,0.400,False,False
+odio esto.,0,2,noun_phrase,0.400,False,False
+"mira, yo",0,2,noun_phrase,0.400,False,False
+un brindis,0,2,noun_phrase,0.400,False,False
+¿un perro,0,2,noun_phrase,0.400,False,False
+¡dios mío!,0,2,noun_phrase,0.400,False,False
+las luces,0,2,noun_phrase,0.400,False,False
+es verdad,0,2,noun_phrase,0.400,False,False
+buenas noches,0,2,noun_phrase,0.400,False,False
+mi palabra,0,2,noun_phrase,0.400,False,False
+su majestad,0,2,noun_phrase,0.400,False,False
+no bromees,0,2,noun_phrase,0.400,False,False
+"hola, nick.",0,2,noun_phrase,0.400,False,False
+dame eso.,0,2,noun_phrase,0.400,False,False
+un mensaje,0,2,noun_phrase,0.400,False,False
+¿como cuáles,0,2,noun_phrase,0.400,False,False
+¿qué tipo,0,2,noun_phrase,0.400,False,False
+dónde diablos,0,2,noun_phrase,0.400,False,False
+ni yo,0,2,noun_phrase,0.400,False,False
+no yo,0,2,noun_phrase,0.400,False,False
+", padre",0,2,noun_phrase,0.400,False,False
+solo una,0,2,noun_phrase,0.400,False,False
+misión cumplida,0,2,noun_phrase,0.400,False,False
+qué estupidez,0,2,noun_phrase,0.400,False,False
+"sí, madre",0,2,noun_phrase,0.400,False,False
+", tío",0,2,noun_phrase,0.400,False,False
+¡de rodillas,0,2,noun_phrase,0.400,False,False
+lo admito,0,2,noun_phrase,0.400,False,False
+su hijo,0,2,noun_phrase,0.400,False,False
+¿por dónde,0,2,noun_phrase,0.400,False,False
+tu ayuda,0,2,noun_phrase,0.400,False,False
+", llego",0,2,noun_phrase,0.400,False,False
+que eso,0,2,noun_phrase,0.400,False,False
+los niños,0,2,noun_phrase,0.400,False,False
+un arma,0,2,noun_phrase,0.400,False,False
+un accidente,0,2,noun_phrase,0.400,False,False
+lo logré,0,2,noun_phrase,0.400,False,False
+eso mismo,0,2,noun_phrase,0.400,False,False
+"bueno, hola",0,2,noun_phrase,0.400,False,False
+estás vivo,0,2,noun_phrase,0.400,False,False
+un carajo,0,2,noun_phrase,0.400,False,False
+"oh, dios.",0,2,noun_phrase,0.400,False,False
+una mano,0,2,noun_phrase,0.400,False,False
+¿no confías,0,2,noun_phrase,0.400,False,False
+última oportunidad,0,2,noun_phrase,0.400,False,False
+"bien, muchachos",0,2,noun_phrase,0.400,False,False
+qué pena,0,2,noun_phrase,0.400,False,False
+", amigos",0,2,noun_phrase,0.400,False,False
+las puertas,0,2,noun_phrase,0.400,False,False
+te pillé,0,2,noun_phrase,0.400,False,False
+¿un libro,0,2,noun_phrase,0.400,False,False
+mucho calor,0,2,noun_phrase,0.400,False,False
+tres minutos,0,2,noun_phrase,0.400,False,False
+no gracias,0,2,noun_phrase,0.400,False,False
+mis condolencias,0,2,noun_phrase,0.400,False,False
+el baño,0,2,noun_phrase,0.400,False,False
+el tiempo,0,2,noun_phrase,0.400,False,False
+¿una pistola,0,2,noun_phrase,0.400,False,False
+¿y cómo,0,2,noun_phrase,0.400,False,False
+", alex",0,2,noun_phrase,0.400,False,False
+"hola, pete.",0,2,noun_phrase,0.400,False,False
+tu arma,0,2,noun_phrase,0.400,False,False
+"¡alto, alto",0,2,noun_phrase,0.400,False,False
+los demás,0,2,noun_phrase,0.400,False,False
+¿un trabajo,0,2,noun_phrase,0.400,False,False
+una mujer,0,2,noun_phrase,0.400,False,False
+la cena,0,2,noun_phrase,0.400,False,False
+somos nosotros,0,2,noun_phrase,0.400,False,False
+como yo,0,2,noun_phrase,0.400,False,False
+todos ellos,0,2,noun_phrase,0.400,False,False
+un niño,0,2,noun_phrase,0.400,False,False
+solo yo.,0,2,noun_phrase,0.400,False,False
+"hola, david.",0,2,noun_phrase,0.400,False,False
+sujeta esto.,0,2,noun_phrase,0.400,False,False
+eres preciosa.,0,2,noun_phrase,0.400,False,False
+"adiós, chicos",0,2,noun_phrase,0.400,False,False
+yo gano,0,2,noun_phrase,0.400,False,False
+"detente, detente",0,2,noun_phrase,0.400,False,False
+la guerra,0,2,noun_phrase,0.400,False,False
+¡en fila,0,2,noun_phrase,0.400,False,False
+¿estas listo,0,2,noun_phrase,0.400,False,False
+¿recuerdas eso,0,2,noun_phrase,0.400,False,False
+¿lo amas,0,2,noun_phrase,0.400,False,False
+desde luego.,0,2,noun_phrase,0.400,False,False
+somos familia,0,2,noun_phrase,0.400,False,False
+¿alguna objeción,0,2,noun_phrase,0.400,False,False
+cuatro años,0,2,noun_phrase,0.400,False,False
+este episodio,0,2,noun_phrase,0.400,False,False
+¡santo cielo!,0,2,noun_phrase,0.400,False,False
+las vegas,0,2,noun_phrase,0.400,False,False
+la odio,0,2,noun_phrase,0.400,False,False
+amor mío.,0,2,noun_phrase,0.400,False,False
+no discutas,0,2,noun_phrase,0.400,False,False
+el arma,0,2,noun_phrase,0.400,False,False
+su casa,0,2,noun_phrase,0.400,False,False
+ya regreso,0,2,noun_phrase,0.400,False,False
+¿entonces qué,0,2,noun_phrase,0.400,False,False
+no exageres,0,2,noun_phrase,0.400,False,False
+¿algún problema,0,2,noun_phrase,0.400,False,False
+tu madre,0,2,noun_phrase,0.400,False,False
+¿un favor,0,2,noun_phrase,0.400,False,False
+¡santa mierda!,0,2,noun_phrase,0.400,False,False
+el bebé,0,2,noun_phrase,0.400,False,False
+un sueño,0,2,noun_phrase,0.400,False,False
+¿qué problema,0,2,noun_phrase,0.400,False,False
+¿la conoces,0,2,noun_phrase,0.400,False,False
+es sangre,0,2,noun_phrase,0.400,False,False
+"gracias, john",0,2,noun_phrase,0.400,False,False
+hola cariño.,0,2,noun_phrase,0.400,False,False
+¡al ataque,0,2,noun_phrase,0.400,False,False
+número equivocado,0,2,noun_phrase,0.400,False,False
+no tú,0,2,noun_phrase,0.400,False,False
+¡maldita seas!,0,2,noun_phrase,0.400,False,False
+la chica,0,2,noun_phrase,0.400,False,False
+¿un arma,0,2,noun_phrase,0.400,False,False
+somos amigos,0,2,noun_phrase,0.400,False,False
+¿algo bueno,0,2,noun_phrase,0.400,False,False
+cumpleaños feliz,0,2,noun_phrase,0.400,False,False
+"hola, bill.",0,2,noun_phrase,0.400,False,False
+¿qué esperabas,0,2,noun_phrase,0.400,False,False
+¿necesitas ayuda,0,2,noun_phrase,0.400,False,False
+eras tú.,0,2,noun_phrase,0.400,False,False
+", gente",0,2,noun_phrase,0.400,False,False
+voy contigo,0,2,noun_phrase,0.400,False,False
+el fondo,0,2,noun_phrase,0.400,False,False
+¿alguna idea,0,2,noun_phrase,0.400,False,False
+la mañana,0,2,noun_phrase,0.400,False,False
+somos hermanos,0,2,noun_phrase,0.400,False,False
+", señoritas",0,2,noun_phrase,0.400,False,False
+su madre,0,2,noun_phrase,0.400,False,False
+¿una fiesta,0,2,noun_phrase,0.400,False,False
+diez minutos,0,2,noun_phrase,0.400,False,False
+", mamá",0,2,noun_phrase,0.400,False,False
+¿o qué,0,2,noun_phrase,0.400,False,False
+"adiós, cariño",0,2,noun_phrase,0.400,False,False
+buenos dias.,0,2,noun_phrase,0.400,False,False
+no mires,0,2,noun_phrase,0.400,False,False
+¿hacia dónde,0,2,noun_phrase,0.400,False,False
+20 segundos,0,2,noun_phrase,0.400,False,False
+daos prisa.,0,2,noun_phrase,0.400,False,False
+¡abran paso!,0,2,noun_phrase,0.400,False,False
+¿estás nervioso,0,2,noun_phrase,0.400,False,False
+", caray",0,2,noun_phrase,0.400,False,False
+¡maldito seas!,0,2,noun_phrase,0.400,False,False
+"pero, ¿cómo",0,2,noun_phrase,0.400,False,False
+vaya mierda.,0,2,noun_phrase,0.400,False,False
+esta todo,0,2,noun_phrase,0.400,False,False
+tome asiento.,0,2,noun_phrase,0.400,False,False
+¡maldito hijo,0,2,noun_phrase,0.400,False,False
+es mentira,0,2,noun_phrase,0.400,False,False
+qué alivio,0,2,noun_phrase,0.400,False,False
+¿un mes,0,2,noun_phrase,0.400,False,False
+¿pero cómo,0,2,noun_phrase,0.400,False,False
+¿eres tonto?,0,2,noun_phrase,0.400,False,False
+¿tu esposa,0,2,noun_phrase,0.400,False,False
+¡puta madre!,0,2,noun_phrase,0.400,False,False
+mi padre,0,2,noun_phrase,0.400,False,False
+suelta eso.,0,2,noun_phrase,0.400,False,False
+qué tonto,0,2,noun_phrase,0.400,False,False
+¿qué acabas,0,2,noun_phrase,0.400,False,False
+como tú,0,2,noun_phrase,0.400,False,False
+el dinero,0,2,noun_phrase,0.400,False,False
+mucha suerte,0,2,noun_phrase,0.400,False,False
+madre mía.,0,2,noun_phrase,0.400,False,False
+", nada",0,2,noun_phrase,0.400,False,False
+dale tiempo.,0,2,noun_phrase,0.400,False,False
+mi novia,0,2,noun_phrase,0.400,False,False
+una cita,0,2,noun_phrase,0.400,False,False
+la verdad,0,2,noun_phrase,0.400,False,False
+¿su nombre,0,2,noun_phrase,0.400,False,False
+¡al suelo,0,2,noun_phrase,0.400,False,False
+un deseo,0,2,noun_phrase,0.400,False,False
+el sótano,0,2,noun_phrase,0.400,False,False
+una condición,0,2,noun_phrase,0.400,False,False
+"hola, paul.",0,2,noun_phrase,0.400,False,False
+", demonios",0,2,noun_phrase,0.400,False,False
+"vamos, frank",0,2,noun_phrase,0.400,False,False
+¡tras él,0,2,noun_phrase,0.400,False,False
+¿tu nombre,0,2,noun_phrase,0.400,False,False
+un cigarrillo,0,2,noun_phrase,0.400,False,False
+mi esposa,0,2,noun_phrase,0.400,False,False
+"hola, dave.",0,2,noun_phrase,0.400,False,False
+la casa,0,2,noun_phrase,0.400,False,False
+¡alto ahí!,0,2,noun_phrase,0.400,False,False
+y acción,0,2,noun_phrase,0.400,False,False
+", muchachos",0,2,noun_phrase,0.400,False,False
+muchas gracias,0,2,noun_phrase,0.400,False,False
+"hola, henry.",0,2,noun_phrase,0.400,False,False
+buen aspecto,0,2,noun_phrase,0.400,False,False
+¿estás listo?,0,2,noun_phrase,0.400,False,False
+qué casualidad,0,2,noun_phrase,0.400,False,False
+si señor,0,2,noun_phrase,0.400,False,False
+"sí, chef",0,2,noun_phrase,0.400,False,False
+¡mi auto,0,2,noun_phrase,0.400,False,False
+allá voy,0,2,noun_phrase,0.400,False,False
+gran idea,0,2,noun_phrase,0.400,False,False
+¡puta mierda!,0,2,noun_phrase,0.400,False,False
+vaya sorpresa.,0,2,noun_phrase,0.400,False,False
+miren eso.,0,2,noun_phrase,0.400,False,False
+el gusto,0,2,noun_phrase,0.400,False,False
+¡maldito desgraciado,0,2,noun_phrase,0.400,False,False
+aún así...,0,2,noun_phrase,0.400,False,False
+qué edad,0,2,noun_phrase,0.400,False,False
+", hijo",0,2,noun_phrase,0.400,False,False
+problema resuelto,0,2,noun_phrase,0.400,False,False
+buen intento,0,2,noun_phrase,0.400,False,False
+lo juro,0,2,noun_phrase,0.400,False,False
+nada bueno,0,2,noun_phrase,0.400,False,False
+¿que demonios,0,2,noun_phrase,0.400,False,False
+una chica,0,2,noun_phrase,0.400,False,False
+"hola, jimmy.",0,2,noun_phrase,0.400,False,False
+un beso,0,2,noun_phrase,0.400,False,False
+qué belleza,0,2,noun_phrase,0.400,False,False
+"sí, majestad",0,2,noun_phrase,0.400,False,False
+¿y usted,0,2,noun_phrase,0.400,False,False
+¿cómo qué,0,2,noun_phrase,0.400,False,False
+", ¿verdad",0,2,noun_phrase,0.400,False,False
+"no, sam",0,2,noun_phrase,0.400,False,False
+¡perro malo!,0,2,noun_phrase,0.400,False,False
+la cocina,0,2,noun_phrase,0.400,False,False
+excelente idea,0,2,noun_phrase,0.400,False,False
+"favor, ayúdame",0,2,noun_phrase,0.400,False,False
+tienes suerte.,0,2,noun_phrase,0.400,False,False
+una llamada,0,2,noun_phrase,0.400,False,False
+una copa,0,2,noun_phrase,0.400,False,False
+el otro,0,2,noun_phrase,0.400,False,False
+estás equivocado,0,2,noun_phrase,0.400,False,False
+"sí, padre",0,2,noun_phrase,0.400,False,False
+"hola, michael.",0,2,noun_phrase,0.400,False,False
+la encontré,0,2,noun_phrase,0.400,False,False
+¿una cita,0,2,noun_phrase,0.400,False,False
+ninguna manera,0,2,noun_phrase,0.400,False,False
+¿un cigarrillo,0,2,noun_phrase,0.400,False,False
+quieres decir...,0,2,noun_phrase,0.400,False,False
+los odio,0,2,noun_phrase,0.400,False,False
+¿lo entiendes,0,2,noun_phrase,0.400,False,False
+mi familia,0,2,noun_phrase,0.400,False,False
+feliz cumpleaños,0,2,noun_phrase,0.400,False,False
+30 segundos,0,2,noun_phrase,0.400,False,False
+también yo,0,2,noun_phrase,0.400,False,False
+le gustas.,0,2,noun_phrase,0.400,False,False
+"oh, jesús.",0,2,noun_phrase,0.400,False,False
+su tiempo,0,2,noun_phrase,0.400,False,False
+un millón,0,2,noun_phrase,0.400,False,False
+tome esto.,0,2,noun_phrase,0.400,False,False
+¡válgame dios!,0,2,noun_phrase,0.400,False,False
+", ok",0,2,noun_phrase,0.400,False,False
+todos nosotros,0,2,noun_phrase,0.400,False,False
+¡cielo santo!,0,2,noun_phrase,0.400,False,False
+come on.,0,2,noun_phrase,0.400,False,False
+"hola, eddie.",0,2,noun_phrase,0.400,False,False
+la pena,0,2,noun_phrase,0.400,False,False
+", caballeros",0,2,noun_phrase,0.400,False,False
+si quieres,0,2,noun_phrase,0.400,False,False
+tus asuntos,0,2,noun_phrase,0.400,False,False
+"hola, danny.",0,2,noun_phrase,0.400,False,False
+ningún modo,0,2,noun_phrase,0.400,False,False
+un poco,0,2,noun_phrase,0.400,False,False
+mi camino,0,2,noun_phrase,0.400,False,False
+", siéntate",0,2,noun_phrase,0.400,False,False
+"sí, cómo",0,2,noun_phrase,0.400,False,False
+", vete",0,2,noun_phrase,0.400,False,False
+¿a quiénes,0,2,noun_phrase,0.400,False,False
+", tú",0,2,noun_phrase,0.400,False,False
+harry potter.,0,2,noun_phrase,0.400,False,False
+el jueves,0,2,noun_phrase,0.400,False,False
+no salgas,0,2,noun_phrase,0.400,False,False
+¿qué plan,0,2,noun_phrase,0.400,False,False
+¿es suyo,0,2,noun_phrase,0.400,False,False
+como todos,0,2,noun_phrase,0.400,False,False
+sólo tú,0,2,noun_phrase,0.400,False,False
+"no, hijo",0,2,noun_phrase,0.400,False,False
+"hola, guapo.",0,2,noun_phrase,0.400,False,False
+", amor",0,2,noun_phrase,0.400,False,False
+el libro,0,2,noun_phrase,0.400,False,False
+todavía nada,0,2,noun_phrase,0.400,False,False
+pero tú,0,2,noun_phrase,0.400,False,False
+la vista,0,2,noun_phrase,0.400,False,False
+", jefe",0,2,noun_phrase,0.400,False,False
+"bueno, vámonos",0,2,noun_phrase,0.400,False,False
+¿qué cojones,0,2,noun_phrase,0.400,False,False
+tu padre,0,2,noun_phrase,0.400,False,False
+¡maldito sea!,0,2,noun_phrase,0.400,False,False
+una ambulancia,0,2,noun_phrase,0.400,False,False
+el amor,0,2,noun_phrase,0.400,False,False
+estás borracho.,0,2,noun_phrase,0.400,False,False
+¿a cuál,0,2,noun_phrase,0.400,False,False
+son hermosos,0,2,noun_phrase,0.400,False,False
+tres días,0,2,noun_phrase,0.400,False,False
+el futuro,0,2,noun_phrase,0.400,False,False
+", sargento",0,2,noun_phrase,0.400,False,False
+¿necesitas dinero,0,2,noun_phrase,0.400,False,False
+", cielo",0,2,noun_phrase,0.400,False,False
+el cambio,0,2,noun_phrase,0.400,False,False
+el nombre,0,2,noun_phrase,0.400,False,False
+no entres,0,2,noun_phrase,0.400,False,False
+un abogado,0,2,noun_phrase,0.400,False,False
+", todos",0,2,noun_phrase,0.400,False,False
+¿un juego,0,2,noun_phrase,0.400,False,False
+au revoir,0,2,noun_phrase,0.400,False,False
+una noche,0,2,noun_phrase,0.400,False,False
+¿qué dices,0,2,noun_phrase,0.400,False,False
+cuántos años,0,2,noun_phrase,0.400,False,False
+tu hijo,0,2,noun_phrase,0.400,False,False
+qué rico,0,2,noun_phrase,0.400,False,False
+¡presenten armas!,0,2,noun_phrase,0.400,False,False
+"hola, george.",0,2,noun_phrase,0.400,False,False
+los veo,0,2,noun_phrase,0.400,False,False
+cuéntamelo todo.,0,2,noun_phrase,0.400,False,False
+disculpa aceptada,0,2,noun_phrase,0.400,False,False
+¿para quién,0,2,noun_phrase,0.400,False,False
+un paseo,0,2,noun_phrase,0.400,False,False
+ten cuidado,0,2,noun_phrase,0.400,False,False
+pues bien.,0,2,noun_phrase,0.400,False,False
+un vistazo,0,2,noun_phrase,0.400,False,False
+todo eso,0,2,noun_phrase,0.400,False,False
+está enfermo,0,2,noun_phrase,0.400,False,False
+iré enseguida,0,2,noun_phrase,0.400,False,False
+mi vida,0,2,noun_phrase,0.400,False,False
+mala idea,0,2,noun_phrase,0.400,False,False
+mucho gusto,0,2,noun_phrase,0.400,False,False
+es suya,0,2,noun_phrase,0.400,False,False
+tres veces,0,2,noun_phrase,0.400,False,False
+como digas,0,2,noun_phrase,0.400,False,False
+"no, papá",0,2,noun_phrase,0.400,False,False
+¿en dónde,0,2,noun_phrase,0.400,False,False
+¿qué deseas,0,2,noun_phrase,0.400,False,False
+mire eso.,0,2,noun_phrase,0.400,False,False
+¿y éste,0,2,noun_phrase,0.400,False,False
+qué idiota,0,2,noun_phrase,0.400,False,False
+otro día,0,2,noun_phrase,0.400,False,False
+¿cuánto quieres,0,2,noun_phrase,0.400,False,False
+mucho miedo,0,2,noun_phrase,0.400,False,False
+"hola, preciosa.",0,2,noun_phrase,0.400,False,False
+"no, yo",0,2,noun_phrase,0.400,False,False
+¿con qué,0,2,noun_phrase,0.400,False,False
+fuiste tú.,0,2,noun_phrase,0.400,False,False
+¿sabías eso?,0,2,noun_phrase,0.400,False,False
+el hospital,0,2,noun_phrase,0.400,False,False
+la cama,0,2,noun_phrase,0.400,False,False
+o algo,0,2,noun_phrase,0.400,False,False
+qué día,0,2,noun_phrase,0.400,False,False
+el niño,0,2,noun_phrase,0.400,False,False
+el estilo,0,2,noun_phrase,0.400,False,False
+su señoría,0,2,noun_phrase,0.400,False,False
+"¡eh, eh!",0,2,noun_phrase,0.400,False,False
+fue idea,0,2,noun_phrase,0.400,False,False
+el coche,0,2,noun_phrase,0.400,False,False
+¿qué miras,0,2,noun_phrase,0.400,False,False
+no toques,0,2,noun_phrase,0.400,False,False
+maldito idiota,0,2,noun_phrase,0.400,False,False
+¿qué gente,0,2,noun_phrase,0.400,False,False
+suena genial,0,2,noun_phrase,0.400,False,False
+los ángeles,0,2,noun_phrase,0.400,False,False
+una foto,0,2,noun_phrase,0.400,False,False
+un favor,0,2,noun_phrase,0.400,False,False
+¿la amas,0,2,noun_phrase,0.400,False,False
+el viernes,0,2,noun_phrase,0.400,False,False
+¿la encontraste,0,2,noun_phrase,0.400,False,False
+mi héroe,0,2,noun_phrase,0.400,False,False
+otro momento,0,2,noun_phrase,0.400,False,False
+¡le di!,0,2,noun_phrase,0.400,False,False
+una bomba,0,2,noun_phrase,0.400,False,False
+¿adónde vais,0,2,noun_phrase,0.400,False,False
+¡abran fuego!,0,2,noun_phrase,0.400,False,False
+"entonces, ¿qué",0,2,noun_phrase,0.400,False,False
+"sí, tú",0,2,noun_phrase,0.400,False,False
+¿a donde,0,2,noun_phrase,0.400,False,False
+¿un error,0,2,noun_phrase,0.400,False,False
+heil hitler.,0,2,noun_phrase,0.400,False,False
+estamos listos,0,2,noun_phrase,0.400,False,False
+cierto modo,0,2,noun_phrase,0.400,False,False
+"favor, siéntense",0,2,noun_phrase,0.400,False,False
+el teléfono,0,2,noun_phrase,0.400,False,False
+algunas veces,0,2,noun_phrase,0.400,False,False
+sólo bromeo,0,2,noun_phrase,0.400,False,False
+", sam",0,2,noun_phrase,0.400,False,False
+", perdón",0,2,noun_phrase,0.400,False,False
+cualquier momento,0,2,noun_phrase,0.400,False,False
+nada especial,0,2,noun_phrase,0.400,False,False
+del espíritu,0,2,noun_phrase,0.400,False,False
+¿estas loco,0,2,noun_phrase,0.400,False,False
+"hola, bob.",0,2,noun_phrase,0.400,False,False
+¿qué cuentas,0,2,noun_phrase,0.400,False,False
+el sol,0,2,noun_phrase,0.400,False,False
+buena pinta,0,2,noun_phrase,0.400,False,False
+no comprendes,0,2,noun_phrase,0.400,False,False
+una disculpa,0,2,noun_phrase,0.400,False,False
+5 minutos,0,2,noun_phrase,0.400,False,False
+sólo yo,0,2,noun_phrase,0.400,False,False
+ninguna forma,0,2,noun_phrase,0.400,False,False
+"no, amigo",0,2,noun_phrase,0.400,False,False
+"hey, chicos",0,2,noun_phrase,0.400,False,False
+fue ella,0,2,noun_phrase,0.400,False,False
+"sí, papá",0,2,noun_phrase,0.400,False,False
+"vamos, john",0,2,noun_phrase,0.400,False,False
+algún día,0,2,noun_phrase,0.400,False,False
+sus armas,0,2,noun_phrase,0.400,False,False
+nada serio,0,2,noun_phrase,0.400,False,False
+¿lo conoces,0,2,noun_phrase,0.400,False,False
+yo primero,0,2,noun_phrase,0.400,False,False
+qué tal,0,2,noun_phrase,0.400,False,False
+buen chico,0,2,noun_phrase,0.400,False,False
+y usted,0,2,noun_phrase,0.400,False,False
+¿qué decías,0,2,noun_phrase,0.400,False,False
+la calma,0,2,noun_phrase,0.400,False,False
+tres meses,0,2,noun_phrase,0.400,False,False
+ahora regreso,0,2,noun_phrase,0.400,False,False
+¿estás ciego,0,2,noun_phrase,0.400,False,False
+el momento,0,2,noun_phrase,0.400,False,False
+¿de verdad,0,2,noun_phrase,0.400,False,False
+es papá,0,2,noun_phrase,0.400,False,False
+la gente,0,2,noun_phrase,0.400,False,False
+¿el qué,0,2,noun_phrase,0.400,False,False
+no fumo,0,2,noun_phrase,0.400,False,False
+", diablos",0,2,noun_phrase,0.400,False,False
+es esta,0,2,noun_phrase,0.400,False,False
+"hola, peter.",0,2,noun_phrase,0.400,False,False
+un milagro,0,2,noun_phrase,0.400,False,False
+¿no qué,0,2,noun_phrase,0.400,False,False
+mi mujer,0,2,noun_phrase,0.400,False,False
+la noche,0,2,noun_phrase,0.400,False,False
+tú eliges.,0,2,noun_phrase,0.400,False,False
+"sí, señoría",0,2,noun_phrase,0.400,False,False
+ninguna parte,0,2,noun_phrase,0.400,False,False
+¿sobre mí,0,2,noun_phrase,0.400,False,False
+¿qué esperas,0,2,noun_phrase,0.400,False,False
+tu día,0,2,noun_phrase,0.400,False,False
+¿para mi,0,2,noun_phrase,0.400,False,False
+estuviste genial,0,2,noun_phrase,0.400,False,False
+ese hijo,0,2,noun_phrase,0.400,False,False
+¿y nosotros,0,2,noun_phrase,0.400,False,False
+el sr,0,2,noun_phrase,0.400,False,False
+buen hombre,0,2,noun_phrase,0.400,False,False
+el pánico,0,2,noun_phrase,0.400,False,False
+mi papá,0,2,noun_phrase,0.400,False,False
+es broma,0,2,noun_phrase,0.400,False,False
+lamento oír,0,2,noun_phrase,0.400,False,False
+tal vez.,0,2,noun_phrase,0.400,False,False
+¿qué viste,0,2,noun_phrase,0.400,False,False
+¿quieres café?,0,2,noun_phrase,0.400,False,False
+dos segundos,0,2,noun_phrase,0.400,False,False
+soy periodista,0,2,noun_phrase,0.400,False,False
+¡todos fuera!,0,2,noun_phrase,0.400,False,False
+tened cuidado.,0,2,noun_phrase,0.400,False,False
+miren esto.,0,2,noun_phrase,0.400,False,False
+", maría",0,2,noun_phrase,0.400,False,False
+"hola, mary.",0,2,noun_phrase,0.400,False,False
+¿quiénes sois?,0,2,noun_phrase,0.400,False,False
+una cosa,0,2,noun_phrase,0.400,False,False
+¿qué cosas,0,2,noun_phrase,0.400,False,False
+", amiguito",0,2,noun_phrase,0.400,False,False
+como desees,0,2,noun_phrase,0.400,False,False
+¿recuerdas esto,0,2,noun_phrase,0.400,False,False
+sus órdenes,0,2,noun_phrase,0.400,False,False
+santo cielo,0,2,noun_phrase,0.400,False,False
+qué maravilla,0,2,noun_phrase,0.400,False,False
+hijo de...,0,2,noun_phrase,0.400,False,False
+algo parecido,0,2,noun_phrase,0.400,False,False
+ese hombre,0,2,noun_phrase,0.400,False,False
+"ah, hola",0,2,noun_phrase,0.400,False,False
+ningún lado,0,2,noun_phrase,0.400,False,False
+", mierda",0,2,noun_phrase,0.400,False,False
+tuve suerte.,0,2,noun_phrase,0.400,False,False
+nada importante,0,2,noun_phrase,0.400,False,False
+alerta roja,0,2,noun_phrase,0.400,False,False
+"hola, nena.",0,2,noun_phrase,0.400,False,False
+dos años,0,2,noun_phrase,0.400,False,False
+otra ocasión,0,2,noun_phrase,0.400,False,False
+¿tu hermana,0,2,noun_phrase,0.400,False,False
+¿y ustedes,0,2,noun_phrase,0.400,False,False
+maldito imbécil,0,2,noun_phrase,0.400,False,False
+¿con él,0,2,noun_phrase,0.400,False,False
+¿cómo estas,0,2,noun_phrase,0.400,False,False
+un montón,0,2,noun_phrase,0.400,False,False
+¿el baño,0,2,noun_phrase,0.400,False,False
+permiso concedido,0,2,noun_phrase,0.400,False,False
+10 minutos,0,2,noun_phrase,0.400,False,False
+¿la ves,0,2,noun_phrase,0.400,False,False
+todos ustedes,0,2,noun_phrase,0.400,False,False
+buen provecho,0,2,noun_phrase,0.400,False,False
+ponte esto,0,2,noun_phrase,0.400,False,False
+ahí lo,0,2,noun_phrase,0.400,False,False
+¿tu hermano,0,2,noun_phrase,0.400,False,False
+el pico,0,2,noun_phrase,0.400,False,False
+qué emoción,0,2,noun_phrase,0.400,False,False
+qué mal,0,2,noun_phrase,0.400,False,False
+sólo una,0,2,noun_phrase,0.400,False,False
+mi novio,0,2,noun_phrase,0.400,False,False
+que tú,0,2,noun_phrase,0.400,False,False
+dos horas,0,2,noun_phrase,0.400,False,False
+mi culpa,0,2,noun_phrase,0.400,False,False
+esta canción,0,2,noun_phrase,0.400,False,False
+¿estás celoso,0,2,noun_phrase,0.400,False,False
+¿tienes familia,0,2,noun_phrase,0.400,False,False
+¡oh mierda!,0,2,noun_phrase,0.400,False,False
+algún problema,0,2,noun_phrase,0.400,False,False
+¡qué vergüenza,0,2,noun_phrase,0.400,False,False
+¿qué carajos,0,2,noun_phrase,0.400,False,False
+la muerte,0,2,noun_phrase,0.400,False,False
+sus apuestas,0,2,noun_phrase,0.400,False,False
+¿los conoces,0,2,noun_phrase,0.400,False,False
+"gracias, frank",0,2,noun_phrase,0.400,False,False
+"tranquilo, tranquilo",0,2,noun_phrase,0.400,False,False
+¿el fbi,0,2,noun_phrase,0.400,False,False
+"hola, joe.",0,2,noun_phrase,0.400,False,False
+jaque mate.,0,2,noun_phrase,0.400,False,False
+"hola, max.",0,2,noun_phrase,0.400,False,False
+un día,0,2,noun_phrase,0.400,False,False
+¿como qué,0,2,noun_phrase,0.400,False,False
+mazel tov.,0,2,noun_phrase,0.400,False,False
+¿qué día,0,2,noun_phrase,0.400,False,False
+mis hijos,0,2,noun_phrase,0.400,False,False
+buenas tardes,0,2,noun_phrase,0.400,False,False
+¿a ti,0,2,noun_phrase,0.400,False,False
+¿y cuál,0,2,noun_phrase,0.400,False,False
+un bebé,0,2,noun_phrase,0.400,False,False
+iré yo.,0,2,noun_phrase,0.400,False,False
+el jefe,0,2,noun_phrase,0.400,False,False
+"no, señora",0,2,noun_phrase,0.400,False,False
+"sí, capitán",0,2,noun_phrase,0.400,False,False
+la mayoría,0,2,noun_phrase,0.400,False,False
+este lugar,0,2,noun_phrase,0.400,False,False
+es mía,0,2,noun_phrase,0.400,False,False
+"gracias, jack",0,2,noun_phrase,0.400,False,False
+la sesión,0,2,noun_phrase,0.400,False,False
+iré contigo.,0,2,noun_phrase,0.400,False,False
+qué locura,0,2,noun_phrase,0.400,False,False
+tienes fiebre.,0,2,noun_phrase,0.400,False,False
+qué diablos,0,2,noun_phrase,0.400,False,False
+mi mensaje,0,2,noun_phrase,0.400,False,False
+está conmigo,0,2,noun_phrase,0.400,False,False
+cualquier cosa,0,2,noun_phrase,0.400,False,False
+dos meses,0,2,noun_phrase,0.400,False,False
+que movernos,0,2,noun_phrase,0.400,False,False
+buen día,0,2,noun_phrase,0.400,False,False
+estás preciosa,0,2,noun_phrase,0.400,False,False
+¿qué aspecto,0,2,noun_phrase,0.400,False,False
+un par,0,2,noun_phrase,0.400,False,False
+¿una carta,0,2,noun_phrase,0.400,False,False
+el juego,0,2,noun_phrase,0.400,False,False
+debes irte,0,2,noun_phrase,0.400,False,False
+deberías irte,0,2,noun_phrase,0.400,False,False
+¿qué lees,0,2,noun_phrase,0.400,False,False
+los otros,0,2,noun_phrase,0.400,False,False
+"hola, steve.",0,2,noun_phrase,0.400,False,False
+mi esposo,0,2,noun_phrase,0.400,False,False
+su hermana,0,2,noun_phrase,0.400,False,False
+la voz,0,2,noun_phrase,0.400,False,False
+el sábado,0,2,noun_phrase,0.400,False,False
+feliz navidad.,0,2,noun_phrase,0.400,False,False
+otra opción,0,2,noun_phrase,0.400,False,False
+tú sí.,0,2,noun_phrase,0.400,False,False
+no entiendes,0,2,noun_phrase,0.400,False,False
+"no, mamá",0,2,noun_phrase,0.400,False,False
+mi trabajo,0,2,noun_phrase,0.400,False,False
+su alteza,0,2,noun_phrase,0.400,False,False
+estás genial,0,2,noun_phrase,0.400,False,False
+oh dios.,0,2,noun_phrase,0.400,False,False
+¿qué rayos,0,2,noun_phrase,0.400,False,False
+dos minutos,0,2,noun_phrase,0.400,False,False
+", muchacho",0,2,noun_phrase,0.400,False,False
+la pared,0,2,noun_phrase,0.400,False,False
+es navidad,0,2,noun_phrase,0.400,False,False
+dese prisa.,0,2,noun_phrase,0.400,False,False
+mi mamá,0,2,noun_phrase,0.400,False,False
+qué sorpresa,0,2,noun_phrase,0.400,False,False
+¿mi nombre,0,2,noun_phrase,0.400,False,False
+qué coño,0,2,noun_phrase,0.400,False,False
+mi señora,0,2,noun_phrase,0.400,False,False
+"hola, charlie.",0,2,noun_phrase,0.400,False,False
+no miento,0,2,noun_phrase,0.400,False,False
+¿sobre qué,0,2,noun_phrase,0.400,False,False
+¿qué mujer,0,2,noun_phrase,0.400,False,False
+¿que cosa,0,2,noun_phrase,0.400,False,False
+muchas cosas,0,2,noun_phrase,0.400,False,False
+", chicos",0,2,noun_phrase,0.400,False,False
+tampoco yo,0,2,noun_phrase,0.400,False,False
+buen muchacho,0,2,noun_phrase,0.400,False,False
+yo tambien,0,2,noun_phrase,0.400,False,False
+¿ves eso,0,2,noun_phrase,0.400,False,False
+es mamá,0,2,noun_phrase,0.400,False,False
+date vuelta,0,2,noun_phrase,0.400,False,False
+mi marido,0,2,noun_phrase,0.400,False,False
+¿y ud.,0,2,noun_phrase,0.400,False,False
+"no, ¿qué",0,2,noun_phrase,0.400,False,False
+¡maldita perra!,0,2,noun_phrase,0.400,False,False
+dios santo,0,2,noun_phrase,0.400,False,False
+eres buena,0,2,noun_phrase,0.400,False,False
+¿que quieres,0,2,noun_phrase,0.400,False,False
+"sí, yo",0,2,noun_phrase,0.400,False,False
+"vamos, charlie",0,2,noun_phrase,0.400,False,False
+¿el que,0,2,noun_phrase,0.400,False,False
+james bond.,0,2,noun_phrase,0.400,False,False
+eso intento,0,2,noun_phrase,0.400,False,False
+una idea,0,2,noun_phrase,0.400,False,False
+"hola, johnny.",0,2,noun_phrase,0.400,False,False
+media hora,0,2,noun_phrase,0.400,False,False
+qué tierno,0,2,noun_phrase,0.400,False,False
+dímelo tú.,0,2,noun_phrase,0.400,False,False
+"sí, señora",0,2,noun_phrase,0.400,False,False
+¿la qué,0,2,noun_phrase,0.400,False,False
+mi espalda,0,2,noun_phrase,0.400,False,False
+"si, yo",0,2,noun_phrase,0.400,False,False
+el final,0,2,noun_phrase,0.400,False,False
+mi hombre,0,2,noun_phrase,0.400,False,False
+una lástima,0,2,noun_phrase,0.400,False,False
+mis padres,0,2,noun_phrase,0.400,False,False
+hacerte daño,0,2,noun_phrase,0.400,False,False
+¿qué hora,0,2,noun_phrase,0.400,False,False
+", hombre",0,2,noun_phrase,0.400,False,False
+"oh, mira",0,2,noun_phrase,0.400,False,False
+el auto,0,2,noun_phrase,0.400,False,False
+", capitán",0,2,noun_phrase,0.400,False,False
+el cuerpo,0,2,noun_phrase,0.400,False,False
+dejame ver.,0,2,noun_phrase,0.400,False,False
+¿y tu,0,2,noun_phrase,0.400,False,False
+mirad esto.,0,2,noun_phrase,0.400,False,False
+la cuenta,0,2,noun_phrase,0.400,False,False
+el resto,0,2,noun_phrase,0.400,False,False
+esta bien,0,2,noun_phrase,0.400,False,False
+no llores,0,2,noun_phrase,0.400,False,False
+¿la mataste,0,2,noun_phrase,0.400,False,False
+todos juntos,0,2,noun_phrase,0.400,False,False
+que asco,0,2,noun_phrase,0.400,False,False
+¿tu crees,0,2,noun_phrase,0.400,False,False
+date prisa,0,2,noun_phrase,0.400,False,False
+¿hablas inglés,0,2,noun_phrase,0.400,False,False
+qué lindo,0,2,noun_phrase,0.400,False,False
+estoy contigo,0,2,noun_phrase,0.400,False,False
+solo uno.,0,2,noun_phrase,0.400,False,False
+yo... yo,0,2,noun_phrase,0.400,False,False
+¿como estas,0,2,noun_phrase,0.400,False,False
+número uno.,0,2,noun_phrase,0.400,False,False
+¡maldita puta!,0,2,noun_phrase,0.400,False,False
+las cosas,0,2,noun_phrase,0.400,False,False
+mi nombre,0,2,noun_phrase,0.400,False,False
+diez segundos,0,2,noun_phrase,0.400,False,False
+las llaves,0,2,noun_phrase,0.400,False,False
+que duermas,0,2,noun_phrase,0.400,False,False
+qué gusto,0,2,noun_phrase,0.400,False,False
+su hija,0,2,noun_phrase,0.400,False,False
+esta mañana,0,2,noun_phrase,0.400,False,False
+una diferencia,0,2,noun_phrase,0.400,False,False
+esta muerto,0,2,noun_phrase,0.400,False,False
+¿que hora,0,2,noun_phrase,0.400,False,False
+no cambies,0,2,noun_phrase,0.400,False,False
+la mitad,0,2,noun_phrase,0.400,False,False
+¡dense prisa!,0,2,noun_phrase,0.400,False,False
+el fuego,0,2,noun_phrase,0.400,False,False
+sólo eso,0,2,noun_phrase,0.400,False,False
+estos subtítulos,0,2,noun_phrase,0.400,False,False
+yo solo,0,2,noun_phrase,0.400,False,False
+un lado,0,2,noun_phrase,0.400,False,False
+¿alguna vez,0,2,noun_phrase,0.400,False,False
+feliz cumpleaños.,0,2,noun_phrase,0.400,False,False
+no jodas,0,2,noun_phrase,0.400,False,False
+¿por quién,0,2,noun_phrase,0.400,False,False
+un plan,0,2,noun_phrase,0.400,False,False
+¿lo conseguiste,0,2,noun_phrase,0.400,False,False
+agárrate fuerte,0,2,noun_phrase,0.400,False,False
+"no, cariño",0,2,noun_phrase,0.400,False,False
+¿necesitan ayuda?,0,2,noun_phrase,0.400,False,False
+soy abogado,0,2,noun_phrase,0.400,False,False
+buen trabajo,0,2,noun_phrase,0.400,False,False
+su padre,0,2,noun_phrase,0.400,False,False
+¡qué noche,0,2,noun_phrase,0.400,False,False
+"bien, vámonos",0,2,noun_phrase,0.400,False,False
+dos veces,0,2,noun_phrase,0.400,False,False
+", niños",0,2,noun_phrase,0.400,False,False
+una serie,0,2,noun_phrase,0.400,False,False
+su testigo,0,2,noun_phrase,0.400,False,False
+malas noticias,0,2,noun_phrase,0.400,False,False
+sus puestos,0,2,noun_phrase,0.400,False,False
+la escuela,0,2,noun_phrase,0.400,False,False
+"hola, tony.",0,2,noun_phrase,0.400,False,False
+hola amigo.,0,2,noun_phrase,0.400,False,False
+", eso",0,2,noun_phrase,0.400,False,False
+qué desperdicio,0,2,noun_phrase,0.400,False,False
+un fantasma,0,2,noun_phrase,0.400,False,False
+ese mismo,0,2,noun_phrase,0.400,False,False
+encontré esto,0,2,noun_phrase,0.400,False,False
+la respuesta,0,2,noun_phrase,0.400,False,False
+¿y esto,0,2,noun_phrase,0.400,False,False
+"favor, dios",0,2,noun_phrase,0.400,False,False
+"no, eso",0,2,noun_phrase,0.400,False,False
+¿qué encontraste,0,2,noun_phrase,0.400,False,False
+hijo mío.,0,2,noun_phrase,0.400,False,False
+una sorpresa,0,2,noun_phrase,0.400,False,False
+más preguntas,0,2,noun_phrase,0.400,False,False
+", chico",0,2,noun_phrase,0.400,False,False
+¿eso qué,0,2,noun_phrase,0.400,False,False
+mi amigo,0,2,noun_phrase,0.400,False,False
+tu trabajo,0,2,noun_phrase,0.400,False,False
+¡maldito bastardo!,0,2,noun_phrase,0.400,False,False
+esa chica,0,2,noun_phrase,0.400,False,False
+¿un trago,0,2,noun_phrase,0.400,False,False
+el lunes,0,2,noun_phrase,0.400,False,False
+: ilse,0,2,noun_phrase,0.400,False,False
+muchas veces,0,2,noun_phrase,0.400,False,False
+cuento contigo.,0,2,noun_phrase,0.400,False,False
+tus padres,0,2,noun_phrase,0.400,False,False
+"hola, querido",0,2,noun_phrase,0.400,False,False
+"hola, ben.",0,2,noun_phrase,0.400,False,False
+¿la policía,0,2,noun_phrase,0.400,False,False
+"hola, john.",0,2,noun_phrase,0.400,False,False
+"hola, chris.",0,2,noun_phrase,0.400,False,False
+qué mierda,0,2,noun_phrase,0.400,False,False
+¿estás celosa,0,2,noun_phrase,0.400,False,False
+¿para mí,0,2,noun_phrase,0.400,False,False
+qué miedo,0,2,noun_phrase,0.400,False,False
+sólo uno,0,2,noun_phrase,0.400,False,False
+un gusto,0,2,noun_phrase,0.400,False,False
+otra vez,0,2,noun_phrase,0.400,False,False
+¿estás lista,0,2,noun_phrase,0.400,False,False
+tu turno,0,2,noun_phrase,0.400,False,False
+lo pillo,0,2,noun_phrase,0.400,False,False
+¿qué paso,0,2,noun_phrase,0.400,False,False
+¿eres policía?,0,2,noun_phrase,0.400,False,False
+su atención,0,2,noun_phrase,0.400,False,False
+una mierda,0,2,noun_phrase,0.400,False,False
+ese tipo,0,2,noun_phrase,0.400,False,False
+siete años,0,2,noun_phrase,0.400,False,False
+todas formas,0,2,noun_phrase,0.400,False,False
+qué encantador,0,2,noun_phrase,0.400,False,False
+qué horror,0,2,noun_phrase,0.400,False,False
+qué ridículo,0,2,noun_phrase,0.400,False,False
+20 minutos,0,2,noun_phrase,0.400,False,False
+un hijo,0,2,noun_phrase,0.400,False,False
+una pesadilla,0,2,noun_phrase,0.400,False,False
+mi casa,0,2,noun_phrase,0.400,False,False
+qué coincidencia,0,2,noun_phrase,0.400,False,False
+ningún sentido,0,2,noun_phrase,0.400,False,False
+¿la viste,0,2,noun_phrase,0.400,False,False
+esta vez,0,2,noun_phrase,0.400,False,False
+llévame contigo.,0,2,noun_phrase,0.400,False,False
+otra manera,0,2,noun_phrase,0.400,False,False
+la puta,0,2,noun_phrase,0.400,False,False
+eso apesta,0,2,noun_phrase,0.400,False,False
+sabes eso,0,2,noun_phrase,0.400,False,False
+¿y él,0,2,noun_phrase,0.400,False,False
+"no, tío",0,2,noun_phrase,0.400,False,False
+¿qué dinero,0,2,noun_phrase,0.400,False,False
+y tú,0,2,noun_phrase,0.400,False,False
+¿quién demonios,0,2,noun_phrase,0.400,False,False
+"sí, mamá",0,2,noun_phrase,0.400,False,False
+¿qué averiguaste,0,2,noun_phrase,0.400,False,False
+una vuelta,0,2,noun_phrase,0.400,False,False
+¿hasta cuándo,0,2,noun_phrase,0.400,False,False
+ahí esta,0,2,noun_phrase,0.400,False,False
+una amiga,0,2,noun_phrase,0.400,False,False
+qué suerte,0,2,noun_phrase,0.400,False,False
+¿qué hombre,0,2,noun_phrase,0.400,False,False
+gran trabajo,0,2,noun_phrase,0.400,False,False
+"¡hey, tú",0,2,noun_phrase,0.400,False,False
+"sí, cariño",0,2,noun_phrase,0.400,False,False
+¿lo reconoces,0,2,noun_phrase,0.400,False,False
+"no, olvídalo",0,2,noun_phrase,0.400,False,False
+la policía,0,2,noun_phrase,0.400,False,False
+¿de mí,0,2,noun_phrase,0.400,False,False
+mi bebé,0,2,noun_phrase,0.400,False,False
+mi señor,0,2,noun_phrase,0.400,False,False
+yo manejo.,0,2,noun_phrase,0.400,False,False
+qué sentido,0,2,noun_phrase,0.400,False,False
+el mismo,0,2,noun_phrase,0.400,False,False
+¡rompan filas!,0,2,noun_phrase,0.400,False,False
+"sí, sargento",0,2,noun_phrase,0.400,False,False
+una locura,0,2,noun_phrase,0.400,False,False
+¡al piso,0,2,noun_phrase,0.400,False,False
+ni uno,0,2,noun_phrase,0.400,False,False
+¿una qué,0,2,noun_phrase,0.400,False,False
+la tierra,0,2,noun_phrase,0.400,False,False
+pues yo,0,2,noun_phrase,0.400,False,False
+"favor, papá",0,2,noun_phrase,0.400,False,False
+", maldición",0,2,noun_phrase,0.400,False,False
+on line,0,2,noun_phrase,0.400,False,False
+no todo,0,2,noun_phrase,0.400,False,False
+mucho dinero,0,2,noun_phrase,0.400,False,False
+"vamos, jack",0,2,noun_phrase,0.400,False,False
+"acuerdo, gracias",0,2,noun_phrase,0.400,False,False
+¡mi pierna,0,2,noun_phrase,0.400,False,False
+un café,0,2,noun_phrase,0.400,False,False
+"oh, mi...",0,2,noun_phrase,0.400,False,False
+", mike",0,2,noun_phrase,0.400,False,False
+es tuyo,0,2,noun_phrase,0.400,False,False
+su ayuda,0,2,noun_phrase,0.400,False,False
+lo aprecio,0,2,noun_phrase,0.400,False,False
+excelente trabajo,0,2,noun_phrase,0.400,False,False
+¿qué cosa,0,2,noun_phrase,0.400,False,False
+qué demonios,0,2,noun_phrase,0.400,False,False
+¡mi mano,0,2,noun_phrase,0.400,False,False
+tú eres...,0,2,noun_phrase,0.400,False,False
+seis meses,0,2,noun_phrase,0.400,False,False
+¿mi qué,0,2,noun_phrase,0.400,False,False
+un segundo,0,2,noun_phrase,0.400,False,False
+mi hermana,0,2,noun_phrase,0.400,False,False
+la izquierda,0,2,noun_phrase,0.400,False,False
+¿qué harías,0,2,noun_phrase,0.400,False,False
+¿estás sola?,0,2,noun_phrase,0.400,False,False
+"sí, amigo",0,2,noun_phrase,0.400,False,False
+diez años,0,2,noun_phrase,0.400,False,False
+algo malo,0,2,noun_phrase,0.400,False,False
+tres semanas,0,2,noun_phrase,0.400,False,False
+qué desastre,0,2,noun_phrase,0.400,False,False
+esa mirada,0,2,noun_phrase,0.400,False,False
+es nuestro,0,2,noun_phrase,0.400,False,False
+un chico,0,2,noun_phrase,0.400,False,False
+tu hermano,0,2,noun_phrase,0.400,False,False
+su esposa,0,2,noun_phrase,0.400,False,False
+¡qué barbaridad,0,2,noun_phrase,0.400,False,False
+"ah, eso",0,2,noun_phrase,0.400,False,False
+", calma",0,2,noun_phrase,0.400,False,False
+un monstruo,0,2,noun_phrase,0.400,False,False
+", papá",0,2,noun_phrase,0.400,False,False
+porque yo,0,2,noun_phrase,0.400,False,False
+un poquito,0,2,noun_phrase,0.400,False,False
+la veo,0,2,noun_phrase,0.400,False,False
+llegas temprano,0,2,noun_phrase,0.400,False,False
+un dólar,0,2,noun_phrase,0.400,False,False
+estás equivocada.,0,2,noun_phrase,0.400,False,False
+¡qué alegría,0,2,noun_phrase,0.400,False,False
+ni idea,0,2,noun_phrase,0.400,False,False
+seis años,0,2,noun_phrase,0.400,False,False
+tenías razón.,0,2,noun_phrase,0.400,False,False
+"hola, hola,",0,2,noun_phrase,0.400,False,False
+cada día,0,2,noun_phrase,0.400,False,False
+¿que diablos,0,2,noun_phrase,0.400,False,False
+señor presidente,0,2,noun_phrase,0.400,False,False
+todas partes,0,2,noun_phrase,0.400,False,False
+buen punto,0,2,noun_phrase,0.400,False,False
+su permiso,0,2,noun_phrase,0.400,False,False
+la quiero,0,2,noun_phrase,0.400,False,False
+", abuelo",0,2,noun_phrase,0.400,False,False
+un ganador,0,2,noun_phrase,0.400,False,False
+¿estas loca,0,2,noun_phrase,0.400,False,False
+"gracias, charlie",0,2,noun_phrase,0.400,False,False
+¿y ella,0,2,noun_phrase,0.400,False,False
+"favor, mamá",0,2,noun_phrase,0.400,False,False
+qué extraño,0,2,noun_phrase,0.400,False,False
+este hombre,0,2,noun_phrase,0.400,False,False
+", cariño",0,2,noun_phrase,0.400,False,False
+", dios",0,2,noun_phrase,0.400,False,False
+la orden,0,2,noun_phrase,0.400,False,False
+", gracias",0,2,noun_phrase,0.400,False,False
+"gracias, querida",0,2,noun_phrase,0.400,False,False
+", doctor",0,2,noun_phrase,0.400,False,False
+"hola, harry.",0,2,noun_phrase,0.400,False,False
+mantenme informado,0,2,noun_phrase,0.400,False,False
+mucho tiempo,0,2,noun_phrase,0.400,False,False
+este tipo,0,2,noun_phrase,0.400,False,False
+lee esto.,0,2,noun_phrase,0.400,False,False
+"no, nada",0,2,noun_phrase,0.400,False,False
+¿lo harías,0,2,noun_phrase,0.400,False,False
+y gracias,0,2,noun_phrase,0.400,False,False
+¿la quieres,0,2,noun_phrase,0.400,False,False
+¿un café,0,2,noun_phrase,0.400,False,False
+buen viaje,0,2,noun_phrase,0.400,False,False
+"no, mira",0,2,noun_phrase,0.400,False,False
+la vida,0,2,noun_phrase,0.400,False,False
+¿desde cuándo,0,2,noun_phrase,0.400,False,False
+¿qué hacías,0,2,noun_phrase,0.400,False,False
+un tiempo,0,2,noun_phrase,0.400,False,False
+"hola, señora.",0,2,noun_phrase,0.400,False,False
+¿qué sugieres,0,2,noun_phrase,0.400,False,False
+su salud,0,2,noun_phrase,0.400,False,False
+sé amable.,0,2,noun_phrase,0.400,False,False
+es hora,0,2,noun_phrase,0.400,False,False
+su excelencia,0,2,noun_phrase,0.400,False,False
+amigo mío.,0,2,noun_phrase,0.400,False,False
+eso seguro,0,2,noun_phrase,0.400,False,False
+déjame sola,0,2,noun_phrase,0.400,False,False
+un minuto,0,2,noun_phrase,0.400,False,False
+muchísimas gracias.,0,2,noun_phrase,0.400,False,False
+mi vista,0,2,noun_phrase,0.400,False,False
+su nombre,0,2,noun_phrase,0.400,False,False
+", ¿cómo",0,2,noun_phrase,0.400,False,False
+¿alguna noticia,0,2,noun_phrase,0.400,False,False
+¿es esto,0,2,noun_phrase,0.400,False,False
+el desayuno,0,2,noun_phrase,0.400,False,False
+", muévete",0,2,noun_phrase,0.400,False,False
+y yo,0,2,noun_phrase,0.400,False,False
+¿a mí,0,2,noun_phrase,0.400,False,False
+el placer,0,2,noun_phrase,0.400,False,False
+¿estás segura?,0,2,noun_phrase,0.400,False,False
+qué lástima,0,2,noun_phrase,0.400,False,False
+absolutamente nada,0,2,noun_phrase,0.400,False,False
+mi tesoro,0,2,noun_phrase,0.400,False,False
+qué hablas,0,2,noun_phrase,0.400,False,False
+nada malo,0,2,noun_phrase,0.400,False,False
+una oportunidad,0,2,noun_phrase,0.400,False,False
+más tiempo,0,2,noun_phrase,0.400,False,False
+", chicas",0,2,noun_phrase,0.400,False,False
+¿como quién,0,2,noun_phrase,0.400,False,False
+¿todos listos,0,2,noun_phrase,0.400,False,False
+¿tu mamá,0,2,noun_phrase,0.400,False,False
+la cárcel,0,2,noun_phrase,0.400,False,False
+"hola, corazón.",0,2,noun_phrase,0.400,False,False
+el principio,0,2,noun_phrase,0.400,False,False
+¿qué piensas,0,2,noun_phrase,0.400,False,False
+¿estás nerviosa?,0,2,noun_phrase,0.400,False,False
+fue él,0,2,noun_phrase,0.400,False,False
+un momento,0,2,noun_phrase,0.400,False,False
+", yo",0,2,noun_phrase,0.400,False,False
+", amigo",0,2,noun_phrase,0.400,False,False
+"sí, ¿verdad",0,2,noun_phrase,0.400,False,False
+"ay, cielos",0,2,noun_phrase,0.400,False,False
+ocho años,0,2,noun_phrase,0.400,False,False
+", exacto",0,2,noun_phrase,0.400,False,False
+", vámonos",0,2,noun_phrase,0.400,False,False
+¿lo juras,0,2,noun_phrase,0.400,False,False
+¿escuchas eso?,0,2,noun_phrase,0.400,False,False
+las mujeres,0,2,noun_phrase,0.400,False,False
+mucho frío,0,2,noun_phrase,0.400,False,False
+es lo,31,2,ngram,0.300,False,False
+es mi,26,2,ngram,0.300,False,False
+te lo,22,2,ngram,0.300,False,False
+es tu,21,2,ngram,0.300,False,False
+se lo,15,2,ngram,0.300,False,False
+que te,15,2,ngram,0.300,False,False
+me lo,12,2,ngram,0.300,False,False
+¿qué es lo que,6,4,ngram,0.300,False,False
+es todo lo que,5,4,ngram,0.300,False,False
+que ser una broma,0,4,noun_phrase,0.300,False,False
+"no, no lo",23,3,ngram,0.300,False,False
+"no, no, no,",11,3,ngram,0.300,False,False
+no lo sé.,10,3,ngram,0.300,False,False
+es tan,9,2,ngram,0.200,False,False
+pero no,9,2,ngram,0.200,False,False
+es su,7,2,ngram,0.200,False,False
+que lo,7,2,ngram,0.200,False,False
+es para,7,2,ngram,0.200,False,False
+no le,7,2,ngram,0.200,False,False
+y lo,6,2,ngram,0.200,False,False
+que me,6,2,ngram,0.200,False,False
+está en,6,2,ngram,0.200,False,False
+que se,5,2,ngram,0.200,False,False
+a estar,5,2,ngram,0.200,False,False
+está mi,5,2,ngram,0.200,False,False
+voy a,40,2,ngram,0.200,False,False
+tengo que,25,2,ngram,0.200,False,False
+"no, no,",23,2,ngram,0.200,False,False
+no tengo,19,2,ngram,0.200,False,False
+no estoy,19,2,ngram,0.200,False,False
+"no, no.",10,2,ngram,0.200,False,False
+pero no lo,4,3,ngram,0.200,False,False
+sí que lo,0,3,noun_phrase,0.200,False,False
+"no, no, no.",7,3,ngram,0.200,False,False
+"no, no es",6,3,ngram,0.200,False,False
+a la cama.,6,3,ngram,0.200,False,False
+es una buena,6,3,ngram,0.200,False,False
+"no, no, no, no,",6,4,ngram,0.200,False,False
+a la policía.,5,3,ngram,0.200,False,False
+no está bien.,5,3,ngram,0.200,False,False
+"no, no, no, no.",5,4,ngram,0.200,False,False
+está tu,4,2,ngram,0.100,False,False
+se está,4,2,ngram,0.100,False,False
+es por,4,2,ngram,0.100,False,False
+de mi,4,2,ngram,0.100,False,False
+por su,3,2,ngram,0.100,False,False
+están los,3,2,ngram,0.100,False,False
+que no,3,2,ngram,0.100,False,False
+es de,3,2,ngram,0.100,False,False
+sí lo,0,2,noun_phrase,0.100,False,False
+"no, no",51,2,ngram,0.100,False,False
+no tenemos,8,2,ngram,0.100,False,False
+no seas,8,2,ngram,0.100,False,False
+no soy,7,2,ngram,0.100,False,False
+"sí, sí.",5,2,ngram,0.100,False,False
+no lo hagas.,4,3,ngram,0.100,False,False
+no te preocupes.,4,3,ngram,0.100,False,False
+no es asunto,4,3,ngram,0.100,False,False
+es un buen,4,3,ngram,0.100,False,False
+no lo hice.,4,3,ngram,0.100,False,False
+no te preocupes,4,3,ngram,0.100,False,False
+no es nada.,4,3,ngram,0.100,False,False
+no es verdad.,3,3,ngram,0.100,False,False
+no es justo.,3,3,ngram,0.100,False,False
+no es cierto.,3,3,ngram,0.100,False,False
+es un problema.,3,3,ngram,0.100,False,False
+no es culpa,3,3,ngram,0.100,False,False
+no tengo nada,3,3,ngram,0.100,False,False
+es una mierda.,3,3,ngram,0.100,False,False
+no lo hizo.,3,3,ngram,0.100,False,False
+no es necesario.,3,3,ngram,0.100,False,False
+no es bueno.,3,3,ngram,0.100,False,False
+es una locura.,3,3,ngram,0.100,False,False
+no está aquí.,3,3,ngram,0.100,False,False
+no lo creo.,3,3,ngram,0.100,False,False
+no es gracioso.,3,3,ngram,0.100,False,False
+no lo es.,3,3,ngram,0.100,False,False
+no lo hiciste.,3,3,ngram,0.100,False,False
+no lo sabía.,3,3,ngram,0.100,False,False
+no tengo nada que,3,4,ngram,0.100,False,False
+es una buena idea.,3,4,ngram,0.100,False,False
+"no, no, no, no, no.",3,5,ngram,0.100,False,False
+"no, no, no, no, no,",3,5,ngram,0.100,False,False
+es un buen chico,0,4,noun_phrase,0.100,False,False
+es una buena idea,0,4,noun_phrase,0.100,False,False
+es la única manera,0,4,noun_phrase,0.100,False,False
+es un secreto,0,3,noun_phrase,0.100,False,False
+no estoy de humor,0,4,noun_phrase,0.100,False,False
+es un idiota,0,3,noun_phrase,0.100,False,False
+"no, no lo entiendes",0,4,noun_phrase,0.100,False,False
+es una promesa,0,3,noun_phrase,0.100,False,False
+es una emergencia,0,3,noun_phrase,0.100,False,False
+es un sueño,0,3,noun_phrase,0.100,False,False
+es una estupidez,0,3,noun_phrase,0.100,False,False
+no soy como tú,0,4,noun_phrase,0.100,False,False
+es el momento,0,3,noun_phrase,0.100,False,False
+no es buena idea,0,4,noun_phrase,0.100,False,False
+es una niña,0,3,noun_phrase,0.100,False,False
+es una buena chica,0,4,noun_phrase,0.100,False,False
+son las reglas,0,3,noun_phrase,0.100,False,False
+no es él,0,3,noun_phrase,0.100,False,False
+es una cita,0,3,noun_phrase,0.100,False,False
+es un error,0,3,noun_phrase,0.100,False,False
+es la hora,0,3,noun_phrase,0.100,False,False
+no seas idiota,0,3,noun_phrase,0.100,False,False
+no es ella,0,3,noun_phrase,0.100,False,False
+es un problema,0,3,noun_phrase,0.100,False,False
+no es un buen momento,0,5,noun_phrase,0.100,False,False
+es un trato,0,3,noun_phrase,0.100,False,False
+es un truco,0,3,noun_phrase,0.100,False,False
+es un milagro,0,3,noun_phrase,0.100,False,False
+no es nadie,0,3,noun_phrase,0.100,False,False
+es una pesadilla,0,3,noun_phrase,0.100,False,False
+no es eso,0,3,noun_phrase,0.100,False,False
+es un hecho,0,3,noun_phrase,0.100,False,False
+es un placer conocerte,0,4,noun_phrase,0.100,False,False
+"no, no es nada",0,4,noun_phrase,0.100,False,False
+es una señal,0,3,noun_phrase,0.100,False,False
+es una sorpresa,0,3,noun_phrase,0.100,False,False
+no lo mates,0,3,noun_phrase,0.100,False,False
+no eres nada,0,3,noun_phrase,0.100,False,False
+es una fiesta,0,3,noun_phrase,0.100,False,False
+es un alivio,0,3,noun_phrase,0.100,False,False
+no la conoces,0,3,noun_phrase,0.100,False,False
+no lo conoces,0,3,noun_phrase,0.100,False,False
+no lo arruines,0,3,noun_phrase,0.100,False,False
+es un juego,0,3,noun_phrase,0.100,False,False
+no es la gran cosa,0,5,noun_phrase,0.100,False,False
+"no, no es eso",0,4,noun_phrase,0.100,False,False
+es un honor,0,3,noun_phrase,0.100,False,False
+no es nada,0,3,noun_phrase,0.100,False,False
+es la ley,0,3,noun_phrase,0.100,False,False
+no sería la primera vez,0,5,noun_phrase,0.100,False,False
+no es mía,0,3,noun_phrase,0.100,False,False
+no lo entiendes,0,3,noun_phrase,0.100,False,False
+es la policía,0,3,noun_phrase,0.100,False,False
+es una pena,0,3,noun_phrase,0.100,False,False
+"no, no es verdad",0,4,noun_phrase,0.100,False,False
+no esta noche,0,3,noun_phrase,0.100,False,False
+es una mala idea,0,4,noun_phrase,0.100,False,False
+no lo escuches,0,3,noun_phrase,0.100,False,False
+es la primera vez,0,4,noun_phrase,0.100,False,False
+es una gran idea,0,4,noun_phrase,0.100,False,False
+no soy nadie,0,3,noun_phrase,0.100,False,False
+no la toques,0,3,noun_phrase,0.100,False,False
+no es gran cosa,0,4,noun_phrase,0.100,False,False
+es una mujer,0,3,noun_phrase,0.100,False,False
+no lo olvides,0,3,noun_phrase,0.100,False,False
+es una lástima,0,3,noun_phrase,0.100,False,False
+no es problema,0,3,noun_phrase,0.100,False,False
+es un niño,0,3,noun_phrase,0.100,False,False
+es una chica,0,3,noun_phrase,0.100,False,False
+es una tontería,0,3,noun_phrase,0.100,False,False
+es un hombre,0,3,noun_phrase,0.100,False,False
+es un regalo,0,3,noun_phrase,0.100,False,False
+es una locura,0,3,noun_phrase,0.100,False,False
+es una belleza,0,3,noun_phrase,0.100,False,False
+es una larga historia,0,4,noun_phrase,0.100,False,False
+es una bomba,0,3,noun_phrase,0.100,False,False
+es un comienzo,0,3,noun_phrase,0.100,False,False
+no esta vez,0,3,noun_phrase,0.100,False,False
+es una vergüenza,0,3,noun_phrase,0.100,False,False
+es un buen tipo,0,4,noun_phrase,0.100,False,False
+es un genio,0,3,noun_phrase,0.100,False,False
+no es una buena idea,0,5,noun_phrase,0.100,False,False
+no la veo,0,3,noun_phrase,0.100,False,False
+es un monstruo,0,3,noun_phrase,0.100,False,False
+es una pérdida,0,3,noun_phrase,0.100,False,False
+no es verdad,0,3,noun_phrase,0.100,False,False
+es una orden,0,3,noun_phrase,0.100,False,False
+es la verdad,0,3,noun_phrase,0.100,False,False
+es una trampa,0,3,noun_phrase,0.100,False,False
+es una mentira,0,3,noun_phrase,0.100,False,False
+es un desastre,0,3,noun_phrase,0.100,False,False
+es una buena pregunta,0,4,noun_phrase,0.100,False,False
+es la única forma,0,4,noun_phrase,0.100,False,False
+no lo harías,0,3,noun_phrase,0.100,False,False
+es un placer,0,3,noun_phrase,0.100,False,False
+es una posibilidad,0,3,noun_phrase,0.100,False,False
+es el destino,0,3,noun_phrase,0.100,False,False
+no es broma,0,3,noun_phrase,0.100,False,False
+es una mierda,0,3,noun_phrase,0.100,False,False
+no soy gay,0,3,noun_phrase,0.100,False,False
+no es la primera vez,0,5,noun_phrase,0.100,False,False
+no eres tú,0,3,noun_phrase,0.100,False,False
+no es mala idea,0,4,noun_phrase,0.100,False,False
+es un chiste,0,3,noun_phrase,0.100,False,False
+es un amigo,0,3,noun_phrase,0.100,False,False
+no seas ridícula,0,3,noun_phrase,0.100,False,False
+es un policía,0,3,noun_phrase,0.100,False,False
+es un buen hombre,0,4,noun_phrase,0.100,False,False
+no lo,122,2,ngram,0.000,False,False
+no es,91,2,ngram,0.000,False,False
+lo que,79,2,ngram,0.000,False,False
+no me,54,2,ngram,0.000,False,False
+no te,47,2,ngram,0.000,False,False
+es una,40,2,ngram,0.000,False,False
+es un,38,2,ngram,0.000,False,False
+es muy,27,2,ngram,0.000,False,False
+a la,20,2,ngram,0.000,False,False
+es el,20,2,ngram,0.000,False,False
+es la,19,2,ngram,0.000,False,False
+no está,19,2,ngram,0.000,False,False
+no se,17,2,ngram,0.000,False,False
+no la,9,2,ngram,0.000,False,False
+en el,7,2,ngram,0.000,False,False
+por la,6,2,ngram,0.000,False,False
+en la,6,2,ngram,0.000,False,False
+no es tan,6,3,ngram,0.000,False,False
+por el,5,2,ngram,0.000,False,False
+está muy,5,2,ngram,0.000,False,False
+no me lo,5,3,ngram,0.000,False,False
+no eres,4,2,ngram,0.000,False,False
+en ello.,4,2,ngram,0.000,False,False
+"sí, sí,",4,2,ngram,0.000,False,False
+con ella.,4,2,ngram,0.000,False,False
+no es lo,4,3,ngram,0.000,False,False
+no te preocupes por,4,4,ngram,0.000,False,False
+no tenía,3,2,ngram,0.000,False,False
+no está.,3,2,ngram,0.000,False,False
+es ella.,3,2,ngram,0.000,False,False
+no será,3,2,ngram,0.000,False,False
+está el,3,2,ngram,0.000,False,False
+no es la,3,3,ngram,0.000,False,False
+no es un,3,3,ngram,0.000,False,False
+no es lo que,3,4,ngram,0.000,False,False
+es uno,0,2,noun_phrase,0.000,False,False
+no es el momento,0,4,noun_phrase,0.000,False,False
+no es una broma,0,4,noun_phrase,0.000,False,False
+no es de tu incumbencia,0,5,noun_phrase,0.000,False,False
+no es su culpa,0,4,noun_phrase,0.000,False,False
+no es por eso,0,4,noun_phrase,0.000,False,False
+no es mi culpa,0,4,noun_phrase,0.000,False,False
+no es mi problema,0,4,noun_phrase,0.000,False,False
+no es lo mismo,0,4,noun_phrase,0.000,False,False
+no es tu culpa,0,4,noun_phrase,0.000,False,False
+no es un problema,0,4,noun_phrase,0.000,False,False
+son ellos,0,2,noun_phrase,0.000,False,False
+es ella,0,2,noun_phrase,0.000,False,False
