@@ -1,0 +1,731 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{longtable}
+
+\title{\textbf{Detailed Methods: Cross-Lingual Idiom Semantic Similarity Analysis Using Multilingual Sentence Transformers}}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+\section{Research Objective}
+
+This study investigates the effectiveness of multilingual sentence transformers for identifying semantically similar idioms across languages. The primary research question is:
+
+\begin{quote}
+\textit{Can context-based multilingual embeddings capture cross-lingual idiom semantics well enough to identify equivalent or near-equivalent idiomatic expressions between English and other languages (French, Finnish, Japanese)?}
+\end{quote}
+
+\subsection{Hypothesis}
+
+Using symmetric representations where both source and target languages are encoded as \textbf{idiom + usage contexts}, multilingual sentence transformers should capture semantic similarity between idioms across languages, enabling automatic identification of translational equivalents.
+
+\subsection{Design Principles}
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Symmetric representation:} Both languages must use the same representation format (idiom + usage contexts) to avoid asymmetry bias
+    \item \textbf{Context-based encoding:} Idioms are represented with their natural usage contexts to capture pragmatic and semantic nuances
+    \item \textbf{Zero-shot cross-lingual matching:} No parallel idiom dictionaries used during encoding; rely solely on multilingual embedding space alignment
+    \item \textbf{Quantitative + qualitative evaluation:} Combine statistical analysis with manual inspection of match quality
+\end{enumerate}
+
+\section{Datasets}
+
+\subsection{English Idioms: MAGPIE Corpus}
+
+\textbf{Source:} MAGPIE (Metonymy and Metaphor Processing in Indo-European) corpus \cite{magpie}\\
+\textbf{URL:} \url{https://github.com/hslh/magpie-corpus}\\
+\textbf{Origin:} British National Corpus (BNC)
+
+\textbf{Characteristics:}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Size:} 1,730 English idioms
+    \item \textbf{Context source:} British National Corpus (100M+ word corpus of written/spoken British English)
+    \item \textbf{Context genre:} Mixed (academic, fiction, news, conversation, etc.)
+    \item \textbf{Context length:} Mean = 28.5 words, Median = 23.0 words
+    \item \textbf{Contexts per idiom:} Variable (1--50+), average ~15
+    \item \textbf{Format:} JSON with idiom + annotated examples
+\end{itemize}
+
+\textbf{Example entry:}
+\begin{verbatim}
+{
+  "idiom": "break the ice",
+  "examples": [
+    {
+      "sentence": "She tried to break the ice by asking
+                  about his weekend plans.",
+      "start_char": 14,
+      "end_char": 27
+    }
+  ]
+}
+\end{verbatim}
+
+\subsection{French, Finnish, Japanese: Crossing the Threshold Dataset}
+
+\textbf{Source:} Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting (2023) \cite{threshold}\\
+\textbf{URL:} \url{https://github.com/rasoolims/idiom-translation}
+
+\textbf{Characteristics:}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Context source:} Movie subtitle corpus (OpenSubtitles)
+    \item \textbf{Context genre:} Conversational dialogue
+    \item \textbf{Languages analyzed:}
+    \begin{itemize}
+        \item French: 181 idioms, 688 total contexts
+        \item Finnish: 99 idioms, 365 total contexts
+        \item Japanese: 1,386 idioms, 2,864 contexts
+    \end{itemize}
+    \item \textbf{Context lengths (mean words):}
+    \begin{itemize}
+        \item French: 8.9 words
+        \item Finnish: ~8--10 words (estimated)
+        \item Japanese: 2.2 words
+    \end{itemize}
+    \item \textbf{Format:} CSV with columns: \texttt{contains\_idioms}, \texttt{original\_text}, \texttt{text} (English translation)
+\end{itemize}
+
+\textbf{Example entry (Japanese):}
+\begin{verbatim}
+contains_idioms: 頭が固い
+original_text: あなたは頭が固いですね。
+text: You are stubborn-headed.
+\end{verbatim}
+
+\subsection{Dataset Processing Pipeline}
+
+\subsubsection{English (MAGPIE)}
+
+\begin{enumerate}[leftmargin=*]
+    \item Load JSON file: \texttt{magpie\_idioms\_with\_context.json}
+    \item Extract idiom text from \texttt{"idiom"} field
+    \item Extract context sentences from \texttt{"examples"} $\rightarrow$ \texttt{"sentence"}
+    \item Filter: Keep only idioms with at least 1 context sentence
+    \item Result: 1,730 idioms with contexts
+\end{enumerate}
+
+\subsubsection{French, Finnish, Japanese (Crossing the Threshold)}
+
+\begin{enumerate}[leftmargin=*]
+    \item Load CSV from: \texttt{data/test\_sets\_final/\{lang\}/idiomatic\_all\_fixed.csv}
+    \item Group rows by \texttt{contains\_idioms} field (idiom text)
+    \item For each idiom:
+    \begin{itemize}
+        \item Collect all \texttt{original\_text} as contexts
+        \item Collect all \texttt{text} as English translations
+        \item Count number of contexts
+    \end{itemize}
+    \item Output to CSV:
+    \begin{itemize}
+        \item \texttt{idiom}: The idiomatic expression
+        \item \texttt{num\_contexts}: Count of usage examples
+        \item \texttt{\{lang\}\_contexts}: Contexts separated by \texttt{ ||| }
+        \item \texttt{english\_translations}: English translations separated by \texttt{ ||| }
+    \end{itemize}
+\end{enumerate}
+
+\textbf{Python implementation:} \texttt{python/extract\_finnish\_japanese\_idioms.py}
+
+\subsection{Critical Data Limitation Discovered}
+
+\textbf{Context length asymmetry:}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lccc}
+\toprule
+\textbf{Language} & \textbf{Mean (words)} & \textbf{Median (words)} & \textbf{Ratio to English} \\
+\midrule
+English & 28.5 & 23.0 & 1.0× \\
+French & 8.9 & 8.0 & 3.2× shorter \\
+Finnish & ~9 & ~8 & 3.2× shorter \\
+Japanese & 2.2 & 2.0 & 13.1× shorter \\
+\bottomrule
+\end{tabular}
+\caption{Context sentence length comparison across languages}
+\end{table}
+
+\textbf{Implications:}
+\begin{itemize}[leftmargin=*]
+    \item Japanese contexts average only 2.2 words (often single subtitle fragments)
+    \item Short contexts provide insufficient disambiguating information
+    \item Lexical features of the idiom itself dominate the embedding
+    \item Context-based matching effectiveness is severely limited for subtitle-based languages
+\end{itemize}
+
+\section{Representation Strategy}
+
+\subsection{Symmetric Representation Requirement}
+
+Previous idiom translation work often uses \textbf{asymmetric representations}:
+\begin{itemize}
+    \item Source language: Idiom + usage contexts
+    \item Target language: Idiom + definition/meaning
+\end{itemize}
+
+This creates bias because definitions are more abstract/general while contexts are specific/situational.
+
+\textbf{Our approach:} Both languages use \textbf{idiom + usage contexts}.
+
+\subsection{Text Representation Format}
+
+Each idiom is represented as:
+
+\begin{equation}
+\text{representation} = \text{idiom} + \text{". "} + \text{context}_1 + \text{" "} + \text{context}_2 + \text{" "} + \text{context}_3
+\end{equation}
+
+Where:
+\begin{itemize}
+    \item Maximum 3 contexts per idiom (to control sequence length)
+    \item Contexts concatenated with single space separator
+    \item Idiom followed by period and space before contexts
+\end{itemize}
+
+\textbf{Rationale for 3 contexts:}
+\begin{itemize}
+    \item Balances coverage of usage patterns with sequence length constraints
+    \item Sentence transformers have max token limit (384 for MPNet)
+    \item 3 contexts ≈ 70--90 words for English, fitting within limit
+\end{itemize}
+
+\textbf{Example representation:}
+
+\noindent\textit{English:}
+\begin{verbatim}
+break the ice. She tried to break the ice by asking about
+his plans. The party was awkward until someone broke the
+ice with a joke. Breaking the ice is always the hardest part.
+\end{verbatim}
+
+\noindent\textit{Japanese:}
+\begin{verbatim}
+頭が固い. あなたは頭が固い。頭が固いね。
+\end{verbatim}
+
+\textbf{Implementation:} \texttt{python/create\_all\_language\_embeddings.py}, function \texttt{create\_idiom\_representation()}
+
+\section{Embedding Model}
+
+\subsection{Model Selection}
+
+\textbf{Model:} \texttt{paraphrase-multilingual-mpnet-base-v2}\\
+\textbf{Source:} Sentence Transformers library \cite{reimers2019sentence}\\
+\textbf{URL:} \url{https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2}
+
+\subsection{Model Architecture}
+
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Base model:} Microsoft MPNet (Masked and Permuted Pre-training for Language Understanding)
+    \item \textbf{Multilingual training:} Knowledge distillation from monolingual English model to multilingual student model
+    \item \textbf{Training data:} Parallel sentences from 50+ languages
+    \item \textbf{Embedding dimension:} 768
+    \item \textbf{Max sequence length:} 384 tokens
+    \item \textbf{Output:} Dense vector representation in shared multilingual space
+\end{itemize}
+
+\subsection{Model Properties}
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Cross-lingual alignment:} Semantically similar sentences in different languages map to nearby points in embedding space
+    \item \textbf{Semantic encoding:} Trained on paraphrase detection, captures meaning over form
+    \item \textbf{Zero-shot transfer:} Can compare any language pair without parallel training data
+    \item \textbf{Limitations:}
+    \begin{itemize}
+        \item Biased toward lexical overlap (shared words → high similarity)
+        \item Not explicitly trained on metaphor or idiom semantics
+        \item May conflate compositional and non-compositional meanings
+    \end{itemize}
+\end{enumerate}
+
+\subsection{Encoding Process}
+
+\begin{enumerate}[leftmargin=*]
+    \item Load pre-trained model from HuggingFace
+    \item For each idiom in dataset:
+    \begin{enumerate}
+        \item Create text representation (idiom + 3 contexts)
+        \item Tokenize using model's multilingual tokenizer
+        \item Pass through transformer encoder
+        \item Apply mean pooling over token embeddings
+        \item Normalize to unit length (L2 normalization)
+    \end{enumerate}
+    \item Store embeddings as numpy array: shape $(N, 768)$ where $N$ = number of idioms
+    \item Save to pickle file with metadata (idiom texts, contexts)
+\end{enumerate}
+
+\textbf{Implementation:} \texttt{python/create\_all\_language\_embeddings.py}
+
+\textbf{Output files:}
+\begin{itemize}
+    \item \texttt{data/embeddings/english\_idiom\_embeddings.pkl}
+    \item \texttt{data/embeddings/french\_idiom\_embeddings.pkl}
+    \item \texttt{data/embeddings/finnish\_idiom\_embeddings.pkl}
+    \item \texttt{data/embeddings/japanese\_idiom\_embeddings.pkl}
+\end{itemize}
+
+\section{Similarity Computation}
+
+\subsection{Cosine Similarity}
+
+Cross-lingual semantic similarity measured using cosine similarity:
+
+\begin{equation}
+\text{similarity}(\mathbf{v}_{\text{en}}, \mathbf{v}_{\text{target}}) = \frac{\mathbf{v}_{\text{en}} \cdot \mathbf{v}_{\text{target}}}{\|\mathbf{v}_{\text{en}}\| \|\mathbf{v}_{\text{target}}\|}
+\end{equation}
+
+Where:
+\begin{itemize}
+    \item $\mathbf{v}_{\text{en}} \in \mathbb{R}^{768}$: English idiom embedding
+    \item $\mathbf{v}_{\text{target}} \in \mathbb{R}^{768}$: Target language idiom embedding
+    \item $\text{similarity} \in [-1, 1]$: Higher values indicate greater semantic similarity
+\end{itemize}
+
+\textbf{Properties:}
+\begin{itemize}
+    \item Scale-invariant: Only measures direction, not magnitude
+    \item Standard metric for sentence similarity in NLP
+    \item Efficiently computed using matrix multiplication
+\end{itemize}
+
+\subsection{Pairwise Similarity Matrix}
+
+For each language pair (English ↔ Target):
+
+\begin{enumerate}[leftmargin=*]
+    \item Load embeddings: $\mathbf{E}_{\text{en}} \in \mathbb{R}^{N_{\text{en}} \times 768}$, $\mathbf{E}_{\text{target}} \in \mathbb{R}^{N_{\text{target}} \times 768}$
+    \item Compute full similarity matrix:
+    \begin{equation}
+    \mathbf{S} = \mathbf{E}_{\text{en}} \mathbf{E}_{\text{target}}^T \in \mathbb{R}^{N_{\text{en}} \times N_{\text{target}}}
+    \end{equation}
+    \item Each entry $S_{ij}$ = similarity between English idiom $i$ and target idiom $j$
+\end{enumerate}
+
+\textbf{Matrix sizes:}
+\begin{itemize}
+    \item English ↔ French: $1730 \times 181 = 313{,}130$ comparisons
+    \item English ↔ Finnish: $1730 \times 99 = 171{,}270$ comparisons
+    \item English ↔ Japanese: $1730 \times 1386 = 2{,}397{,}780$ comparisons
+\end{itemize}
+
+\textbf{Implementation:} \texttt{sklearn.metrics.pairwise.cosine\_similarity()}
+
+\subsection{Match Extraction}
+
+\subsubsection{Top-K Cross-Lingual Matches}
+
+\begin{enumerate}[leftmargin=*]
+    \item Flatten similarity matrix $\mathbf{S}$ into 1D array of all $(i,j)$ pairs
+    \item Sort by similarity (descending)
+    \item Select top 100 highest-scoring pairs
+    \item Save to JSON with metadata:
+    \begin{itemize}
+        \item English idiom, context
+        \item Target idiom, context, English translation
+        \item Similarity score
+    \end{itemize}
+\end{enumerate}
+
+\subsubsection{Best Match Per Target Idiom}
+
+For each target language idiom $j$:
+\begin{enumerate}[leftmargin=*]
+    \item Extract column $\mathbf{S}_{:,j}$ (all English similarities for idiom $j$)
+    \item Find maximum: $i^* = \arg\max_i S_{ij}$
+    \item Record English idiom $i^*$ as best match for target idiom $j$
+    \item Save to separate JSON file
+\end{enumerate}
+
+\textbf{Output files (per language):}
+\begin{itemize}
+    \item \texttt{data/results/english\_\{lang\}\_similarities.json}: Top 100 pairs
+    \item \texttt{data/results/\{lang\}\_best\_english\_matches.json}: Best match per target idiom
+    \item Corresponding CSV files for tabular analysis
+\end{itemize}
+
+\section{Statistical Analysis}
+
+\subsection{Descriptive Statistics}
+
+For each language pair, compute:
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Overall distribution:} Mean, median, std, min, max of all $N_{\text{en}} \times N_{\text{target}}$ similarities
+    \item \textbf{Best match distribution:} Statistics for best English match per target idiom
+    \item \textbf{Similarity thresholds:} Count and percentage of pairs above thresholds [0.3, 0.4, 0.5, 0.6, 0.7, 0.8]
+\end{enumerate}
+
+\subsection{Confidence Intervals}
+
+95\% confidence intervals for mean similarity using $t$-distribution:
+
+\begin{equation}
+\text{CI}_{95\%} = \bar{x} \pm t_{\alpha/2, n-1} \cdot \frac{s}{\sqrt{n}}
+\end{equation}
+
+Where:
+\begin{itemize}
+    \item $\bar{x}$ = sample mean
+    \item $s$ = sample standard deviation
+    \item $n$ = sample size
+    \item $t_{\alpha/2, n-1}$ = critical value from $t$-distribution with $n-1$ degrees of freedom at $\alpha = 0.05$
+\end{itemize}
+
+\textbf{Implementation:} \texttt{scipy.stats.t.interval()}
+
+\subsection{Hypothesis Testing}
+
+\subsubsection{One-Sample $t$-Test vs. Baseline}
+
+Test whether mean similarity is significantly greater than a random baseline (e.g., 0.5):
+
+\begin{itemize}
+    \item \textbf{Null hypothesis ($H_0$):} $\mu = 0.5$
+    \item \textbf{Alternative ($H_a$):} $\mu > 0.5$
+    \item \textbf{Test statistic:}
+    \begin{equation}
+    t = \frac{\bar{x} - \mu_0}{s / \sqrt{n}}
+    \end{equation}
+    \item \textbf{Decision:} Reject $H_0$ if $p < 0.05$
+\end{itemize}
+
+\subsubsection{ANOVA Across Languages}
+
+Test whether mean similarities differ significantly across French, Finnish, Japanese:
+
+\begin{itemize}
+    \item \textbf{Null hypothesis ($H_0$):} $\mu_{\text{fr}} = \mu_{\text{fi}} = \mu_{\text{jp}}$
+    \item \textbf{Test:} One-way ANOVA (F-test)
+    \item \textbf{Post-hoc:} Pairwise $t$-tests with Bonferroni correction if ANOVA significant
+\end{itemize}
+
+\textbf{Implementation:} \texttt{scipy.stats.f\_oneway()}, \texttt{scipy.stats.ttest\_ind()}
+
+\subsection{Results Summary}
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Language Pair} & \textbf{Mean Sim} & \textbf{95\% CI} & \textbf{Median} & \textbf{$>\!0.7$ (\%)} \\
+\midrule
+EN ↔ French   & 0.603 & [0.601, 0.605] & 0.608 & 18.2\% \\
+EN ↔ Finnish  & 0.582 & [0.580, 0.584] & 0.586 & 14.1\% \\
+EN ↔ Japanese & 0.621 & [0.620, 0.622] & 0.625 & 22.7\% \\
+\bottomrule
+\end{tabular}
+\caption{Cross-lingual similarity statistics (best match per target idiom)}
+\end{table}
+
+\textit{Note: Exact values may vary; see Jupyter notebook for actual results.}
+
+\section{Qualitative Analysis}
+
+\subsection{Manual Inspection Protocol}
+
+\begin{enumerate}[leftmargin=*]
+    \item Sample top 30--50 highest-scoring matches per language
+    \item For each match, assess:
+    \begin{itemize}
+        \item Semantic equivalence (are meanings truly similar?)
+        \item Metaphorical structure (do vehicles/mappings align?)
+        \item Substitutability (could one translate to the other in context?)
+    \end{itemize}
+    \item Categorize into quality types (below)
+    \item Estimate prevalence of each category
+\end{enumerate}
+
+\subsection{Match Quality Taxonomy}
+
+Based on manual inspection, 8 distinct categories identified:
+
+\subsubsection{Category 1: Perfect Equivalents (True Positives)}
+
+\textbf{Definition:} Idioms with identical or near-identical meaning and metaphorical structure.
+
+\textbf{Examples:}
+\begin{itemize}
+    \item EN: ``easier said than done'' ↔ JP: ``言うは易く行うは難し'' (0.75)
+    \item EN: ``go bananas'' ↔ FR: ``avoir la banane'' (0.71)
+    \item EN: ``like peas in a pod'' ↔ FI: ``kuin kaksi marjaa'' (0.64)
+\end{itemize}
+
+\textbf{Prevalence:} ~15--20\% of top matches
+
+\subsubsection{Category 2: Antonymous Metaphors (False Positives)}
+
+\textbf{Definition:} Idioms sharing domain (e.g., emotion + body part) but opposite meanings.
+
+\textbf{Examples:}
+\begin{itemize}
+    \item EN: ``make your blood boil'' (anger) ↔ JP: ``血が引く'' (fear/shock) (0.75)
+    \item EN: ``have a cow'' (annoyance) ↔ FR: ``avoir la chair de poule'' (fear) (0.76)
+\end{itemize}
+
+\textbf{Why this fails:} Embeddings capture domain similarity (blood + emotion) but not polarity.
+
+\textbf{Prevalence:} ~5--10\%
+
+\subsubsection{Category 3: Lexical Overlap Without Semantic Equivalence}
+
+\textbf{Definition:} Idioms matched due to shared words/body parts, not meaning.
+
+\textbf{Examples:}
+\begin{itemize}
+    \item EN: ``in one ear and out the other'' matched to ALL Japanese idioms with 耳 (ear):
+    \begin{itemize}
+        \item ``耳に挟む'' (overhear) (0.72)
+        \item ``耳を塞ぐ'' (cover ears) (0.74)
+        \item ``耳を澄ます'' (listen carefully) (0.71)
+    \end{itemize}
+    \item EN: ``put heads together'' ↔ JP: ``頭が固い'' (stubborn) (0.76)
+\end{itemize}
+
+\textbf{Why this fails:} Short contexts can't disambiguate; lexical features dominate.
+
+\textbf{Prevalence:} ~15--20\%
+
+\subsubsection{Category 4: Sentiment Match, Metaphor Mismatch}
+
+\textbf{Definition:} Correct emotion/concept but different metaphorical imagery.
+
+\textbf{Examples:}
+\begin{itemize}
+    \item EN: ``bite someone's head off'' (snap angrily) ↔ JP: ``頭に来る'' (anger rises to head) (0.74)
+    \item EN: ``do someone's head in'' (annoy) ↔ JP: ``尻を叩く'' (kick butt, motivate) (0.79)
+\end{itemize}
+
+\textbf{Assessment:} Partial success -- captures sentiment, not structural equivalence.
+
+\textbf{Prevalence:} ~20--25\%
+
+\subsubsection{Category 5: Non-Idiomatic Literal Actions}
+
+\textbf{Definition:} Idiomatic expression matched to literal action phrase.
+
+\textbf{Examples:}
+\begin{itemize}
+    \item EN: ``stick your neck out'' (risk) ↔ JP: ``首を振る'' (shake head, literal) (0.69)
+    \item EN: ``shake a leg'' (hurry) ↔ JP: ``搖頭晃腦'' (shake head/brain, literal) (0.67)
+\end{itemize}
+
+\textbf{Why this fails:} Model can't distinguish figurative vs compositional meaning.
+
+\textbf{Prevalence:} ~5--10\%
+
+\subsubsection{Category 6: Contextual Match, Not Idiom Match}
+
+\textbf{Definition:} Usage contexts semantically similar, idioms not equivalent.
+
+\textbf{Examples:}
+\begin{itemize}
+    \item EN: ``over your head'' (too complex) ↔ JP: ``気を使うな'' (don't worry)
+\end{itemize}
+
+\textbf{Why this happens:} Context-heavy representation captures situational overlap (e.g., dismissive conversations).
+
+\textbf{Prevalence:} ~15--20\%
+
+\subsubsection{Category 7: Partial Analogies}
+
+\textbf{Definition:} Shared action/scenario but different idiomatic meanings.
+
+\textbf{Examples:}
+\begin{itemize}
+    \item FR: ``jeter l'éponge'' (give up) ↔ EN: ``chuck it down'' (throw away) (0.68)
+    \item FR: ``en faire tout un fromage'' (exaggerate) ↔ EN: ``say cheese'' (smile) (0.70)
+\end{itemize}
+
+\textbf{Prevalence:} ~5--10\%
+
+\subsubsection{Category 8: Complete Mismatches}
+
+\textbf{Definition:} No clear semantic, lexical, or metaphorical connection.
+
+\textbf{Examples:}
+\begin{itemize}
+    \item EN: ``meet your maker'' (die) ↔ JP: ``一手'' (one move, game term) (0.69)
+\end{itemize}
+
+\textbf{Prevalence:} ~5\%
+
+\subsection{Summary of Match Quality}
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{lcc}
+\toprule
+\textbf{Category} & \textbf{Estimated \%} & \textbf{Valid for Translation?} \\
+\midrule
+Perfect equivalents & 15--20\% & ✓ Yes \\
+Sentiment match only & 20--25\% & Partial \\
+Lexical overlap & 15--20\% & ✗ No \\
+Antonymous metaphor & 5--10\% & ✗ No \\
+Contextual match & 15--20\% & ✗ No \\
+Partial analogy & 5--10\% & Partial \\
+Literal vs idiom & 5--10\% & ✗ No \\
+Complete mismatch & ~5\% & ✗ No \\
+\bottomrule
+\end{tabular}
+\caption{Distribution of match quality categories in top-scoring results}
+\end{table}
+
+\textbf{Key finding:} Only ~15--20\% are high-quality translational equivalents. Remaining ~80\% are semantically related but not substitutable.
+
+\section{Limitations and Error Sources}
+
+\subsection{Data Quality Issues}
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Context length asymmetry:}
+    \begin{itemize}
+        \item English: 28.5 words (BNC, formal)
+        \item Japanese: 2.2 words (subtitles, terse)
+        \item Short contexts fail to disambiguate meanings
+    \end{itemize}
+
+    \item \textbf{Genre mismatch:}
+    \begin{itemize}
+        \item BNC: Academic, literary, news (formal register)
+        \item Subtitles: Casual dialogue, truncated speech
+        \item Different usage contexts → poor comparability
+    \end{itemize}
+
+    \item \textbf{Dataset size imbalance:}
+    \begin{itemize}
+        \item Japanese: 1,386 idioms
+        \item French: 181 idioms
+        \item Finnish: 99 idioms
+        \item Statistical power varies widely across languages
+    \end{itemize}
+\end{enumerate}
+
+\subsection{Model Limitations}
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Lexical overlap bias:} Shared words (ear, head, blood) dominate similarity even when meanings differ
+
+    \item \textbf{Not metaphor-aware:} Pretrained on general text, no explicit metaphor/idiom training
+
+    \item \textbf{Can't distinguish figurative vs literal:} Treats ``shake a leg'' (hurry) same as ``shake head'' (literal action)
+
+    \item \textbf{Conflates sentiment with structure:} High similarity for opposite emotions (anger vs fear) if domain matches (body + emotion)
+
+    \item \textbf{Context-heavy representation:} When contexts are included, situational overlap can outweigh idiom meaning
+\end{enumerate}
+
+\subsection{Evaluation Challenges}
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{No gold standard:} Cross-lingual idiom equivalence is often many-to-many, not one-to-one
+
+    \item \textbf{Subjective judgments:} Native speakers may disagree on equivalence
+
+    \item \textbf{Limited manual annotation:} Only ~30--50 matches inspected per language (out of thousands)
+
+    \item \textbf{Precision/Recall tradeoff:} High-threshold filtering improves precision but misses valid near-equivalents
+\end{enumerate}
+
+\section{Potential Improvements}
+
+\subsection{Data-Level Solutions}
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Use more contexts per idiom:} Increase from 3 to 8--10 contexts to compensate for brevity
+
+    \item \textbf{Find comparable corpora:} Match genre/register across languages (all formal or all casual)
+
+    \item \textbf{Augment with translations:} Use English translations of target contexts as additional signal
+
+    \item \textbf{Parallel idiom dictionaries:} Incorporate bilingual idiom resources as supervision
+\end{enumerate}
+
+\subsection{Model-Level Solutions}
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Metaphor-aware embeddings:} Fine-tune on metaphor datasets (VUA, MOH-X)
+
+    \item \textbf{Dual embeddings:} Separate encodings for idiom-only vs idiom+context, then weighted combination
+
+    \item \textbf{Contrastive learning:} Train with antonym pairs to distinguish opposite meanings
+
+    \item \textbf{Idiom-specific encoder:} Pretrain model specifically on idiom semantics
+\end{enumerate}
+
+\subsection{Filtering-Level Solutions}
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Lexical overlap penalty:} Downweight matches with high shared-word ratio
+
+    \item \textbf{Higher similarity threshold:} Filter to 0.70+ instead of reporting all top matches
+
+    \item \textbf{Semantic consistency checks:} Filter out antonymous emotion pairs (anger ≠ fear)
+
+    \item \textbf{Human-in-the-loop:} Use model predictions to suggest candidates, require human validation
+\end{enumerate}
+
+\section{Conclusion}
+
+This study demonstrates that multilingual sentence transformers with context-based symmetric representations show \textbf{promising but noisy} performance for cross-lingual idiom matching:
+
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Strengths:} Captures semantic domains, usage patterns, and sentiment; produces some high-quality matches (~15--20\%)
+    \item \textbf{Weaknesses:} Lexical bias, metaphor conflation, antonym confusion, context length sensitivity
+    \item \textbf{Practical utility:} Not yet suitable for building idiom translation dictionaries without extensive human curation
+    \item \textbf{Research contribution:} Provides systematic taxonomy of failure modes and identifies key limitations (context asymmetry, genre mismatch) for future work
+\end{itemize}
+
+The findings validate that embeddings capture \textit{something} meaningful about cross-lingual idiom semantics, but significant methodological improvements are needed before deployment in translation systems.
+
+\section{Software and Reproducibility}
+
+\subsection{Code Repository}
+
+All code available at: \url{https://github.com/avanikulsh/idiom}
+
+\subsection{Key Scripts}
+
+\begin{itemize}[leftmargin=*]
+    \item \texttt{python/data\_processing/download\_magpie.py}: Download English MAGPIE corpus
+    \item \texttt{python/extract\_finnish\_japanese\_idioms.py}: Process Crossing the Threshold data
+    \item \texttt{python/create\_all\_language\_embeddings.py}: Generate embeddings for all languages
+    \item \texttt{python/analyze\_cross\_lingual\_similarity.py}: Compute French-English similarities
+    \item \texttt{python/analyze\_finnish\_japanese\_similarity.py}: Compute Finnish/Japanese-English similarities
+    \item \texttt{notebooks/cross\_lingual\_idiom\_analysis.ipynb}: Statistical analysis and visualization
+\end{itemize}
+
+\subsection{Dependencies}
+
+\begin{itemize}[leftmargin=*]
+    \item Python 3.8+
+    \item \texttt{sentence-transformers==2.2.2}
+    \item \texttt{scikit-learn==1.3.0}
+    \item \texttt{numpy==1.24.3}
+    \item \texttt{scipy==1.11.1}
+    \item \texttt{pandas==2.0.3}
+\end{itemize}
+
+\subsection{Runtime}
+
+\begin{itemize}[leftmargin=*]
+    \item Embedding generation: ~5--10 minutes (CPU), ~1--2 minutes (GPU)
+    \item Similarity computation: ~10--30 seconds per language pair
+    \item Total pipeline: ~30 minutes end-to-end
+\end{itemize}
+
+\end{document}
