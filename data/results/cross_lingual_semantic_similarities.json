@@ -1,0 +1,802 @@
+[
+  {
+    "english_idiom": "have a cow",
+    "english_context": "Do n't have a cow , man !",
+    "french_idiom": "avoir le chair de poule,ah le vache",
+    "french_context": "Ah la vache, j'en ai la chair de poule.",
+    "french_english_translation": "Oh my God I got goose bumps.",
+    "similarity": 0.7605760097503662
+  },
+  {
+    "english_idiom": "two heads are better than one",
+    "english_context": "Two heads are better than one . '",
+    "french_idiom": "un sien valoir mieux que deux il le avoir",
+    "french_context": "Un tien vaut mieux que deux tu l'auras.",
+    "french_english_translation": "Well, no time like the present.",
+    "similarity": 0.719314694404602
+  },
+  {
+    "english_idiom": "have a cow",
+    "english_context": "Do n't have a cow , man !",
+    "french_idiom": "ah le vache",
+    "french_context": "Salut. Ah la vache, ils sont costauds, ceux-là.",
+    "french_english_translation": "Oh my God, who's winning so far?",
+    "similarity": 0.7105282545089722
+  },
+  {
+    "english_idiom": "do someone's head in",
+    "english_context": "Do n't think , I ca n't remember , you 're doing my head in tramp , fuck off !",
+    "french_idiom": "faire le tête",
+    "french_context": "Combien de temps vas-tu encore me faire la tête ?",
+    "french_english_translation": "All right, how long are you gonna stay mad at me?",
+    "similarity": 0.7088173031806946
+  },
+  {
+    "english_idiom": "go bananas",
+    "english_context": "I went bananas .",
+    "french_idiom": "avoir le banane",
+    "french_context": "j'aurai la banane.",
+    "french_english_translation": "I'll go bananas.",
+    "similarity": 0.7074964046478271
+  },
+  {
+    "english_idiom": "over your head",
+    "english_context": "Talk over your head Joanne , you usually do !",
+    "french_idiom": "prendre le tête,être en train de",
+    "french_context": "Tu es en train de te prendre la tête.",
+    "french_english_translation": "You're psyching yourself out.",
+    "similarity": 0.6978330612182617
+  },
+  {
+    "english_idiom": "chuck it down",
+    "english_context": "‘ Why do n't yer chuck it down in the dustbin?’ he suggested .",
+    "french_idiom": "jeter le éponge",
+    "french_context": "On devrait jeter l'éponge. Quoi ?",
+    "french_english_translation": "I think we should give up.",
+    "similarity": 0.6961154937744141
+  },
+  {
+    "english_idiom": "say cheese",
+    "english_context": "there more or less , say ‘ cheese’ in their mitres , copes and",
+    "french_idiom": "en faire tout un fromage",
+    "french_context": "Pourquoi t'en fais tout un fromage ?",
+    "french_english_translation": "Why are you making such a big fuss over it?",
+    "similarity": 0.6956672668457031
+  },
+  {
+    "english_idiom": "go west",
+    "english_context": "With the general collapse of time , and the mad rush to Get Things Done , practices like loitering in nice little delicatessens and antique shops and little designer clothing establishments and framed print emporia , have gone west .",
+    "french_idiom": "être à le ouest",
+    "french_context": "T'es à l'ouest.",
+    "french_english_translation": "You're way off track.",
+    "similarity": 0.6933606863021851
+  },
+  {
+    "english_idiom": "drink like a fish",
+    "english_context": "‘ Oh , lovely!’ said her hostess who showed every indication of drinking like a fish , grabbing the wine .",
+    "french_idiom": "boire comme un trou",
+    "french_context": "Elle a commencé à boire comme un trou.",
+    "french_english_translation": "She started a drinking binge.",
+    "similarity": 0.6878684759140015
+  },
+  {
+    "english_idiom": "keep your eyes peeled",
+    "english_context": "If you are interested , keep your eyes peeled for nomination lists to that effect .",
+    "french_idiom": "tenir à le courant,jeter un coup de oeil",
+    "french_context": "On jette un coup d'oeil et on te tient au courant.",
+    "french_english_translation": "We'll take a look and get back to you.",
+    "similarity": 0.6807448863983154
+  },
+  {
+    "english_idiom": "have kittens",
+    "english_context": "I was having kittens .",
+    "french_idiom": "avoir un chat dans le gorge",
+    "french_context": "J'ai dû avoir un chat dans la gorge.",
+    "french_english_translation": "Must've been a frog in my throat.",
+    "similarity": 0.6768313050270081
+  },
+  {
+    "english_idiom": "watch your back",
+    "english_context": "Standing behind — or Watch your backs Agree on a signal to indicate \" Freeze \" .",
+    "french_idiom": "tenir à le courant,jeter un coup de oeil",
+    "french_context": "On jette un coup d'oeil et on te tient au courant.",
+    "french_english_translation": "We'll take a look and get back to you.",
+    "similarity": 0.6702383756637573
+  },
+  {
+    "english_idiom": "wake up and smell the coffee",
+    "english_context": "Wake up and smell the coffee , guys .",
+    "french_idiom": "être en train de,boire un coup",
+    "french_context": "- On devrait être en train de boire un coup.",
+    "french_english_translation": "- Yeah, we should be at the bar by now.",
+    "similarity": 0.6683833599090576
+  },
+  {
+    "english_idiom": "meet your maker",
+    "english_context": "The one down his front said , \" ARE you READY TO MEET YOUR MAKER ? ? \"",
+    "french_idiom": "un coup de main",
+    "french_context": "- Besoin d'un coup de main ?",
+    "french_english_translation": "Need a hand? Nah.",
+    "similarity": 0.6668606996536255
+  },
+  {
+    "english_idiom": "have a tiger by the tail",
+    "english_context": "‘ And if you push me down again,’ she warned quietly , ‘ you might very well find that you have a tiger by the tail .",
+    "french_idiom": "faire gaffe",
+    "french_context": "Fais gaffe Lindsey, surveille-les bien.",
+    "french_english_translation": "Watch them, Lindsey. Keep an eye on 'em.",
+    "similarity": 0.6608141660690308
+  },
+  {
+    "english_idiom": "one of those things",
+    "english_context": "But Gosney admitted : ‘ It was a 50 - 50 ball and one of those things that happens .",
+    "french_idiom": "être le dindon de le farce",
+    "french_context": "Non, mais on sera les dindons de la farce.",
+    "french_english_translation": "No, but we're farting on our own candle.",
+    "similarity": 0.6603865623474121
+  },
+  {
+    "english_idiom": "kill the fatted calf",
+    "english_context": "Kill the fatted calf ! '",
+    "french_idiom": "avoir le chair de poule,ah le vache",
+    "french_context": "Ah la vache, j'en ai la chair de poule.",
+    "french_english_translation": "Oh my God I got goose bumps.",
+    "similarity": 0.6592444181442261
+  },
+  {
+    "english_idiom": "have a bun in the oven",
+    "english_context": "Cause when you 've a bun in the oven ,",
+    "french_idiom": "avoir de le pain sur le planche",
+    "french_context": "J'ai du pain sur la planche...",
+    "french_english_translation": "I've got a lot on my plate and um...",
+    "similarity": 0.6540424823760986
+  },
+  {
+    "english_idiom": "in one ear and out the other",
+    "english_context": "‘ He listens to me about as much as he listened to his mother — in one ear and out the other.’",
+    "french_idiom": "faire le sourd oreille",
+    "french_context": "Je croyais pouvoir continuer à faire la sourde oreille.",
+    "french_english_translation": "I guess I thought I could just go on not caring.",
+    "similarity": 0.6532901525497437
+  },
+  {
+    "english_idiom": "shake a leg",
+    "english_context": "Come on , shake a leg , old son.’",
+    "french_idiom": "être en train de,boire un coup",
+    "french_context": "- On devrait être en train de boire un coup.",
+    "french_english_translation": "- Yeah, we should be at the bar by now.",
+    "similarity": 0.6508899927139282
+  },
+  {
+    "english_idiom": "have a tiger by the tail",
+    "english_context": "‘ And if you push me down again,’ she warned quietly , ‘ you might very well find that you have a tiger by the tail .",
+    "french_idiom": "poser un lapin",
+    "french_context": "Elle ne va plus jamais me reparler si je lui pose un lapin.",
+    "french_english_translation": "She's never gonna talk to me again after standing her up.",
+    "similarity": 0.6506587266921997
+  },
+  {
+    "english_idiom": "do someone's head in",
+    "english_context": "Do n't think , I ca n't remember , you 're doing my head in tramp , fuck off !",
+    "french_idiom": "tout cracher",
+    "french_context": "Tout craché, oui.",
+    "french_english_translation": "Basically.",
+    "similarity": 0.6503845453262329
+  },
+  {
+    "english_idiom": "hit the sack",
+    "english_context": "I suppose it came into my room for a few minutes to see a book I 'd been telling him about , then he left and I hit the sack .",
+    "french_idiom": "être en train de",
+    "french_context": "Il est en train de le faire, il défonce la porte.",
+    "french_english_translation": "He's doing it, he's breaking down the door.",
+    "similarity": 0.6494718790054321
+  },
+  {
+    "english_idiom": "have kittens",
+    "english_context": "I was having kittens .",
+    "french_idiom": "donner son langue à le chat",
+    "french_context": "Il a donné sa langue au chat.",
+    "french_english_translation": "Seems the cat got Watts's tongue.",
+    "similarity": 0.6494043469429016
+  },
+  {
+    "english_idiom": "a little bird told me",
+    "english_context": "A little bird tells me that Scottish & Newcastle 's private jet has been spotted in the neighbourhood of Pilsen .",
+    "french_idiom": "petit à petit , le oiseau faire son nid",
+    "french_context": "A l'aise :\"Petit à petit, l'oiseau fait son nid\"!",
+    "french_english_translation": "\"The early bird catches the worm.\" \"A stitch in time saves nine.\"",
+    "similarity": 0.6479581594467163
+  },
+  {
+    "english_idiom": "drunk as a lord",
+    "english_context": "Then turned up one morning drunk as a lord .",
+    "french_idiom": "boire comme un trou",
+    "french_context": "Elle a commencé à boire comme un trou.",
+    "french_english_translation": "She started a drinking binge.",
+    "similarity": 0.6477283239364624
+  },
+  {
+    "english_idiom": "do someone's head in",
+    "english_context": "Do n't think , I ca n't remember , you 're doing my head in tramp , fuck off !",
+    "french_idiom": "prendre le tête,être en train de",
+    "french_context": "Tu es en train de te prendre la tête.",
+    "french_english_translation": "You're psyching yourself out.",
+    "similarity": 0.6477116346359253
+  },
+  {
+    "english_idiom": "show someone the door",
+    "english_context": "They more or less show you the door .",
+    "french_idiom": "être en train de",
+    "french_context": "Il est en train de le faire, il défonce la porte.",
+    "french_english_translation": "He's doing it, he's breaking down the door.",
+    "similarity": 0.6466422080993652
+  },
+  {
+    "english_idiom": "get someone's goat",
+    "english_context": "It 's no porridge at breakfast that gets my goat .",
+    "french_idiom": "avoir le chair de poule,ah le vache",
+    "french_context": "Ah la vache, j'en ai la chair de poule.",
+    "french_english_translation": "Oh my God I got goose bumps.",
+    "similarity": 0.6456546783447266
+  },
+  {
+    "english_idiom": "get your hands dirty",
+    "english_context": "Armed with the Steamatic , there 's no need to get your hands dirty and the job is done in half the time .",
+    "french_idiom": "en avoir ras-le-bol",
+    "french_context": "J'en ai ras-le-bol. Pas vous ?",
+    "french_english_translation": "I'm sick and tired of this.",
+    "similarity": 0.6450582146644592
+  },
+  {
+    "english_idiom": "blow your top",
+    "english_context": "If you blow your top , they 'll nick you double quick.’",
+    "french_idiom": "tout cracher",
+    "french_context": "Tout craché, oui.",
+    "french_english_translation": "Basically.",
+    "similarity": 0.6447914838790894
+  },
+  {
+    "english_idiom": "bite someone's head off",
+    "english_context": "The silly idiot is going to shout some sort of stupid abuse at her and she 'll bite his head off !",
+    "french_idiom": "tout cracher",
+    "french_context": "Tout craché, oui.",
+    "french_english_translation": "Basically.",
+    "similarity": 0.6447080373764038
+  },
+  {
+    "english_idiom": "rest on your laurels",
+    "english_context": "And if I were you , I would n't bother resting on your very dusty laurels . '",
+    "french_idiom": "en avoir rien à cirer",
+    "french_context": "Et je n'en ai rien à cirer.",
+    "french_english_translation": "And I don't give a damn.",
+    "similarity": 0.6441630125045776
+  },
+  {
+    "english_idiom": "bugger all",
+    "english_context": "This is the first time I think we 've sat down and done bugger all for ages !",
+    "french_idiom": "en avoir marre,en avoir rien à foutrer",
+    "french_context": "Putain, j'en ai rien à foutre! J'en ai marre!",
+    "french_english_translation": "Fuck, I don't want to know, I've had enough!",
+    "similarity": 0.6431872248649597
+  },
+  {
+    "english_idiom": "come out of your shell",
+    "english_context": "But now you should come out of your shell .",
+    "french_idiom": "être crever,être en train de",
+    "french_context": "Tu es crevé. Tu es en train de guérir.",
+    "french_english_translation": "Uh, like...you're tired.",
+    "similarity": 0.6426591277122498
+  },
+  {
+    "english_idiom": "have kittens",
+    "english_context": "I was having kittens .",
+    "french_idiom": "avoir un autre chat à fouetter",
+    "french_context": "Et je n'ai pas eu l'occasion de t'en parler parce qu'on avait d'autres chats à fouetter.",
+    "french_english_translation": "And I didn't get a chance to tell you because we had bigger fish to fry.",
+    "similarity": 0.6392259001731873
+  },
+  {
+    "english_idiom": "bum steer",
+    "english_context": "And all he gets are these one - liner and bum steers and cheerful shrugs that may or may not be disingenuous .",
+    "french_idiom": "avoir le chair de poule,ah le vache",
+    "french_context": "Ah la vache, j'en ai la chair de poule.",
+    "french_english_translation": "Oh my God I got goose bumps.",
+    "similarity": 0.6384380459785461
+  },
+  {
+    "english_idiom": "shut the door on",
+    "english_context": "It is you , having shut the door on your fears which have hitherto ruled your life , who can open a new door .",
+    "french_idiom": "enfoncer un porte ouvrir",
+    "french_context": "Eh bien, au risque d'enfoncer une porte ouverte, c'est fini.",
+    "french_english_translation": "Well, at the risk of stating the obvious, it's over.",
+    "similarity": 0.6379317045211792
+  },
+  {
+    "english_idiom": "blow your top",
+    "english_context": "If you blow your top , they 'll nick you double quick.’",
+    "french_idiom": "sentir le sapin",
+    "french_context": "Ça sent le sapin, mec.",
+    "french_english_translation": "That sucks, dude.",
+    "similarity": 0.6366899013519287
+  },
+  {
+    "english_idiom": "keep your nose to the grindstone",
+    "english_context": "‘ I intend to keep your nose to the grindstone , Rob .",
+    "french_idiom": "tenir à le courant,jeter un coup de oeil",
+    "french_context": "On jette un coup d'oeil et on te tient au courant.",
+    "french_english_translation": "We'll take a look and get back to you.",
+    "similarity": 0.6365984678268433
+  },
+  {
+    "english_idiom": "go to your head",
+    "english_context": "Guitarist Simon Bartholomew from the soul - funk group , in the Top 30 with Do n't Let It Go To Your Head , says : ' We told the promoter no way could we perform .",
+    "french_idiom": "prendre le tête,être en train de",
+    "french_context": "Tu es en train de te prendre la tête.",
+    "french_english_translation": "You're psyching yourself out.",
+    "similarity": 0.6362192630767822
+  },
+  {
+    "english_idiom": "bugger all",
+    "english_context": "This is the first time I think we 've sat down and done bugger all for ages !",
+    "french_idiom": "en avoir marre,être en train de",
+    "french_context": "Nous sommes en train d'en avoir marre l'un de l'autre.",
+    "french_english_translation": "We're slowly getting sick of each other.",
+    "similarity": 0.6349931955337524
+  },
+  {
+    "english_idiom": "get up someone's nose",
+    "english_context": "That part of opponent 's century which gets up your nose ( 5 )",
+    "french_idiom": "avoir le cafard",
+    "french_context": "\"J'ai le cafard à cause de toi.",
+    "french_english_translation": "\"I've got the blues for you.",
+    "similarity": 0.6349079608917236
+  },
+  {
+    "english_idiom": "sure as eggs is eggs",
+    "english_context": "' Sure as eggs is eggs , ' she answered in her unashamedly yokel voice .",
+    "french_idiom": "aller se faire cuire un œuf",
+    "french_context": "Mais je suis d'accord avec l'idée de Gina \"D'aller se faire cuire un œuf.\"",
+    "french_english_translation": "But I'm going with Gina's \"suck an egg\" idea.",
+    "similarity": 0.6332912445068359
+  },
+  {
+    "english_idiom": "deaf as a post",
+    "english_context": "Well , she used to sort of keep shop for him , she was deaf as a post !",
+    "french_idiom": "faire le sourd oreille",
+    "french_context": "Je croyais pouvoir continuer à faire la sourde oreille.",
+    "french_english_translation": "I guess I thought I could just go on not caring.",
+    "similarity": 0.6325657367706299
+  },
+  {
+    "english_idiom": "twist someone's arm",
+    "english_context": "She will twist your poor rich senile arm to pay you out , because you have an airy house on the hill , and she goes home to a room in the damp and humid valley .",
+    "french_idiom": "jeter le éponge",
+    "french_context": "On devrait jeter l'éponge. Quoi ?",
+    "french_english_translation": "I think we should give up.",
+    "similarity": 0.6293284893035889
+  },
+  {
+    "english_idiom": "put the cat among the pigeons",
+    "english_context": "Remember that first Christmas when she put the cat among the pigeons by saying to me your husband told me that he ca n't really afford he 's flying because you spend all his money , when I , when I 've been backing him , saving money for his aeroplane and his lessons and",
+    "french_idiom": "donner son langue à le chat",
+    "french_context": "Il a donné sa langue au chat.",
+    "french_english_translation": "Seems the cat got Watts's tongue.",
+    "similarity": 0.6291951537132263
+  },
+  {
+    "english_idiom": "put the wind up",
+    "english_context": "It put the wind up me , to tell you the truth , so I 've just brought Hawkbit along and left it at that . \"",
+    "french_idiom": "il faire un froid de canard,un froid de canard",
+    "french_context": "Sapristi, il fait un froid de canard.",
+    "french_english_translation": "Oh, Jiminy. It sure turned cold.",
+    "similarity": 0.6280150413513184
+  },
+  {
+    "english_idiom": "bite off more than you can chew",
+    "english_context": "There 's always the danger of biting off more than you can chew .",
+    "french_idiom": "manger sur le pouce",
+    "french_context": "Je n'aime pas te voir manger sur le pouce.",
+    "french_english_translation": "When I see you eat like that, I...",
+    "similarity": 0.6264907121658325
+  },
+  {
+    "english_idiom": "kill the fatted calf",
+    "english_context": "Kill the fatted calf ! '",
+    "french_idiom": "ah le vache",
+    "french_context": "Salut. Ah la vache, ils sont costauds, ceux-là.",
+    "french_english_translation": "Oh my God, who's winning so far?",
+    "similarity": 0.6258801221847534
+  },
+  {
+    "english_idiom": "get someone's goat",
+    "english_context": "It 's no porridge at breakfast that gets my goat .",
+    "french_idiom": "ah le vache",
+    "french_context": "Salut. Ah la vache, ils sont costauds, ceux-là.",
+    "french_english_translation": "Oh my God, who's winning so far?",
+    "similarity": 0.6248506307601929
+  },
+  {
+    "english_idiom": "turn a trick",
+    "english_context": "Do you think I want to see my kids turning tricks for a smear of white powder ? '",
+    "french_idiom": "faire le andouille",
+    "french_context": "J'aimerais qu'ils arrêtent de faire les andouilles.",
+    "french_english_translation": "[groans] I wish these kids would stop acting up.",
+    "similarity": 0.6244381666183472
+  },
+  {
+    "english_idiom": "go up in smoke",
+    "english_context": "The result was all wrong … 6 - 2 on aggregate to Tranmere but there was a flicker of hope in the flames as United 's cup run went up in smoke …",
+    "french_idiom": "partir en fumée,être en train de",
+    "french_context": "C'était en train de partir en fumée.",
+    "french_english_translation": "McGEE: It was running on fumes.",
+    "similarity": 0.624414324760437
+  },
+  {
+    "english_idiom": "jump down someone's throat",
+    "english_context": "I was about to say , before you jumped down my throat , if your plans need altering in any way.’",
+    "french_idiom": "se jeter dans le gueule de le loup",
+    "french_context": "Va-t-on se jeter dans la gueule du loup ?",
+    "french_english_translation": "We'll be walking into a trap!",
+    "similarity": 0.6230546832084656
+  },
+  {
+    "english_idiom": "not on your life",
+    "english_context": "' Not on your life .",
+    "french_idiom": "en avoir rien à cirer",
+    "french_context": "Et je n'en ai rien à cirer.",
+    "french_english_translation": "And I don't give a damn.",
+    "similarity": 0.6227329969406128
+  },
+  {
+    "english_idiom": "keep your pecker up",
+    "english_context": "‘ Try and keep your peckers up!’",
+    "french_idiom": "petit à petit , le oiseau faire son nid",
+    "french_context": "A l'aise :\"Petit à petit, l'oiseau fait son nid\"!",
+    "french_english_translation": "\"The early bird catches the worm.\" \"A stitch in time saves nine.\"",
+    "similarity": 0.6222193241119385
+  },
+  {
+    "english_idiom": "leave someone in the lurch",
+    "english_context": "If the queen cat was satisfied from her seven matings with one tom , she would leave the other males in the lurch and make for home .",
+    "french_idiom": "donner son langue à le chat",
+    "french_context": "Il a donné sa langue au chat.",
+    "french_english_translation": "Seems the cat got Watts's tongue.",
+    "similarity": 0.6221195459365845
+  },
+  {
+    "english_idiom": "rattle someone's cage",
+    "english_context": "And by the way , if we only give you fifty percent we 'll allow you to rattle our cage , which is a bit of a cheek really , but we 'll allow it .",
+    "french_idiom": "ça marcher,un coup de main",
+    "french_context": "Ça marcherait peut-être mieux si tu donnais un coup de main.",
+    "french_english_translation": "It would be easier if you helped me.",
+    "similarity": 0.6218761205673218
+  },
+  {
+    "english_idiom": "let's be having you",
+    "english_context": "‘ Right , let 's be having you then,’ he said , and proceeded to lead his recruits — carryying everything from battered suitcases to brown paper parcels — through the streets of Edinburgh at the double , only to be sure that the locals did n't realise just how undisciplined this rabble really was .",
+    "french_idiom": "filer à le anglais",
+    "french_context": "22 personnes qui filent à l'anglaise, tu t'imagines ?",
+    "french_english_translation": "You don't want 22 people skipping all in one day, do you? - Of course not, but...",
+    "similarity": 0.6217788457870483
+  },
+  {
+    "english_idiom": "hold your tongue",
+    "english_context": "' Hold your tongue , woman !",
+    "french_idiom": "ne pas avoir son langue dans son poche",
+    "french_context": "Je suis censé les détester. Ne pas avoir ma langue dans ma poche.",
+    "french_english_translation": "I'm supposed to despise girls... not feel nervous talking to one.",
+    "similarity": 0.6216157674789429
+  },
+  {
+    "english_idiom": "hold your tongue",
+    "english_context": "' Hold your tongue , woman !",
+    "french_idiom": "être rouge comme un écrevisse",
+    "french_context": "Viens pas pleurer quand tu seras rouge comme une écrevisse.",
+    "french_english_translation": "Don't come crying to me when you're as red as a tomato.",
+    "similarity": 0.6213197708129883
+  },
+  {
+    "english_idiom": "like the clappers",
+    "english_context": "Well , you know , if , if they come like the bloody clappers there !",
+    "french_idiom": "faire gaffe",
+    "french_context": "Fais gaffe Lindsey, surveille-les bien.",
+    "french_english_translation": "Watch them, Lindsey. Keep an eye on 'em.",
+    "similarity": 0.6211032867431641
+  },
+  {
+    "english_idiom": "wake up and smell the coffee",
+    "english_context": "Wake up and smell the coffee , guys .",
+    "french_idiom": "sentir le sapin",
+    "french_context": "Ça sent le sapin, mec.",
+    "french_english_translation": "That sucks, dude.",
+    "similarity": 0.6208979487419128
+  },
+  {
+    "english_idiom": "right up your street",
+    "english_context": "‘ This will be right up your street,’ said Tabitha .",
+    "french_idiom": "aller droit à le but",
+    "french_context": "Et maintenant, une jeune femme qui va droit au but, ma sœur, Roberta Tubbs.",
+    "french_english_translation": "And now, a young lady who goes to third base faster than Rickey Henderson my sister, Roberta Tubbs.",
+    "similarity": 0.6207528114318848
+  },
+  {
+    "english_idiom": "for the hell of it",
+    "english_context": "Slanging matches with Craddock just for the hell of it .",
+    "french_idiom": "être le dindon de le farce",
+    "french_context": "Non, mais on sera les dindons de la farce.",
+    "french_english_translation": "No, but we're farting on our own candle.",
+    "similarity": 0.6198043823242188
+  },
+  {
+    "english_idiom": "hit the ceiling",
+    "english_context": "Why should you go clucking around them like a mother hen , just because they both hit the ceiling?’",
+    "french_idiom": "faire gaffe",
+    "french_context": "Fais gaffe Lindsey, surveille-les bien.",
+    "french_english_translation": "Watch them, Lindsey. Keep an eye on 'em.",
+    "similarity": 0.6195580959320068
+  },
+  {
+    "english_idiom": "go with the flow",
+    "english_context": "Enjoy the ride down , let the wind fly through your hair , go with the flow , and wait for the big crash .",
+    "french_idiom": "se noyer dans un verre de eau",
+    "french_context": "Parce que c'est pas ton idée, et Matt se noie dans un verre d'eau, donc ça doit être celle de Caroline.",
+    "french_english_translation": "Because it's not your idea, and Matt can't think his way out of a paper bag, so it must be Caroline's.",
+    "similarity": 0.6192495822906494
+  },
+  {
+    "english_idiom": "forty winks",
+    "english_context": "I could do with forty winks right now and Otley would never miss me .",
+    "french_idiom": "en avoir marre,en avoir rien à foutrer",
+    "french_context": "Putain, j'en ai rien à foutre! J'en ai marre!",
+    "french_english_translation": "Fuck, I don't want to know, I've had enough!",
+    "similarity": 0.6187405586242676
+  },
+  {
+    "english_idiom": "beat about the bush",
+    "english_context": "I mean , let 's not beat about the bush here .",
+    "french_idiom": "en avoir rien à cirer",
+    "french_context": "Et je n'en ai rien à cirer.",
+    "french_english_translation": "And I don't give a damn.",
+    "similarity": 0.618471622467041
+  },
+  {
+    "english_idiom": "get your hands dirty",
+    "english_context": "Armed with the Steamatic , there 's no need to get your hands dirty and the job is done in half the time .",
+    "french_idiom": "jeter le éponge",
+    "french_context": "On devrait jeter l'éponge. Quoi ?",
+    "french_english_translation": "I think we should give up.",
+    "similarity": 0.6181383728981018
+  },
+  {
+    "english_idiom": "you could have knocked me down with a feather",
+    "english_context": "' I 'm telling you , ' she said , ' when I heard that big clock in the hall striking the five , you could 've knocked me down with a feather !",
+    "french_idiom": "faire gaffe",
+    "french_context": "Fais gaffe Lindsey, surveille-les bien.",
+    "french_english_translation": "Watch them, Lindsey. Keep an eye on 'em.",
+    "similarity": 0.617745041847229
+  },
+  {
+    "english_idiom": "sell like hot cakes",
+    "english_context": "T - shirts and posters are selling like hot cakes , and books , stickers , videos and even a monthly magazine are on the way .",
+    "french_idiom": "se vendre comme un petit pain",
+    "french_context": "Ça se vend comme des petits pains sur Internet.",
+    "french_english_translation": "They're going crazy on the Internet.",
+    "similarity": 0.6174987554550171
+  },
+  {
+    "english_idiom": "blow your top",
+    "english_context": "If you blow your top , they 'll nick you double quick.’",
+    "french_idiom": "jeter le éponge",
+    "french_context": "On devrait jeter l'éponge. Quoi ?",
+    "french_english_translation": "I think we should give up.",
+    "similarity": 0.6174039840698242
+  },
+  {
+    "english_idiom": "blow your top",
+    "english_context": "If you blow your top , they 'll nick you double quick.’",
+    "french_idiom": "faire gaffe",
+    "french_context": "Fais gaffe Lindsey, surveille-les bien.",
+    "french_english_translation": "Watch them, Lindsey. Keep an eye on 'em.",
+    "similarity": 0.6173719763755798
+  },
+  {
+    "english_idiom": "throw a wobbly",
+    "english_context": "This girl this morning she threw a wobbly .",
+    "french_idiom": "jeter le éponge",
+    "french_context": "On devrait jeter l'éponge. Quoi ?",
+    "french_english_translation": "I think we should give up.",
+    "similarity": 0.6168887615203857
+  },
+  {
+    "english_idiom": "do someone proud",
+    "english_context": "‘ I enjoyed myself immensely and I hope I did myself proud.’",
+    "french_idiom": "avoir le cafard",
+    "french_context": "\"J'ai le cafard à cause de toi.",
+    "french_english_translation": "\"I've got the blues for you.",
+    "similarity": 0.6166069507598877
+  },
+  {
+    "english_idiom": "bite someone's head off",
+    "english_context": "The silly idiot is going to shout some sort of stupid abuse at her and she 'll bite his head off !",
+    "french_idiom": "péter un câble",
+    "french_context": "Elle a pété un câble.",
+    "french_english_translation": "She's kinda freakin' out.",
+    "similarity": 0.6162692308425903
+  },
+  {
+    "english_idiom": "roll up your sleeves",
+    "english_context": "Pat ~ Schroeder said that you ca n't wring your hands and roll up your sleeves at the same time .",
+    "french_idiom": "jeter le éponge",
+    "french_context": "On devrait jeter l'éponge. Quoi ?",
+    "french_english_translation": "I think we should give up.",
+    "similarity": 0.6162476539611816
+  },
+  {
+    "english_idiom": "rest on your laurels",
+    "english_context": "And if I were you , I would n't bother resting on your very dusty laurels . '",
+    "french_idiom": "avoir le gueule de bois",
+    "french_context": "Là, j'ai la gueule de bois.",
+    "french_english_translation": "Now I'm just hung-over.",
+    "similarity": 0.6162326335906982
+  },
+  {
+    "english_idiom": "I'll eat my hat",
+    "english_context": "Seriously , if Fairclough is n't man marking Shearer on Sunday I 'll eat my hat .",
+    "french_idiom": "prendre le tête",
+    "french_context": "Je sais qu'il est ici, et ça me prend la tête.",
+    "french_english_translation": "I know that he's over there right now and it's drilling a hole in my brain.",
+    "similarity": 0.6154204607009888
+  },
+  {
+    "english_idiom": "smell of the lamp",
+    "english_context": "It is said of some speeches that they smell of the lamp .",
+    "french_idiom": "sentir le sapin",
+    "french_context": "Ça sent le sapin, mec.",
+    "french_english_translation": "That sucks, dude.",
+    "similarity": 0.6146422624588013
+  },
+  {
+    "english_idiom": "game on",
+    "english_context": "Say , I 'm gon na have game on this anyway .",
+    "french_idiom": "aller droit à le but,en avoir marre",
+    "french_context": "J'en ai marre de jouer au chat et à la souris. J'ai Faith pour ça. Allons droit au but.",
+    "french_english_translation": "'Cause you know I'm here to take that call",
+    "similarity": 0.614609956741333
+  },
+  {
+    "english_idiom": "been there, done that",
+    "english_context": "Been there , seen this , done that ' but , after just one go , my opinion changed ( a little ! ) .",
+    "french_idiom": "coup de foudre",
+    "french_context": "J'ai eu un vrai coup de foudre.",
+    "french_english_translation": "It was love at first sight.",
+    "similarity": 0.6133990287780762
+  },
+  {
+    "english_idiom": "jump down someone's throat",
+    "english_context": "I was about to say , before you jumped down my throat , if your plans need altering in any way.’",
+    "french_idiom": "tomber dans le panneau",
+    "french_context": "Non, je ne vais pas tomber dans le panneau pour ça encore.",
+    "french_english_translation": "No, I'm not falling for that again.",
+    "similarity": 0.6129854917526245
+  },
+  {
+    "english_idiom": "pull a face",
+    "english_context": "As she heard me going on about the luncheon party she pulled a face .",
+    "french_idiom": "boire comme un trou",
+    "french_context": "Elle a commencé à boire comme un trou.",
+    "french_english_translation": "She started a drinking binge.",
+    "similarity": 0.6127392053604126
+  },
+  {
+    "english_idiom": "blow your top",
+    "english_context": "If you blow your top , they 'll nick you double quick.’",
+    "french_idiom": "en avoir ras-le-bol",
+    "french_context": "J'en ai ras-le-bol. Pas vous ?",
+    "french_english_translation": "I'm sick and tired of this.",
+    "similarity": 0.6125170588493347
+  },
+  {
+    "english_idiom": "knock someone's socks off",
+    "english_context": "It 's Lil , power - dressed to knock your socks off , with all eyes blazing .",
+    "french_idiom": "faire gaffe",
+    "french_context": "Fais gaffe Lindsey, surveille-les bien.",
+    "french_english_translation": "Watch them, Lindsey. Keep an eye on 'em.",
+    "similarity": 0.6123912334442139
+  },
+  {
+    "english_idiom": "hold your tongue",
+    "english_context": "' Hold your tongue , woman !",
+    "french_idiom": "avoir le cafard",
+    "french_context": "\"J'ai le cafard à cause de toi.",
+    "french_english_translation": "\"I've got the blues for you.",
+    "similarity": 0.6120840311050415
+  },
+  {
+    "english_idiom": "put the cat among the pigeons",
+    "english_context": "Remember that first Christmas when she put the cat among the pigeons by saying to me your husband told me that he ca n't really afford he 's flying because you spend all his money , when I , when I 've been backing him , saving money for his aeroplane and his lessons and",
+    "french_idiom": "il faire un froid de canard,un froid de canard",
+    "french_context": "Sapristi, il fait un froid de canard.",
+    "french_english_translation": "Oh, Jiminy. It sure turned cold.",
+    "similarity": 0.6117954254150391
+  },
+  {
+    "english_idiom": "blow your top",
+    "english_context": "If you blow your top , they 'll nick you double quick.’",
+    "french_idiom": "avoir le dalle",
+    "french_context": "Super, j'ai la dalle.",
+    "french_english_translation": "- Oh, good, 'cause I'm starving.",
+    "similarity": 0.6111809015274048
+  },
+  {
+    "english_idiom": "in two shakes",
+    "english_context": "‘ All better now , darling,— over in two shakes — come on , close your … ’",
+    "french_idiom": "avoir le cafard",
+    "french_context": "\"J'ai le cafard à cause de toi.",
+    "french_english_translation": "\"I've got the blues for you.",
+    "similarity": 0.6104191541671753
+  },
+  {
+    "english_idiom": "cloth ears",
+    "english_context": "‘ Go on , cloth ears , open it.’",
+    "french_idiom": "faire le sourd oreille",
+    "french_context": "Je croyais pouvoir continuer à faire la sourde oreille.",
+    "french_english_translation": "I guess I thought I could just go on not caring.",
+    "similarity": 0.6100215911865234
+  },
+  {
+    "english_idiom": "top banana",
+    "english_context": "Erm , great job , thanks a lot , unreal , nice one , topper , you 're a star , champion , thanks for doing that for me , and this one was a bit disputed , but we had top banana at the end .",
+    "french_idiom": "avoir le banane",
+    "french_context": "j'aurai la banane.",
+    "french_english_translation": "I'll go bananas.",
+    "similarity": 0.6096646189689636
+  },
+  {
+    "english_idiom": "off the top of your head",
+    "english_context": "‘ You 're saying that off the top of your head , Mr Glover .",
+    "french_idiom": "prendre son jambe à son cou",
+    "french_context": "Prenez vos jambes à votre cou.",
+    "french_english_translation": "By all means... run.",
+    "similarity": 0.6086044907569885
+  },
+  {
+    "english_idiom": "sail under false colours",
+    "english_context": "Still , he feels that the waiters know that he comes from Dearborn and they can see that in his cashmere tweed jacket he is sailing under false colours .",
+    "french_idiom": "mener quelqu'un en bateau",
+    "french_context": "- Une déposition, d'après lui. Je crois plutôt qu'il essaie de mener quelqu'un en bateau.",
+    "french_english_translation": "- He says it's a statement, but I think he's putting somebody on.",
+    "similarity": 0.6078695058822632
+  },
+  {
+    "english_idiom": "no smoke without fire",
+    "english_context": "No smoke without fire thought",
+    "french_idiom": "ne y voir que du feu",
+    "french_context": "\"Je coucherai avec lui mardi et jeudi et il n'y verra que du feu\".",
+    "french_english_translation": "I'll have sex with him Tuesday and Thursday and he'll be none the wiser.",
+    "similarity": 0.6066661477088928
+  },
+  {
+    "english_idiom": "do someone's head in",
+    "english_context": "Do n't think , I ca n't remember , you 're doing my head in tramp , fuck off !",
+    "french_idiom": "faire gaffe",
+    "french_context": "Fais gaffe Lindsey, surveille-les bien.",
+    "french_english_translation": "Watch them, Lindsey. Keep an eye on 'em.",
+    "similarity": 0.6066418886184692
+  },
+  {
+    "english_idiom": "watch your back",
+    "english_context": "Standing behind — or Watch your backs Agree on a signal to indicate \" Freeze \" .",
+    "french_idiom": "se jeter dans le gueule de le loup",
+    "french_context": "Va-t-on se jeter dans la gueule du loup ?",
+    "french_english_translation": "We'll be walking into a trap!",
+    "similarity": 0.606615424156189
+  },
+  {
+    "english_idiom": "put your heads together",
+    "english_context": "He will be less easy to understand if you literally put your heads together .",
+    "french_idiom": "en prendre de le graine",
+    "french_context": "Ce serait à lui de m'écouter, pour en prendre de la graine.",
+    "french_english_translation": "L... I don't have all the answers. But maybe he should listen to me more and learn a little.",
+    "similarity": 0.6065154671669006
+  }
+]
